@@ -1,0 +1,3506 @@
+text,api_response,keywords,t5-keywords
+"
+I first read and consulted rec.guns in the summer of 1991.  I
+just purchased my first firearm in early March of this year.","{
+  ""id"": ""cmpl-80GVp4388hUmZS893cuMyJtzZd6Mg"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nguns, firearm, consultation, 1991, March"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 49,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 59
+  }
+}","['guns, firearm, consultation, 1991, March']","Rec.guns, 1991, read, consulted, purchased"
+"
+
+Several years ago GM was having trouble with the rings sticking on the
+5.7 diesel.  They traced a cause to the use of 10W-40 oil.  They would
+not honor warranty work if 10W-40 was used (if my memory serves me).
+5-30, 10-30 or 20 50 was OK'd though.","{
+  ""id"": ""cmpl-80GVpKpHm9uZCXGO3hIUmR06hZ6fF"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nGM, Diesel, Rings, 10W-40, Warranty"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 93,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 106
+  }
+}","['GM, Diesel, Rings, 10W-40, Warranty']","GM, 5.7, diesel, 10W-40, warranty,"
+"
+   Great interview with Benjamin Netanyahu on CNN - Larry King Live (4/15/93)
+   This guy is knows what he is talking about. He is truely charismatic,
+   articulate, intelligent, and demonstrates real leadership qualities. 
+
+I agree, but I wish I liked his politics.
+","{
+  ""id"": ""cmpl-80GVp6KV3BqPO0Kl9AnS4ut8srwkZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""  Benjamin Netanyahu, CNN, Larry King Live, Charismatic, Artic"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 84,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 100
+  }
+}","['Benjamin Netanyahu, CNN, Larry King Live, Charismatic, Artic']","Benjamin Netanyahu, CNN, Larry King Live,"
+"I apologize if this article is slightly confusing, and late. The origonal
+draft didn't make it through the moderators quote-screens. So I did
+violence to it, but if you remember the article I am responding
+to it should still make sence.
+
+
+What, no hello for heathan netters?
+
+I feel all left out now. :(
+
+[deletia- table of content, intro, homosexuality]
+
+
+[deletia- incorrect attributions]
+
+Uh, you have your attributions wrong, you were responding
+to my article, so Dan Johnson should be the 1st one.
+
+
+[deletia- no free gifts speil nuked by moderator fiat.]
+
+
+Ah, in the _cosmic_ sence.. but who lives in the cosmic sence?
+Not me! Cosmicly, we don't even exist for all practical purposes.
+I can hardly use the Cosmic Sence Of Stuff as a guide to life.
+It would just say: ""don't bother.""
+
+Luckily for mortals, there are many sences of scale you can talk
+about. In a human sence, you can have big purposes.
+
+
+But the influence of Aristotle, Confucious, Alexander, Ceasar and
+countless others is still with us, although their works have perished.
+
+But they have changed to course of history, and while humanity exists,
+their deeds cannot be said to have come to nothing, even if they
+are utterly forgotten.
+
+
+One day, surely. (well, unless you believe in the Second Coming, which
+I do not)
+
+But in that time we can make a difference.
+
+
+In the end. But it must be the end; until then, there is all the
+point you can muster. And when that end comes, there will be nobody
+to ask, ""Gee, I don't think James Sledd's deeds are gonna make
+much of a difference, ulitmately, ya know?"".
+
+But they will have already have made a difference, great or small,
+before the end.
+
+Why must your ends be eternal to be worthwhile?
+
+
+Little is in the eye of the beholder, of course.
+
+
+I don't doubt it. But I have thought about the cosmic scale. And
+it does not seem to mean much to us, here, today.
+
+
+I would not find this comforting. But perhaps it is merely my
+definitions. Here's what I think the relevant terms are:
+
+""Reality""	That which is real.
+""Illusion""	That which is not real, but seems to be.
+""Real""		Objectively Existing
+
+For ""reality"" to be an ""illusion"" would mean, then:
+
+That which is real is not real, but seems to be.
+
+Or:
+
+That which objectively exists, does not objectively exist, but
+does seem to objectively exist.
+
+From which we can conclude, that unless you want to get a
+contradiction, that no things objectively exist.
+
+But I have a problem with this because I would like to say
+that *I* objectively exist, if nothing else. Cogito Ergo Sum
+and all that.
+
+Perhaps you do not mean all that, but rather mean:
+""Objective Reality is Unreachable by humans.""
+
+Which is not so bad, and so far as I know is true.
+
+
+Have on. If reality is an illusion, isn't True Reality an illusion
+too? And if True Reality is spirit, doens't that make Spirit an Illusion
+as well?
+
+If I am not distinctly confused, this is getting positively Buddhist.
+
+
+That is one hell of a statement, although perhaps true.
+
+Do you mean to imply that it was *intended* to be so? If so,
+please show that this is true. If not, please explain how this
+can give a purpose to anything.
+
+
+How does it do that?
+
+Wouldn't the world=school w/ intent idea make the world a preparation for
+some *greater* purpose, rather than a purpose in itself.
+
+
+What pressure?
+
+
+It is not necessary to be a success in human terms, unless your
+goals either include doing so or require doing so before they
+themselves can be achived.
+
+Indeed, many people have set goals for themselves that
+do not include success in human terms as _I_ understand it. Check
+out yer Buddhist monk type guy. Out for nirvana, which is not
+at all the same thing.
+
+
+Why is learning to love a goal? What happens if you fail in this
+goal? To you? To God? To the mysterious Purpose?
+
+
+[deletia- question about immortailty and my answer deleted because it was
+ mostly quote.]
+
+
+I'll have a crack at that.
+
+(1) The nature of eternal life is neatly described by its name: It is
+the concept of life without death, life without end.
+
+(2) No. We can put together word to describe it, but we cannot imagine it.
+
+(2a) No metaphor is adequate next to eternity; if it were we could not
+understand it either. (or so I suspect)
+---
+			- Dan Johnson
+And God said ""Jeeze, this is dull""... and it *WAS* dull. Genesis 0:0","{
+  ""id"": ""cmpl-80GVqhWDjVkTHsE7o97yVmdj2wsee"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" 0:1\n\nApology, Confusing, Moderator, Violence,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 1187,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 1203
+  }
+}","['0:1\n\nApology, Confusing, Moderator, Violence,']","""Reality, Illusion, Purpose, God,"
+"
+Oh? Hellman said ``each user will get to choose his or her own key.''
+That's the key which I called K_P, the session key. According to
+Hellman, if Alice and Bob are communicating with the Clipper Chip,
+then Alice chooses ``her own key'' and Bob chooses ``his own key.''
+This is incompatible with the suggestion that when Alice and Bob are
+talking, they use a _common_ K_P, chosen by classical or public-key
+approaches.
+
+The protocol/key-management description published so far is either
+incomplete or incorrect. It leaves me with no idea of how the system
+would actually _work_. I hope the CPSR FOIA request succeeds so that
+we get full details.","{
+  ""id"": ""cmpl-80GVpocuXyVCQtCDQdAxkFKqZYdP6"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nClipper Chip, Key Management, Session Key, Key Choice, Communication"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 178,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 194
+  }
+}","['Clipper Chip, Key Management, Session Key, Key Choice, Communication']","Key, Clipper Chip, Protocol, Key-Management,"
+"You have a lot more problems keeping up with hardware interrupts in Windows than
+in DOS - regardless of what communication software you are using.
+
+Try the following:
+   1) Turn off disk write cache for the disk you are downloading to.  The
+       cache will save up so much that when it grabs control of the machine
+       it takes too long to write to disk and you loose characters.
+
+   2) Use a different UART for your serial line.  The old UART's (8250 or 16450)
+       can only buffer one character internally.  The new UART's (16550) can
+       buffer 16, which should be plenty for most situations.  You can run
+       \windows\msd.exe to find out what UART is on the machine.","{
+  ""id"": ""cmpl-80GVpCcFykakBNPCUU6raIfLwtO3s"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nHardware interrupts, Windows, DOS, UART, Communication Software."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 185,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 200
+  }
+}","['Hardware interrupts, Windows, DOS, UART, Communication Software.']","Windows, Communication Software, Interrupts, Cache,"
+"
+I had the same problem in my '90 MX-6. Luckily I had it fixed
+under warranty. I think they replaced a tail light gasket.
+Check with a dealer, it's a known problem.
+","{
+  ""id"": ""cmpl-80GVpzxkhILwH1F6UYo5sfEgXFcNF"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Warranty, MX-6, Tail Light, Gasket, Dealer"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 65,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 78
+  }
+}","['Warranty, MX-6, Tail Light, Gasket, Dealer']","MX-6, 90, gasket, tail light, known problem"
+"
+So in other words, if Roussel shuts out the Sharks and Soderstrom shuts out
+the Penguins, that's immaterial because it was the coaches decision? Come on,
+Joe, think about what you're saying! Who they played is VERY significant.
+Why they played them is what's irrelevent. A low GAA against good teams
+is better than a low GAA against bad teams in the context of comparing two
+goaltenders. A low GAA is better then a higher GAA. A low GAA against good
+teams is much, much better than a higher GAA against bad teams in the context
+of comparing two goaltenders.
+
+
+YES IT DOES! Absolutely. **In the context of comparing two goaltenders**.
+Of course, at the end of the season 2 points is 2 points no matter how you
+get them. And on the score sheets shutouts are shutouts. But if you're a
+coach deciding between two goalies, or a GM looking to make a trade, you
+have got to look deeper than the stat sheets. I didn't see the second Toronto
+game, but the first one was a defensive masterpiece. There was nothing in
+that game to judge Tommy Soderstrom on because he wasn't tested. The same
+for Roussel in the Ranger game. Two real scoring chances, one he made a
+great play, the other he was saved by a mistake from the other player. If
+you were judging Roussel on that game alone, you have very little to go by.
+
+But if you were to look at the 0-0 tie against the Habs, you saw a goalie
+stand on his head to get that shutout. THAT was a #1 goalie in action. Roussel
+doesn't have a game like that in him.
+
+
+Don't be so sure of that. FLYERS management never says bad thing about
+Roussel, but they don't say too much on the good side either. I've seen
+at least two interviews where every time Farwell was asked how happy he was
+to have two good goaltenders, it was Tommy this, Tommy that, and oh, yeah,
+Dom has played well too.
+
+
+FLYERS in the NHL Hall of Fame. Kinda dull, really. They handed out a
+team picture to everybody who walked in from Pizza Hut, but it was the
+same picture they sold in the programs in mid-season. Had names like Benning,
+Kasper...
+
+
+Mostly random seat locations, some were given out by having certain
+autographs on the team photos. I don't like that method since I've seen
+guards help out people get things like Lindros pictures, surely if they
+got their hands on an autographed picture they'd hold 'em for their buddies.","{
+  ""id"": ""cmpl-80GVpGjYD7HGNujL75BZU8lIg0ChZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Goaltenders, Comparing, Shutouts, significance, context, NHL Hall"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 613,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 629
+  }
+}","['Goaltenders, Comparing, Shutouts, significance, context, NHL Hall']","FLYERS, NHL, Hall of Fame, Goalie,"
+"
+
+
+
+Well, pardon me for trying to continue the discussion rather than just
+tugging my forelock in dismay at having not considered actually trying
+to recover the energy from this process (which is at least trying to
+go the 'right' way on the energy curve).  Now, where *did* I put those
+sackcloth and ashes?
+
+[I was not and am not 'pretending' anything; I am *so* pleased you are
+not surprised, though.]
+
+
+Note that I didn't say it was perpetual motion, or even that it
+sounded like perpetual motion; the phrase was ""sounds almost like
+perpetual motion"", which I, at least, consider a somewhat different
+propposition than the one you elect to criticize.  Perhaps I should
+beg your pardon for being *too* precise in my use of language?
+
+
+I will believe that this process comes even close to approaching
+technological and economic feasibility (given the mixed nature of the
+trash that will have to be run through it as opposed to the costs of
+separating things first and having a different 'run' for each
+actinide) when I see them dump a few tons in one end and pull
+(relatively) clean material out the other.  Once the costs,
+technological risks, etc., are taken into account I still class this
+one with the idea of throwing waste into the sun.  Sure, it's possible
+and the physics are well understood, but is it really a reasonable
+approach? 
+
+And I still wonder at what sort of 'burning' rate you could get with
+something like this, as opposed to what kind of energy you would
+really recover as opposed to what it would cost to build and power
+with and without the energy recovery.  Are we talking ounces, pounds,
+or tons (grams, kilograms, or metric tons, for you SI fans) of
+material and are we talking days, weeks, months, or years (days,
+weeks, months or years, for you SI fans -- hmmm, still using a
+non-decimated time scale, I see  ;-))?
+
+
+-- 
+""Insisting on perfect safety is for people who don't have the balls to live
+ in the real world.""   -- Mary Shafer, NASA Ames Dryden","{
+  ""id"": ""cmpl-80GVpP4VweLDKgG8E1imCQxH5L2SQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nEnergy, Perpetual Motion, Discussion, Feasibility, Technology"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 517,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 533
+  }
+}","['Energy, Perpetual Motion, Discussion, Feasibility, Technology']","Energy recovery, 'perpetual motion', cost, time"
+"To what follows, our moderator has already answered the charge of 
+arrogance more ably that I could have done so, so I will confine
+myself to answering the charge of illogic.
+ 
+
+
+This is how everyone in the western intellectual tradition is, or was,
+taught to think. It is the fundamental premis ""A is not not-A"". If a thing
+is true then its converse is necessarilly false. Without this basic 
+asumption theology and science as we know them are alike impossible. We
+should distinguish the strong and weak meanings of the word ""believe"",
+however. The weak sense means I am not sure. ""I believe Tom went to 
+the library."" (but he could have gone to the track). The strong sense
+means I am so certain that I use it as a basis of thought. ""I believe 
+that nature operates according to certain fundamental laws."" (despite 
+the fact that nature *appears* capricious and unpredictable). Christian
+belief is of the strong kind. (Though Christians may well hold beliefs
+of the weak kind on any number of theological and ecclesiological 
+topics.)
+ 
+
+Note that these are two separate ideas. Most hold the first view, but the 
+majority do not hold the second. Is is again a matter of pure logic that
+if Christanity is true, then Hinduism (for example) must necessarilly be
+false, insofar as it contradicts or is incompatible with, Christaianity. 
+(And, as a matter of *logic*, vice versa.)
+ 
+
+It is arrogant to claim to know what *anyone* thinks or wants, unless 
+they have told you. Christians believe God has told us what he thinks
+and wants.
+
+
+Most Christians do not base their belief on the Bible, but on the living
+tradition of the Church established by Christ and guided constantly
+by the Holy Spirit. The Bible is simply the written core of that tradition.
+
+
+If depends what you mean by differing. If I believe Tom is six feet
+tall and you believe he weighs 200 pounds, our beliefs differ, but we 
+may both be right. If I believe Tom is six feet tall and you beleive
+that he is four foot nine, one of us, at least, must be wrong.
+ 
+
+Thus you believe that there is a single truth but that no human being 
+can find it. You assert that anyone who believe that we can find 
+absolute truth is mistaken. In short, you believe that anyone who
+does not share your belief on this point is wrong. QED.
+
+
+Here I begin to suspect that your real difficulty is not with the
+knowability of truth, but simply with language. Saying that the glass 
+is half empty is not a contradiction of the statement that it is half
+full: it is the same fact expressed in different words. (The whole
+point of this phrase is to illustrate the different ways the pessimist
+and the optimist express the *same* fact.)
+ 
+It is, of course, quite true that different people may express the 
+same belief in different words. It is also true that they may fail
+to understand each other's words as expressions of the same belief
+and may argue bitterly and believe that they are miles apart. Great
+scisms have occurred in just this way, and much ecumenical work has
+been done simply in resolving differences in language which conceal
+agreement in belief. This does not mean, in any sense, that all beliefs
+are equally valid. Since some of the beliefs people hold contradict
+some other beliefs that other people hold, after all obfuscations
+of language and culture in the expression of those beliefs have
+been stripped away, some of the beliefs that some people hold must,
+**necessarilly** be false, and it is neither arrogant nor illogical
+to say so. If I believe X and you believe Y we may both be correct, 
+but if Y is equivalent to not-X then one of us is wrong and as long
+as we hold our respective beliefs, we must each regard the other 
+as in error.","{
+  ""id"": ""cmpl-80GVpG5irQFf8YBFaBe6tImqORKL9"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nBelief, Logic, Contradiction, Validity, Ar"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 909,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 925
+  }
+}","['Belief, Logic, Contradiction, Validity, Ar']","beliefs, language, culture, truth, belief, argument."
+"I need to write an application which does annotation notes
+on existing documents.  The annotation could be done several
+times by different people.  The idea is something like having
+several acetate transparencies stacked on top of each other
+so that the user can see through all of them.  I've seen
+something like this being done by the oclock client.
+Could someone please tell me how to do it in Xt?
+Thank you very much.
+","{
+  ""id"": ""cmpl-80GVpZMrOAcx3K9CHrrLIzarvDRWU"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" annotation, notes, multiple users, transparency, oclock client"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 116,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 128
+  }
+}","['annotation, notes, multiple users, transparency, oclock client']","Annotation, Documents, Xt, Oclock,"
+": Frank Crary posted:
+: : Sure, but the difference in per-capita crime rates predates the
+: : gun control laws: The homicide rate in England was a tenth that
+: : of America, back when anyone in England could buy a gun without
+: : any paperwork at all.
+
+: Steve Manes asks:
+: > Got a citation for this?
+
+: Colin Greenwood from Scotland Yard did a study that showed that gun
+: control has had no effect on crime or murder rates in the UK.  His book,
+: _Firearms_Controls_, has been published in London by Keegan Paul (name
+: may be misspelled).
+
+Others dispute that, like Richard Hofstadter, <America As A Gun Culture>,
+and Newton and Zimring's <Firearms and Violence in American Life>.  But,
+again, statistics between too dissimilar cultures are difficult to
+quantify.
+
+I don't know how anyone can state that gun control could have NO
+effect on homicide rates.  There were over 250 >accidental< handgun
+homicides in America in 1990, most with licensed weapons.  More
+American children accidentally shot other children last year (15)
+than all the handgun homicides in Great Britain.  (Source: National
+Safety Council.  Please... no dictionary arguments about RATES vs
+TOTAL NUMBERS, okay?  They're offered for emphasis, not comparison).
+
+If Mr. Greenwood believes that Brits are much too sober and
+coordinated to make such mistakes I'd like to introduce him to my
+friend, Amanda from Brighton.  I used to have some pretty nice
+crystal in my place until she moved in.  I've gotten used to the
+snide comments from guests about the clown motif on my rubber
+wine glasses.
+","{
+  ""id"": ""cmpl-80GVp2Sqy6fHF0fcb4HwWoZjmzMgV"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Guns, Control, Homicide, America, England, Scotland Yard, Richard Hof"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 406,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 422
+  }
+}","['Guns, Control, Homicide, America, England, Scotland Yard, Richard Hof']","Gun Control, America, Crime, Murder,"
+"
+
+It's all easy with a DSP. The Olivetti Quaderno, for example [*great* 1kg
+subnotebook/palmtop PC -- sorry for the plug, folks, but Olivetti don't
+seem to be doing a good job marketing it themselves :-)] includes sound
+digitisation hardware; they provide vocoders for their DSP which produce
+varous bit-rates. There's one which gives pretty acceptable voice
+quality at 13Kbit/sec, just right for a V.32bis modem.
+
+Their DSP can play and record at the same time, too -- so you wouldn't
+need to play ""two-way-radio"". You can also download code to the DSP
+subunit, though you'd need a software development kit for the DSP in 
+question [dunno which it is...] if you wanted to produce your own 
+vocoder for, say, V.32 speeds.
+
+Paul","{
+  ""id"": ""cmpl-80GVpL0rI7Pd3ubVoenLXQI0oRVlV"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nDSP, Vocoder, Modem, V.32bis, Olive"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 223,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 239
+  }
+}","['DSP, Vocoder, Modem, V.32bis, Olive']","Olivetti Quaderno, Sound Digitisation,"
+"I'm considering buying one of these to offload the internal video
+in my IIci and to get 24 bit color capability on my 13"" monitor. What's
+the deal on them?
+
+1) Do they come with varying amounts of RAM? If so, what is the max
+and min? How much do I need for 640 x 480 x 24 bits?
+
+2) What bit depths are supported? One, 2, 4, 8, 16, and 24?
+
+3) Are all these cards accelerated or just some? Is it true that
+modern accelerated video cards are (at least in general) faster? What
+bit depths are accelerated, all or just 24 bit? I've heard that some
+applications actually run *slower* with this card if they write directly
+to the screen (or something like that). Is this a frequent problem?
+How much slower is it?
+
+4) Didn't I read (when System 7 first came out) that the card was
+incompatible? If so, how was this corrected (Finder patch, some INIT,
+or other)? Has it been kept compatible with 7.1? Are there many other
+apps that it is incompatible with (games or important (i.e., non-
+Microsloth) apps, for example)?
+
+5) If you have a strong opinion on it's value for someone in my position,
+let me know what you think a reasonable price is to pay for it.
+
+Thanks a lot for you input.
+Rick
+","{
+  ""id"": ""cmpl-80GVp9HsQ78KnqL6b4ieO6c6sLPia"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074165,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" 24-bit color, RAM size, video card acceleration, System 7 compatibility,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 340,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 356
+  }
+}","['24-bit color, RAM size, video card acceleration, System 7 compatibility,']","Video, IIci, Color, Max"
+"
+
+MSG is mono sodium glutamate, a fairly straight forward compound. If it is
+pure, the source should not be a problem. Your comment suggests that 
+impurities may be the cause.
+My experience of MSG effects (as part of a double blind study) was that the
+pure stuff caused me some rather severe effects.
+
+
+Soya bean, fermented cheeses, mushrooms all contain MSG. 
+","{
+  ""id"": ""cmpl-80GVqzeAfahZjeTsH4P7Jtk5IePeD"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" MSG, Mono Sodium Glutamate, Impurities, Soya bean, Fer"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 106,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 122
+  }
+}","['MSG, Mono Sodium Glutamate, Impurities, Soya bean, Fer']","Mono sodium glutamate,"
+"As an additional data point, I have run Castrol 20W50 exclusively
+in the following cars: 75 Rabbit, 78 Scirocco, 76 Rabbit, 78 Bus,
+70 Beetle, 76 Bus, 86 Jetta GLI.  I've never had an oil-related
+problem.
+
+Disclaimer:  It gets mighty hot down here.","{
+  ""id"": ""cmpl-80GVqJLB3ZczNDhIWXBdjM0Hzedlh"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nCastrol, 20W50, Oil, Cars, Hot"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 91,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 104
+  }
+}","['Castrol, 20W50, Oil, Cars, Hot']","Castrol 20W50, Car, Truck, Bus,"
+"the 
+
+Not Quite the point to be considdered here!
+Fact: If/When Apple release system 7 (or what ever is current at the time 
+of release) then you will see shortly afterwards Apple no longer producing 
+Hardware...Look at Next with their NextStep486 to see what happens.
+Who is going to pay Apples Prices when they can get the same thing cheaper 
+else where! (Heck we can get a Sun Workstation cheaper than a Quadra, and 
+infact we have a number of times!!!, it ALL comes down to $$$$)
+
+them,
+It
+
+
+No the continued develeopment is because there is becomming less and less 
+profit in Hardware, So the Next Step (no pun intended...well sort of), is 
+to make the money in software (look at Microsoft if you think it can't 
+happen!), after all you can sell multiple pieces of software to ONE 
+hardware platform.
+
+As you also said Windows is a nightmare for programmers, so will the 
+temptation to sell system 7 to a couple of MILLION dos users be too much 
+for Apple! (50 million copies @ $100 is SERIOUS money!).
+
+--
+","{
+  ""id"": ""cmpl-80GVqMX5uevOscLqhyXeJMdDLEpBR"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Apple, Next, Software, Dollars, NextStep486"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 289,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 300
+  }
+}","['Apple, Next, Software, Dollars, NextStep486']","Apple, System 7, Software, Hardware, Microsoft"
+"
+There is no contradiction here. It is essential in the sense that your
+body needs it. It is non-essential in the sense that your body can
+produce enough of it without supplement.","{
+  ""id"": ""cmpl-80GVqwke0uOv5n14PVq8urj2psYUn"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nEssential, Non-Essential, Nutrition, Balance, Contradiction"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 76
+  }
+}","['Essential, Non-Essential, Nutrition, Balance, Contradiction']","Essential, Non-essential, Supplement"
+"
+And we all know what an unbiased source the NYT is when it comes to things
+concerning Israel.
+
+Neither the Times nor the trained seals who have responded thus far seem to
+recognize the statement that these ""private funds"" were all tax exmpt.  In
+otherwords, American taxpayers put up at least 30% of the money.  And
+finalyy, how does ""Federal land"" mitigate the offensiveness of this alien
+monument dedicated to perpetuating pitty and the continual flow of tax money
+to a foreign entity?","{
+  ""id"": ""cmpl-80GVq07RDxDychqmyYeVcrFAH3M15"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nIsrael, NYT, Tax Exempt, U.S. Taxpayers,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 135,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 151
+  }
+}","['Israel, NYT, Tax Exempt, U.S. Taxpayers,']","American taxpayers put up at least 30% of the money, ""private"
+"
+
+Maybe I should point out that we are not talking about c.s.amiga.*.
+Only comp.graphics.","{
+  ""id"": ""cmpl-80GVqrSL9wPzoP1bVz5lvQcwRKGtU"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nComputing, Graphics, Amiga, Discussion, Forum"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 47,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 59
+  }
+}","['Computing, Graphics, Amiga, Discussion, Forum']","comp.graphics, c.s.amiga,"
+"
+
+	Why do we follow God so blindly?  Have you ever asked a
+physically blind person why he or she follows a seeing eye dog?
+The answer is quite simple--the dog can see, and the blind person
+cannot.
+
+	I acknowledge, as a Christian, that I am blind.  I see,
+but I see  illusions as well as reality.  (Watched TV lately?)
+I hear, but I hear lies as well as truth.  (Listen to your 
+radio or read a newspaper.)  Remember, all that tastes well is
+not healthy.  So, I rely one the one who can see, hear, and
+taste everything, and knows what is real, and what is not.
+That is God.
+
+	Of course, you may ask, if I cannot trust my own senses,
+how do I know whether what I see and hear about God is truth or
+a lie.  That is why we need faith to be saved.  We must force
+ourselves to believe that God knows the truth, and loves us
+enough to share it with us, even when it defies what we think
+we know.  Why would He have created us if He did not love us 
+enough to help us through this world?
+
+	I also do trust my experiences to some extent.  When
+I do things that defy the seeming logic of my experience, 
+because it is what my Father commands me to do, and I see
+the results in the long term, I find that He has led me
+in the proper direction, even though it did not feel right
+at the time.  This is where our works as Christians are
+important:  As exercises of the body make the body strong,
+excercises of faith make the faith strong.  
+
+	As for you, no one can ""convert"" you.  You must
+choose to follow God of your own will, if you are ever to
+follow Him.  All we as Christians wish to do is share with
+you the love we have received from God.  If you reject that,
+we have to accept your decision, although we always keep
+the offer open to you.  If you really want to find out
+why we believe what we believe, I can only suggest you try
+praying for faith, reading the Bible, and asking Christians
+about their experiences personally.  Then you may grow to
+understand why we believe what we do, in defiance of the
+logic of this world.
+
+	May the Lord bring peace to you, ","{
+  ""id"": ""cmpl-80GVqEDzupxvVEmggWVGhXu2gEuse"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nGod, faith, trust, love, pray"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 564,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 574
+  }
+}","['God, faith, trust, love, pray']","blind, seeing eye dog, trust, faith, defiance, logic"
+What an anal retentive you are wimp.,"{
+  ""id"": ""cmpl-80GVqTCLHkIqO3G6wfWzpuDAUCm8R"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nAnal, Retentive, Wimp, Perfectionism, Critics"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 29,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 45
+  }
+}","['Anal, Retentive, Wimp, Perfectionism, Critics']","Anal retentive, wimp"
+You a good case for rights to abortion.,"{
+  ""id"": ""cmpl-80GVqg2Sjsp2q785occEY2q2J3Zop"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAbortion, Rights, Reproductive, Health, Choice"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 27,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 40
+  }
+}","['Abortion, Rights, Reproductive, Health, Choice']","Arguments for rights to abortion,"
+"Being a baseball fan and a fan of the above mentioned band I was
+wondering if anyone could clue me in on whether the Dead (or members
+of) sang the national anthem at todays Giant opener?
+
+I would imagine that it is a bit too early for anyone to know, but
+an answer would be greatly appreciated.
+
+
+             Curious,
+                   Robert","{
+  ""id"": ""cmpl-80GVqVQdtNzR7uDgqVnGuuMmNl3I2"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nBaseball, Music, Dead, National Anthem, Giant"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 96,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 108
+  }
+}","['Baseball, Music, Dead, National Anthem, Giant']","Dead, National Anthem, Giant,"
+"A couple of questions for you firearms law experts out there:  
+
+Question #1
+
+According to the NRA/ILA state firearms lawbook, in Wisconsin it is
+'unlawful for any person except a peace officer to go armed* with a 
+""concealed and dangerous weapon.""  There is no statutory provision for
+obtaining a lixense or permit to carry a concealed weapon.'
+
+*  Jury instructions indicate that 'to go armed' one must have a firearm
+on one's person or within his immediate control and available for use.
+
+
+
+Does this mean that open carry is allowed?  If so, just how 'open' does it
+have to be?  Would an in the pants holster be considered concealing?  What
+if one had their jacket on and it partially covered the weapon?  Also,
+is there any way to be allowed to carry concealed, or is it just not allowed,
+period? 
+
+Question #2
+
+As I understand it, in Evanston, IL, they have a ordinance banning handguns.
+Is there any way to get around this provision?  What would the penalty if
+you were found out be?  What if you used said handgun in a defensive shooting
+in your apartment there?  How would the city law apply to your impending 
+trial for the shooting?
+Also, what is IL state law concerning short barreled weapons?  Short barreled
+shotgun is what I would be interested in if a handgun were not available, 
+either that or a shortened 9mm carbine (ie Colt, Marlin).  
+One more thing, what is the chance of getting a CCW permit in IL without being
+rich or famous or related to the mayor?","{
+  ""id"": ""cmpl-80GVqcwpNyz9ITuE6Q1mwVKZrlOFX"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nFirearms Law, Concealed Weapon, Open Carry, Short Barreled"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 386,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 402
+  }
+}","['Firearms Law, Concealed Weapon, Open Carry, Short Barreled']","Question #1, NRA/ILA, State firearms lawbook"
+"
+[DG] THE U.S. HOLOCAUST MEMORIAL MUSEUM: A COSTLY AND DANGEROUS MISTAKE
+[DG] by Theodore J. O'Keefe
+[DG] HARD BY THE WASHINGTON MONUMENT, within clear view of the Jefferson
+[DG] Memorial, an easy stroll down the Mall to the majestic Lincoln Memorial,
+[DG] has arisen, on some of the most hallowed territory of the United States of
+[DG] America, a costly and dangerous mistake.  On ground where no monument yet
+[DG] marks countless sacrifices and unheralded achievements of Americans of all
+[DG] races and creeds in the building and defense of this nation, sits today a
+[DG] massive and costly edifice, devoted above all to a contentious and false
+[DG] version of the ordeal in Europe during World War II, of non-American
+[DG] members of a minority, sectarian group.  Now, in the deceptive guise of
+[DG] tolerance, the United States Holocaust Memorial Museum begins a propaganda
+[DG] campaign, financed through the unwitting largess of the American taxpayer,
+[DG] in the interests of Israel and its adherents in America.
+
+[JAKE] After reading the first paragraph, a quick scan confirmed my first
+[JAKE] impression: this is a bunch of revisionist and anti-semitic hogwash.
+
+Jake, I'm really disappointed in you. It took you a whole paragraph
+to see that it was ""bunch of revisionist and anti-semitic hogwash"". :-)
+
+The article title ""THE U.S. HOLOCAUST MEMORIAL MUSEUM: A COSTLY AND 
+DANGEROUS MISTAKE"" should have been enough! :-)
+
+Tsiel","{
+  ""id"": ""cmpl-80GVq9n0dyCgVaf8ibFcBLgg6WWIW"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Holocaust, Memorial, Revisionist, Anti-semitic, Mistake."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 421,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 437
+  }
+}","['Holocaust, Memorial, Revisionist, Anti-semitic, Mistake.']","Holocaust Memorial Museum, Washington, D.C.,"
+"
+I think the problem here is that I pretty much ignored the part
+about the Jews sightseeing for 2000 years, thinking instead that
+the important part of what the original poster said was the bit
+about killing Palestinians.  In retrospect, I can see how the
+sightseeing thing would be offensive to many.  I originally saw
+it just as poetic license, but it's understandable that others
+might see it differently.  I still think that Ken came on a bit
+strong though.  I also think that your advice to Masud Khan:
+
+  #Before you argue with someone like Mr Arromdee, it's a good idea to
+  #do a little homework, or at least think.
+
+was unnecessary.
+
+
+Throughout all your articles in this thread there is the tacit
+assumption that the original poster was exhibiting casual
+anti-semitism.  If I agreed with that, then maybe your speech
+on why this is bad might have been relevant.  But I think you're
+reading a lot into one flip sentence.  While probably not
+true in this case, too often the charge of anti-semitism gets
+thrown around in order to stifle legitimate criticism of the
+state of Israel.
+
+Anyway, I'd rather be somewhere else, so I'm outta this thread.","{
+  ""id"": ""cmpl-80GVqKKYgYM50AcR7Sg2vQ5Yhayed"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nAnti Semitism, Israel, Sightseeing, Criticism, Homework"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 296,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 311
+  }
+}","['Anti Semitism, Israel, Sightseeing, Criticism, Homework']","anti-semitism, 2000 years, killing Palestinians"
+"
+I don't think such a Canada is any more ""culturally similar"" to
+the United States than England. In terms of laws regarding individual
+rights, restrictions on police searches, etc... (all closely
+related to crime) Canadian laws parallel England's and differ
+greatly from those of the United States.
+  
+
+Actually, they do not have ""roughly the same... urban economy"", 
+and extremely different ethnic composition.
+
+
+However, if you account for economic and ethnic differences,
+the difference disappears completely: Seattle's minorities are
+predominatly poor, while Vancouver's are middle or upper class.
+The rates for whites in both cities were found to be identicle,
+while the rate for poor, Seattle minorities was almost three
+times as great as for the well-to-do minorities of Vancouver.
+The pattern seems to be one of poverty and race relations, not
+one of gun control.
+
+
+That is a gross distortion: ""Self-defense"" does not mean killing
+the attacker. There were 21 cases of civilians killing their 
+attacker in self-defence. But such cases represent less that
+0.5% of the crimes prevented by armed self-defence; for every
+case you cite, there were over 200 other cases of self-defence
+where the crime was prevented but the attacker was not killed.
+(0.5%, by the way, is the most conservative possible figure,
+based on the National Crime Survey's estimate of 80,000
+crimes prevented by armed self-defence each year. Most other 
+studies on the subject put the figure at 500,000 to 600,000.
+Those figures would imply less than 0.08% of sucessful self-defences
+involve killing the attacker.) 
+
+So, more correctly, there over 4000 (possibly as many as 25,000) 
+cases of civilians acting in self-defence, only 21 of which resulted
+in the death of the attacker. This is a significant factor, in
+comparison to the 592 homicides. If memory serves, homicides
+make up approximately 1% of the violent crimes the study
+considered, so the fair comparison would be 40 - 250 homicides
+prevented and 592 homicides. Clearly, the study can not be
+close to accurate, since it ignored these cases of self-defence.","{
+  ""id"": ""cmpl-80GVqAfCB85LzjjL31SxI3XxZU7va"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" \nSelf-defence, Crime, Gun Control, Race Relations, Poverty"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 520,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 536
+  }
+}","['Self-defence, Crime, Gun Control, Race Relations, Poverty']","Canadians, crime, self-defence, urban economy,"
+"According to BBC Radio this morning, UK, Denmark, Portugal & a few
+others have vetoed a proposal to limit EC-sold bikes to 100 BHP.  The
+reason is that such a limit is not supported by accident statistics - a
+rare example of governmental wisdom.  The limit has a five year
+moratorium on it, and ""specialist"" manufacturers will be exempt anyway. 
+Any suspicion that this is a crafty trick to restrict that end of the
+market in Europe to Triumph, Norton (who? :-)), BMW, Cagiva & Ducati is
+the sort of dangerous rubbish which stalls GATT talks.
+
+You heard it here first.","{
+  ""id"": ""cmpl-80GVqcRGRa4mR2uTmkirVZw8s32mZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nEuropean Union, BHP, Bicycle, Accident Statistics, GATT"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 159,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 174
+  }
+}","['European Union, BHP, Bicycle, Accident Statistics, GATT']","limit, EC, Triumph, Cagiva, Ducati,"
+"FYI...I just posted this on alt.psychoactives as a response to
+what the group is for......
+
+
+A note to the users of alt.psychoactives....
+
+This group was originally a takeoff from sci.med.  The reason for
+the formation of this group was to discuss prescription psychoactive
+drugs....such as antidepressents(tri-cyclics, Prozac, Lithium,etc),
+antipsychotics(Melleral(sp?), etc), OCD drugs(Anafranil, etc), and
+so on and so forth.  It didn't take long for this group to degenerate
+into a psudo alt.drugs atmosphere.  That's to bad, for most of the
+serious folks that wanted to start this group in the first place have
+left and gone back to sci.med, where you have to cypher through
+hundreds of unrelated articles to find psychoactive data.
+
+It was also to discuss real-life experiences and side effects of
+the above mentioned.
+
+Oh well, I had unsubscribed to this group for some time, and I decided
+to check it today to see if anything had changed....nope....same old
+nine or ten crap articles that this group was never intended for.
+
+I think it is very hard to have a meaningfull group without it
+being moderated...too bad.
+
+Oh well, obviously, no one really cares.
+
+Bill Claussen
+
+
+Would anyone be interested in starting a similar moderated group?","{
+  ""id"": ""cmpl-80GVqmyELMR2KFlfrzpds6tRmQKfN"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\npsychoactive drugs, prescription drugs, sci.med, real-life"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 342,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 358
+  }
+}","['psychoactive drugs, prescription drugs, sci.med, real-life']","alt.psychoactives, takeoff, articles, real-"
+"	
+	First of all, without wanting to sound nagging and bossy, yes it is
+a trivial answer and that's perfectly fine ( otherwise how is one supposed
+to move up to the complicated and challenging questions, we net readers so
+much enjoy :) ?), and the massive crossposting of your article was not
+ justified...
+Please refer to appropriate newsgroups next time (by the way c.o.msw.misc is
+OK :) ). Now as far as your problem is concerned: try playing around with
+the settings in the 'Fonts..."" dialog box under the window control menu (that
+little square at the top left corner of the window..). 
+
+","{
+  ""id"": ""cmpl-80GVqLQo2UrVjuRw97fqJMT2cprEB"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Windows, Fonts, Nagging, Crossposting, Settings"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 161,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 174
+  }
+}","['Windows, Fonts, Nagging, Crossposting, Settings']","'Fonts..."", control menu, crossposting,"
+"
+
+SPECIFIC:
+Basically to be able to do the things the big dadies can do.. Monitor, and
+control if need be the Shuttle...
+
+Such as the one in Australia and such....","{
+  ""id"": ""cmpl-80GVqdCBtyRUSYQBITsm1V2oJD6se"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""  Shuttle, Monitor, Control, Australia, Big Daddy"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 62,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 73
+  }
+}","['Shuttle, Monitor, Control, Australia, Big Daddy']","Special, Dadies, Shuttle, Monitor, Control"
+"
+     Here is my traditional experience with tickets, playoffs and otherwise,
+at the Civic Arena.
+
+     Scalping is illegal but nonetheless present outside the Arena.  Best 
+strategy, given that you don't mind missing the Anthem (which is OK if B.E.
+Taylor decides to come back ever again :) ) is to wait until 7:40 or 7:45,
+when the game is rolling; the scalpers are at this point desperate to sell
+and will reduce to near or at face value to get rid of their tickets.
+
+     Playoffs are a little different in that good seats will go early on; 
+what's left at 7:45 may be nosebleed material (D, E sections).
+
+Others can add on their opinions as well.","{
+  ""id"": ""cmpl-80GVqvZd8NB217lhIxm4i9SV5E7Z5"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nTickets, Scalping, Civic Arena, B.E. Taylor, Playoffs"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 181,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 197
+  }
+}","['Tickets, Scalping, Civic Arena, B.E. Taylor, Playoffs']",Scalping is illegal but nonetheless present outside the Arena.
+"
+
+	I found the MS defrag looks very much like Norton Speedisk.
+Is it just a strip-down version of the later?
+
+	I have both Norton Speedisk and Backup, so I was wondering 
+if I need to install MS Backup?","{
+  ""id"": ""cmpl-80GVqJGksWHuUWYFO2Ew2yC9UgEDr"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nMS defrag, Norton Speeddisk, Backup, Strip-down version,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 73,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 89
+  }
+}","['MS defrag, Norton Speeddisk, Backup, Strip-down version,']","Norton Speedisk, Backup, MS Defrag,"
+"
+
+
+
+
+
+
+
+Try setting up another HPIII printer but when choosing what port to connect it
+to choose FILE instead of like :LPT1.  This will prompt you for a file name
+everytime you print with that ""HPIII on FILE"" printer. Good Luck.
+","{
+  ""id"": ""cmpl-80GVqmBlak1YF7rRWXvGFG4tFIkzz"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Printer, HPIII, File, Port, Luck."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 79,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 91
+  }
+}","['Printer, HPIII, File, Port, Luck.']","HPIII, FILE, LPT1,"
+"} In article <1993Apr14.175545.3528@alleg.edu>, millits@yankee.org (Sam
+} 
+} i'm telling you, sam, three l's.  call up mom and ask.
+} 
+} bob vesterman.
+} 
+yeah, and in case even that isn't enough to prompt boy genius
+""Sam"" to pick up a paper and see how ""his"" name is spelled,
+here's another hint: the single ""L"" comes between the two ""I""s...","{
+  ""id"": ""cmpl-80GVqJcGlXqGIa1RDoxfHUpxrYMYn"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nCall, Mom, Sam, Name, Hint"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 137,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 148
+  }
+}","['Call, Mom, Sam, Name, Hint']","""Sam"" is a boy genius, with three l"
+"Has anyone looked into the possiblity of a Proton/Centaur combo?
+What would be the benefits and problems with such a combo (other
+than the obvious instability in the XSSR now)?
+","{
+  ""id"": ""cmpl-80GVqpB9mvrF69YM2QAbE9jKL9jlR"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074166,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Proton/Centaur, Combo, Benefits, Problems, Instability"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 62,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 76
+  }
+}","['Proton/Centaur, Combo, Benefits, Problems, Instability']","Proton/Centaur, XSSR,"
+"Woof woof!
+","{
+  ""id"": ""cmpl-80GVrbfBYCAAowIQfRUc7nSD2i9I9"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Dogs, Puppies, Barking, Animals, Noise"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 24,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 35
+  }
+}","['Dogs, Puppies, Barking, Animals, Noise']","Woof, woof!"
+"I have an Okidata 2410 printer for which I would like to have a printer driver.
+Has anyone seen such a thing?  There is not one on the Microsoft BBS.
+I can print to it from Windows but I have no fonts available and with
+Paradox for Windows I can't print labels on it unless there is a proper printer
+defined.
+
+
+Thanks,
+
+Bryan K. Ward
+Survey Research Center
+University of Utah","{
+  ""id"": ""cmpl-80GVrFPAMpibAXRHrojXSV1lRjJfQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nOkidata, Printer Driver, Microsoft BBS, Printing, Paradox"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 115,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 131
+  }
+}","['Okidata, Printer Driver, Microsoft BBS, Printing, Paradox']","Okidata, 2410, Printer, Fonts, Paradox"
+"--> Note:
+Reply to a message in soc.religion.christian.
+
+EVENSON THOMAS RANDALL wrote in a message to All:
+
+
+
+Hi, You might want to read Charismatic Chaos by John MacArthur.  In it
+he discussed exactly this queation, amongst others.  In my own words,
+VERY simplified, his position is basically that one must decide, what
+is the most important - experience or Scripture?  People tend to say
+Scripture, without living according to that.  Their own
+feeling/prophecy/etc tends to be put across without testing in the
+light of Scripture.
+
+There's a lot more than this, really worthwhile to read whether you're
+Charismatic or not.
+
+Groetnis (=cheers)
+ Deon
+
+--- timEd/B8","{
+  ""id"": ""cmpl-80GVrc5ICM9SEUOSmJidlnaQcAuoo"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nCharismatic, Scripture, Experience, Prophecy, John MacArthur"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 200,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 215
+  }
+}","['Charismatic, Scripture, Experience, Prophecy, John MacArthur']","Charismatic Chaos, John MacArthur, Religion"
+"
+ There was an article on clari.news.religion in the last few days about a
+Polish tribunal decision. It said that crucifixes and religious classes in
+public schools were okay; and that children who did not want to take religion
+class could not be forced to take an ethics class as a substitute.","{
+  ""id"": ""cmpl-80GVrtUqkuLFNscl5Kz7N2yQa8veW"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nReligion, Polish Tribunal, Crucifixes, Public Schools, Ethics"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 85,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 101
+  }
+}","['Religion, Polish Tribunal, Crucifixes, Public Schools, Ethics']","Polish tribunal ruling, crucifixes, religion classes, substitute"
+"Some pixels on my PB 140 display disappear intermittently.  They are not in
+a particular place but random.  If anybody has suggestions I would appreciate
+e-mailings.  Thanks.
+
+","{
+  ""id"": ""cmpl-80GVrseizkkPi94zJ9ubiS1KxXSHP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Pixel, Display, Intermittently, Random, Suggestions"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 59,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 71
+  }
+}","['Pixel, Display, Intermittently, Random, Suggestions']","Pixels, PB 140, random,"
+"I have been playing with my Centris 610 for almost a week now.  I must say
+this machine is really fast!  The hardware turn-on feature is annoying, but
+I got PowerKey from Sophisicated Circuits and it works like a charm.
+
+However, I still have a few complaints:
+- when I restart the machine every time, the screen image (the desktop
+  pattern) jerks up and down for a few times.
+- the Quantum 170 drive is noisy
+
+Overall, I highly recommend it:  it is fast, affordable and looks great!
+
+--","{
+  ""id"": ""cmpl-80GVrvT1caLP0UZxnF0YEIpCbaXnM"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Centris 610, PowerKey, hardware, Quantum, restart"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 144,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 156
+  }
+}","['Centris 610, PowerKey, hardware, Quantum, restart']","Centris 610, Fast, Affordable, Drive,"
+": From: pmetzger@snark.shearson.com (Perry E. Metzger)
+
+: Indeed, were it not for the government doing everything possible to
+: stop them, Qualcomm would have designed strong encryption right in to
+: the CDMA cellular phone system they are pioneering. Were it not for
+: the NSA and company, cheap encryption systems would be everywhere. As
+: it is, they try every trick in the book to stop it. Had it not been
+: for them, I'm sure cheap secure phones would be out right now.
+
+In the UK, it's impossible to get approval to attach any crypto device
+to the phone network.  (Anything that plugs in to our BT phone sockets
+must be approved - for some reason crypto devices just never are...)
+
+I was wondering some time ago how big a market there was for good old-
+fashion acoustic coupler technology to build a secure phone :-) ... is
+it possible to mask out all the real voice well enough so that none of
+it strays into the mouthpiece?  Perhaps a well-sealed coupler attachment
+that was as well blocked as possible, then a white noise generator on
+the outside to muffle any real speech?","{
+  ""id"": ""cmpl-80GVrV1zAOVFcnKh86o6yuMvLvbsy"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Encryption, Government, Secure, Acoustic Coupler, White Noise"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 279,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 293
+  }
+}","['Encryption, Government, Secure, Acoustic Coupler, White Noise']","Qualcomm, encryption, CDMA, BT, white noise"
+"
+
+Instead of reading between the lines, try to think a little bit. OK,
+if that's way too difficult to you, here are some hints.
+
+Indeed, the new proposal imposes some additional burocratic burden on
+the local police, if they badly want to tape the magic cookie recipie
+that your mom is telling you on the phone. So, guess what they will
+do? Propose that the new technology is removed? Or implement some
+""facilitations""? Of course, you won't want to wait until they get the
+approval from two different agencies to decrypt the conversation
+between two child molesters, because meanwhile those two child
+molesters might be conspiring about molesting your child, right? So,
+there should be some way for them to get access to those keys
+-quickly-, right? Like, they could have a copy of the database, and
+worry about a warrant later...
+
+Regards,
+Vesselin","{
+  ""id"": ""cmpl-80GVrDJsCxmVZkBKNK00wT1qJumCc"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nThinking,Hints,Burocratic,Technology,Conspiring"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 226,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 242
+  }
+}","['Thinking,Hints,Burocratic,Technology,Conspiring']","Child Molesting, Inc., new proposal, burocra"
+"-*-----
+
+These effects are a very real concern in conducting studies of new
+treatments.  Researchers try to limit this kind of effect by 
+performing studies that are ""blind"" in various ways.  Some of these
+are:
+
+  o  The subjects of the study do not know whether they receive a 
+     placebo or the test treatment, i.e., whether they are in the
+     control group or the test group.
+
+  o  Those administering the treatment do not know which subjects 
+     receive a placebo or the test treatment.
+
+  o  Those evaluating individual results do not know which subjects
+     receive a placebo or the test treatment.
+
+Obviously, at the point at which the data is analyzed, one has to 
+differentiate the test group from the control group.  But the analysis
+is quasi-public: the researcher describes it and presents the data on
+which it is based so that others can verify it.  
+
+It is worth noting that in biological studies where the subjects are
+animals, such as mice, there were many cases of skewed results because
+those who performed the study did not ""blind"" themselves.  It is not
+considered so important to make mice more ignorant than they already
+are, though it is important that in all respects except the one tested,
+the control and test groups are treated alike.","{
+  ""id"": ""cmpl-80GVrs0yAxeANl95pzHfmNjLv0j3i"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Blind, Placebo, Control, Test, Quasi-Public"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 307,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 320
+  }
+}","['Blind, Placebo, Control, Test, Quasi-Public']","researchers try to limit this kind of effect by performing studies that are """
+" 
+ 
+The argument goes as follows: Q-oid quotes appear in John, but not in
+the almost codified way they were in Matthew or Luke. However, they are
+considered to be similar enough to point to knowledge of Q as such, and
+not an entirely different source.
+ 
+ 
+ 
+We are talking date of texts here, not the age of the authors. The usual
+explanation for the time order of Mark, Matthew and Luke does not consider
+their respective ages. It says Matthew has read the text of Mark, and Luke
+that of Matthew (and probably that of Mark).
+ 
+As it is assumed that John knew the content of Luke's text. The evidence
+for that is not overwhelming, admittedly.
+ 
+ 
+ 
+When they are from about 200, why do they shed doubt on the order on
+putting John after the rest of the three?
+ 
+ 
+ 
+Sure, an original together with Id card of sender and receiver would be
+fine. So what's that supposed to say? Am I missing something?
+ 
+ 
+ 
+That John was a disciple is not generally accepted. The style and language
+together with the theology are usually used as counterargument.
+ 
+The argument that John was a disciple relies on the claim in the gospel
+of John itself. Is there any other evidence for it?
+ 
+One step and one generation removed is bad even in our times. Compare that
+to reports of similar events in our century in almost illiterate societies.
+Not even to speak off that believers are not necessarily the best sources.
+ 
+ 
+In other words, one does not know what the original of Mark did look like
+and arguments based on Mark are pretty weak.","{
+  ""id"": ""cmpl-80GVrhAZPmqRGQv7gt4xGbeiEwRpg"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Q-oid Quotes, Knowledge of Q, Time Order, John as Disciple"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 390,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 406
+  }
+}","['Q-oid Quotes, Knowledge of Q, Time Order, John as Disciple']",argument that John was a disciple relies on the gospel of John
+"I'm looking for a Sharp 6220 or TI Travelmate 2000 for parts.  Mine has
+a bad RAM chip on the motherboard and I want to see what I can get for
+parts before sending it off to Sharp for repairs.  If you have one,
+drop me a line.
+
+Also, I'm trying to set one up for a friend who needs to read his old
+5 1/4 inch diskettes.  Anyone have the pinout of the diskette expansion
+connector on the back of the 3.5 inch floppy box? 
+
+If you respond, please include a phone number. I can't always get through 
+with email.
+ 
+As always, 
+
+Thanks,
+
+Jim Lewczyk
+
+-- 
+Mailer address is buggy!  Reply to: jiml@strauss.FtCollinsCO.NCR.com","{
+  ""id"": ""cmpl-80GVrtHeHQ5qQDx6A46zgcNIFuxV1"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSharp 6220, TI Travelmate 2000, RAM chip, 5 1"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 205,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 221
+  }
+}","['Sharp 6220, TI Travelmate 2000, RAM chip, 5 1']","Sharp 6220, TI Travelmate 2000, Parts,"
+"Now, that Clinton can get e-mail, i'm wondering if Congress is also
+going on line.. If so, does anyone have the address to reach them??
+I'm also looking for Bill's e-mail address.
+please e-mail me, i am not a regualar reader of this newsgrouop.
+","{
+  ""id"": ""cmpl-80GVrO4fnLm87lk1rlyVGpY530360"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Clinton, Congress, Online, Bill, Email"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 88,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 97
+  }
+}","['Clinton, Congress, Online, Bill, Email']","Congress, E-mail, Bill Clinton,"
+"
+It likely has nothing to do with ""chunks of plaque"" but it sounds like
+you may have a neurovascular compromise to your arm and you need medical
+attention *before* doing any more weight lifting.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | ""Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon."" ","{
+  ""id"": ""cmpl-80GVr4hFO0SiWca4PPWeZoKiKMuld"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nPittsburgh, PA 15217     |                - Richard Webster\n----------------------------------------------------------------------------"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 132,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 148
+  }
+}","['Pittsburgh, PA 15217     |                - Richard Webster\n----------------------------------------------------------------------------']","Neurovascular compromise, Arm, Pitt,"
+ ,"{
+  ""id"": ""cmpl-80GVrRJginebmZX19LOzNqmVqflUE"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nOrganic, Sustainable, Agriculture, Environment, Nature"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 19,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 31
+  }
+}","['Organic, Sustainable, Agriculture, Environment, Nature']",Tags:
+"The article that follows was taken from the Wednesday, April 14,
+1993 issue of USA Today (""Drug Use Up At Younger Age"" by Mike
+Snider, p. 1A).
+
+    Drug use is on the rise among kids as young as eighth graders -
+    usually 13 - and they're using more LSD and inhalants like glue
+    and air fresheners, says a new survey.
+
+    The annual National High School Senior Survey on Drug Abuse finds
+    ""statistically significant increases"" in eighth-graders' use of
+    many drugs, including marijuana, cocaine, crack, LSD and inhalants.
+
+    ""We may be in danger of losing some ... hard-won ground (in reducing
+    drug use) as a new, more naive generation of youngsters enters
+    adolescence,"" says Lloyd Johnston, University of Michigan, chief
+    researcher on the study sponsored by the Department of Health and
+    Human Services.
+
+    But drug use among high school seniors is continuing a decade-long
+    decline.
+
+    The study of 50,000 students shows the percentage who tried the
+    following in the 30 days before they were polled:
+
+        * 8th-graders  - alcohol 26%; cigarettes 16%; marijuana 4%;
+                         cocaine 0.7%.
+
+        * 10th-graders - alcohol 40%; cigarettes 22%; marijuana 8%;
+                         cocaine 0.7%.
+
+        * 12th-graders - alcohol 51%; cigarettes 28%; marijuana 12%;
+                         cocaine 1.3%.
+
+    Among 12th-graders, use of marijuana, cocaine and inhalants
+    declined over the year before.  Not so with LSD.
+
+    * 2% of eighth-graders have tried LSD in the last year, up 24%
+    over 1991. 
+
+    * Use of LSD among seniors is at its highest point since 1982; 6%
+    tried it in the last year.
+
+    Reducing drug use among students ""requires a different kind of
+    strategy"" that Health Secretary Donna Shalala says will be part
+    of an overall illness prevention plan.
+
+    The survey shows drugs are easier to get and fewer eighth-graders
+    disapprove of them.
+
+    ""It's scary,"" Shalala says.  ""Dealers are focusing on younger, more
+    vulnerable kids.""
+
+
+Scott Kennedy,  Brewer and Patriot","{
+  ""id"": ""cmpl-80GVrzMuKNYhicVZrKSxjkDrs9qxR"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Scott Kennedy, Brewer, Patriot, Drug Use, Younger Age, Inhalants"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 514,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 530
+  }
+}","['Scott Kennedy, Brewer, Patriot, Drug Use, Younger Age, Inhalants']",Drug use among high school seniors is continuing a decade-long decline
+"
+For goodness sake if they had fired a cruise missile at the compound more
+people would have come out alive. It was obvious to anyone with the remotest
+contact with reality that such an outcome was likely (not just possible)
+however the fire started. As, Mr Lawnmower, you seem to have already entered
+your own little virtual reality I guess you can't be expected to understand
+things in the real universe.","{
+  ""id"": ""cmpl-80GVrEbI9IZtK6zkbkdG1Qc4jS5f3"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Cruise missile, Outcome, Reality, Lawnmower, Virtual reality."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 109,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 125
+  }
+}","['Cruise missile, Outcome, Reality, Lawnmower, Virtual reality.']","Virtual reality, not just possible, however the fire started."
+"
+No. When the program is run, it loads 4 configuration files; autoexec.bat,
+config.sys, win.ini, and system.ini. There is no Open entry on the File
+menu. You can only edit these four files. If you need to edit some other
+program's .ini file, use Notepad or some other ASCII editor.
+
+I wonder whether Microsoft intended for sysedit to be used, or if it was
+just a holdover from the testing period and they forgot to take it out. The
+reason I think this is because there is absolutely no mention in the manuals
+about this program, and there is no online help for it (just an About entry
+under the File menu). The program looks like something that was intended for
+internal use only. It's kind of a shame, though. It would have made a nice
+multi-file replacement for Notepad.","{
+  ""id"": ""cmpl-80GVrAWsRBepVud91xeETgLsAElyJ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nSysedit, Microsoft, Configuration, Files, Internal"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 208,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 219
+  }
+}","['Sysedit, Microsoft, Configuration, Files, Internal']","Microsoft, sysedit, configuration, system, holdover"
+"
+
+That is great to hear I just may have to take a raod trip to Milwakee this year and see that again.  Last time I saw Bernie Brewer was at the age of 10 and I am now 21 thanks for this post.
+
+
+Good to Bill is getting better form the limited coverage we get here in Iowa
+I know that this will be a great season for the BREW CREW!!
+","{
+  ""id"": ""cmpl-80GVrNEOCMmsbHHpBlaKe6e2gcdTn"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Road Trip, Milwaukee, Bernie Brewer, Limited Coverage, BREW CREW"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 105,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 120
+  }
+}","['Road Trip, Milwaukee, Bernie Brewer, Limited Coverage, BREW CREW']","Bernie Brewer, Milwakee, Iowa,"
+" >a real RNG ? This turns those S1,S2 in a kind of bottleneck for system-
+ >security.","{
+  ""id"": ""cmpl-80GVrEgUT7GhYYmtuuu3lSHRwluCf"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nRandomness, Security, System, Bottleneck, RNG"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 45,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 58
+  }
+}","['Randomness, Security, System, Bottleneck, RNG']","RNG, Security, S1, >"
+"
+Yes, Ivan Rodriguez, last year.  Batted .260 and threw out 51% of the
+baserunners.  Not too shabby for a rookie from AA.  20 years old last
+year.
+","{
+  ""id"": ""cmpl-80GVrMyH0onRmORfzOxfnfsCX1Bjh"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Ivan Rodriguez, rookie, last year, AA, 20 years old"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 66,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 79
+  }
+}","['Ivan Rodriguez, rookie, last year, AA, 20 years old']","Ivan Rodriguez, last year, batted.260 and"
+"Hello all,
+
+You, the Net, are my last resort, or I'll just change my job :-)
+This might be a FAQ (e.g. mixing controllers) but haven't seen any.
+
+Sys: 486/33, AMI BIOS, and your run-of-the mill multi-I/O card with
+serials/paral/floppies and 
+	- IDE controller ""clone"" Gw2760-EX
+		there are no jumpers affecting the HD or ctrller :-( 
+	- Quantum ProDrive LPS (3"" 105M type 47: 755cyl, 16hds, 17spt).
+
+Pb: I want to bring in this (2nd hand, neat price):
+	- Maxtor XT-B380E (~330M, <15ms, BIOS type 1, ctrller manages
+		the real geom: 1630cyl, 8hds, 52spt)
+	- Western Digital WD1007V-SE1 ESDI ctrller: no floppies.
+		(jumpers set IRQ 14/15, hw port addr 1F0/170,
+		and BIOS addr CC00/C800, and other floppy/format stuff)
+
+Goal: have the WD ESDI as a secondary/controller and have both disks 
+simultaneously working. Being able to boot from the ESDI too would be 
+a nice bonus but is not expected.
+
+Ultimate goal: have room for Linux et al.
+Ex of scheme I have in mind: boot from IDE (HD or floppy) and mount
+the ESDI as root. Not booting from ESDI, or even from HD, is acceptable.
+
+I have tried numerous (all!!) combinations to no avail. They work alone,
+or can coexist witout hang-ups but can't access the ESDI or the IDE, 
+depending on setup/jumpers.
+
+Useful suggestions might be:
+- How do I tell the BIOS setup about two ctrllers (I guess the 2nd HD
+is expected to hang off the same ctrller as the 1st).
+- Do I need some driver to make it work?
+- --- "" --- some new BIOS/chip for any of these cards?
+- do I have to buy another controller to make them HDs happy? IDE
+is cheaper; ESDI is hard to find and rather costly. I'm not 
+rich or I wouldnt' try to scavenge around, so soft slns are preferred.
+- adapters of some sort; I can hold a soldering iron, and can change
+a chip or put a jumper!
+
+Also useful:
+- BBS or Hot-line of Western Digital.
+- ftp archives with relevant info.
+- expert stores in Toronto, Ontario area (that would be a miracle! haven't
+seen any really knowledgeable ppl in a while)
+- any hints into inner workings of the system ... 
+- anything else that helped you in similar situations (prayers :-) )
+
+Direct or posted replies are ok.
+	Many thanks,
+			Cat.","{
+  ""id"": ""cmpl-80GVr2FE4Qk13IaLk2hE4sE7hd7s4"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Net, Job, FAQ, Sys, 486/33, BIOS,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 701,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 717
+  }
+}","['Net, Job, FAQ, Sys, 486/33, BIOS,']","ESDI, Western Digital, Ctrller, F"
+" 
+ 
+(Deletion)
+ 
+ 
+You have given that example. It is not lenient. End of argument.
+ 
+And chopping off the hands or heads of people is not lenient either. It
+rather appears that you are internalized the claims about the legal system
+without checking if they suit the description.
+ 
+And wasn't the argument that it takes five men to rape a woman according
+to Islamic law?
+ 
+ 
+ 
+No, I even believe what I don't like. Can you give better answers than that?
+Have you got any evidence for your probably opposite claims?
+ 
+ 
+ 
+A fact, if memory serves. And most will see the connection between the
+primitive machism in the Orient and in Islam.
+ 
+ 
+As usually you miss the point. Aids is  neither spread only through sex
+nor necessarily spread by having sex. Futher, the point is, a very important
+point, the urge for sex is stronger than the fear of AIDS. It is even
+stronger than the religious attempts to channel or to forbid sex. The
+consequences of suppressing sex are worse than the consequences of Aids.
+Please note that the idea that everybody would end up with AIDS when sex
+is not controlled is completely counterfactual.
+ ","{
+  ""id"": ""cmpl-80GVrFyF8B8D7wKZEcWUKf9t7ChwT"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Deletion, Religion, Sex, AIDS, Counterfactual"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 300,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 313
+  }
+}","['Deletion, Religion, Sex, AIDS, Counterfactual']","Argument, Law, Aids, Chopping off the hands or heads"
+"
+
+As a libertarian (with a small l) who voted for Clinton, I think that he
+should abolish the Selective Service and the draft.  If his conscience
+forbade him to go to war in Vietnam, it should forbid him to perpetuate
+this system of government-sanctioned slavery.
+
+
+If our government would pay attention to SERIOUS domestic issues (the ECONOMY)
+and choose to stay out of other people's wars (Iraq, Bosnia, Somalia),
+we would not be in this fix.  An anyway, couldn't the jobs be replaced by
+improving our domestic situation?  (I'm not for continued deficit spending,
+but if Clinton and Congress want to spend, I'd rather they improve the 
+infrastructure than fight other people's wars.)
+
+
+A novel idea:  Getting away from naval bases, what about refurbishing
+decommissioned Air Force bases as airports?  This would be SO much cheaper
+than building them from the ground up (Denver's new airport is one of the 
+most appalling examples of pork-barreling and cronyism I have seen in
+my lifetime).  Even if no more airports are needed, I'm sure Bill Gates
+or Ross Perot would LOVE to have their own private airfields, and the
+money from their purchases could be applied to the public debt.
+","{
+  ""id"": ""cmpl-80GVr7A21k85GbuwLUsZlubO9vgNp"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""  Libertarianism, Selective Service, Government Slavery, Domestic Issues, Infrastructure"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 306,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 322
+  }
+}","['Libertarianism, Selective Service, Government Slavery, Domestic Issues, Infrastructure']","Libertarian, Bill Gates, Ross Perot, Domestic,"
+"
+Women's pants rarely have pockets and most, when they do, are too
+shallow to use!
+
+I is very important for a woman to have her keys in her hand when
+she goes from building to a car. It is protect herself from
+would be assilants by broadcasting that this is someone who
+as a definite place of safty (ie a locked car!).
+
+Puting keys and walet looks ugly! It breaks the lines and makes
+you rear look wide as a cows!
+
+ Also, to have the habits that
+work for any clothing situation, the pruse functions no mater
+what you are wearing! (even nude or a bikni)
+
+A women's suit coat is lucky to have 2 pockets (2 on the outside,
+none on the inside). I have men's coats that have as much as 6
+pockets! This is definitally not fair!!!
+
+As one that wears both men's and women's clothes, I can tell you,
+women's clothes have few if any funtional pockets!
+
+When dressed as a man, I put my wallet on my inside coat pocket and
+my keys in a coat outside pocket. It is much more covenent
+than the pants pockets and looks better.
+
+Having a car that unlocks quickly and locks back fast is
+paramout to a woman's safty. Men don't see this as a problem.
+A woman is aware of this every time she goes out! (i.e.
+Image some red necks yelling at you ""We are going to FUCK YOU!""
+and the out weight you by 20 lbs and have 3 inches in hight
+on you!)
+
+If you want to find out why a women does something, LIVE AS ONE!","{
+  ""id"": ""cmpl-80GVrKjju0w5fiyTUzEdDHFWPnnaD"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nWomen, Safety, Pockets, Car, Locking"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 389,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 402
+  }
+}","['Women, Safety, Pockets, Car, Locking']","Women's clothes, safty, car,"
+"****************************************************
+12) Management: BIG BIG ZERO. Sauer has yet to make a forceful agreement
+in favor of revenue sharing.
+******************************************************
+
+
+I meant argument instead of agreement.
+Also, I think I should add a coouple of Ted's positive achievements
+- Smiley trade was good for the pirates. but I think Ted could have gotten
+someone better than Neagle. Cummings seems to be pretty good.
+- The Cole trade was excellent. BUt Simmons has botched it up now.
+-This year's draft seems to have gone well for the PIrates. BUt then they
+lost 2 high picks in the Bonds fiasco.","{
+  ""id"": ""cmpl-80GVrmnnVJUK5RzxNq7B0cPWwFklB"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nRevenue Sharing, Management, Smiley Trade, Cole Trade, Draft"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 156,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 172
+  }
+}","['Revenue Sharing, Management, Smiley Trade, Cole Trade, Draft']",- The Cole trade was good for the PIrates.
+"I think if there is to be a prize and such.. There should be ""classes""
+such as the following:
+
+Large Corp.
+Small Corp/Company (based on reported earnings?)
+Large Government (GNP and such)
+Small Governemtn (or political clout or GNP?)
+Large Organization (Planetary Society? and such?)
+Small Organization (Alot of small orgs..)
+
+The organization things would probably have to be non-profit or liek ??
+
+Of course this means the prize might go up. Larger get more or ??
+Basically make the prize (total purse) $6 billion, divided amngst the class
+winners..
+More fair?
+
+There would have to be a seperate organization set up to monitor the events,
+umpire and such and watch for safety violations (or maybe not, if peopel want
+to risk thier own lives let them do it?).","{
+  ""id"": ""cmpl-80GVrHEXwJBxxEYv5K06oyJiSpnQU"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nPrize, Classes, Large Corporation, Small Corporation, Government, Organization"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 215,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 231
+  }
+}","['Prize, Classes, Large Corporation, Small Corporation, Government, Organization']","Prize, Corporation, Government, GNP, Small Organization,"
+Anyone have the AL individual stats or where i can find them?,"{
+  ""id"": ""cmpl-80GVrtgypWSoB8NG1fZHxVyX9iQZ7"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074167,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAL, Individual Stats, Find, Search, Baseball"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 31,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 43
+  }
+}","['AL, Individual Stats, Find, Search, Baseball']","AL, Individual Stats, Where,"
+"........
+
+It looks like the Edmonton Oilers just decided to take a European
+vacation this spring...
+
+Ranford, Tugnutt, Benning, Manson, Smith, Buchberger, and Corson
+are playing for Canada.
+
+Podein and Weight are playing for the US.
+
+Is Kravchuk playing for the Russians...I know he had nagging
+injuries late in the season.
+
+Podein is an interesting case...because he was eligible to
+play in Cape Breton in the AHL playoffs like Kovalev, Zubov,
+and Andersson...obviously Sather and Pocklington are not
+the total scrooges everyone makes them out to be...certainly
+in this case they've massively outclassed Paramount and the
+New York Rangers.","{
+  ""id"": ""cmpl-80GVsebqQiTNTvqVVXlrlCNLfPA5W"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nEdmonton Oilers, European Vacation, Canada, USA, Russia,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 190,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 206
+  }
+}","['Edmonton Oilers, European Vacation, Canada, USA, Russia,']","Edmonton, Oilers, European vacation, Podein, Weight,"
+"In his neverending effort to make sure that we do not forget         
+     what a moron he is, Brad Hernlem has asked why Israel rarely
+     abides by UN Security Council resolutions.  Perhaps the list
+     below might answer the question.  
+
+
+     Incident                           Security Council Response
+     ------------------------------------------------------------                                              
+  1. Hindu-Moslem clash in INdia, over 2,000 killed, 1990    NONE
+  2. Gassing to death of over 8,000 Kurds by                 NONE
+     Iraqi Air Force, 1988-89    
+  3. Saudi security forces slaughter                         NONE
+     400 pilgrims in Mecca, 1987      
+  4. Killing by Algerian army of 500 demonstrators, 1988     NONE
+  5. Intrafada (Arabs killing Arabs) -- over 300 killed      NONE
+  6. 30,000 civilians slaughtered by government              NONE
+     troops in Hama, Syria, 1982                                
+  7. Killing of 5,000 Palestinians by Jordanian troops,      NONE
+     thousands expelled, Sept., 1970                                
+  8. 87 Moslems killed in Egypt, 1981                        NONE  
+  9. 77 killed in Egyption bread riots, 1977                 NONE
+ 10. 30 border and rocket attacks against Israel by          NONE
+     the PLO in 1989 alone                     
+ 11. Munich, 1972: 11 Israeli athletes slaughtered           NONE
+ 12. Ma'alot, 1974: children killed in PLO attack            NONE
+ 13. Israel Coastal bus attack: 34 dead, 82 wounded          NONE
+ 14. Syria kills 23,000 Palestinians, 1976                   NONE
+ 15. Lebanon: over 150,000 dead since 1975                   NONE
+ 16. Yemen: 13,000 killed in two weeks, 1986                 NONE
+ 17. Sudan: Tens of thousands of Black slaves,               NONE
+     Civil War toll, 1 million killed, 3 million refugees        
+ 18. Tienenman Square massacre 1989                          NONE
+ 19. Rumania, 3,000 killed, 1989                             NONE
+ 20. Pan Am 103 disaster carried out by the P.L.O            NONE
+ 21. Northern Ireland                                        NONE
+ 22. Cambodia                                                NONE
+ 23. Soviet Occupation of Afghanistan                        NONE
+ 24. American riots at Attica, Watts, Newark, Kent State     NONE
+ 25. 1981: Israel destroys Iraqi reractor, Israel         CONDEMNED
+ 26. 1990: Israeli police protect Israeli worshipers      CONDEMNED
+     against Arab mob, 18 anti-Jewish rioters killed                     
+ 27. Syrian soldiers slaughter Christian soldiers            NONE
+     after they surrender, 1990                                       ","{
+  ""id"": ""cmpl-80GVsCAnf5eskQfUeXm77hsfWFNIw"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nBrad Hernlem, UN Security Council, Israel, Resolution, Mor"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 596,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 612
+  }
+}","['Brad Hernlem, UN Security Council, Israel, Resolution, Mor']","Israel, PLO, Arab, War, Conflict,"
+"Well my last two motorcycles have been shaft driven and they will wheelie.
+The rear gear does climb the ring gear and lift the rear which gives an
+odd feel, but it still wheelies.
+","{
+  ""id"": ""cmpl-80GVsEsgzCz9Sx895P5g5Pdd7UqBp"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Motorcycles, Shaft Driven, Wheelie, Gear, Ring Gear"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 75
+  }
+}","['Motorcycles, Shaft Driven, Wheelie, Gear, Ring Gear']","Motorcyclist, Rear Gear, Gym,"
+"
+
+    Yip, we had the same problem; the only fix we found was to link static
+some of the clients, ( btw, we used cc). :-(.
+","{
+  ""id"": ""cmpl-80GVs98vG2p6khIywISSlH0nhVilu"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Static, Link, Clients, CC, Problem"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 57,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 67
+  }
+}","['Static, Link, Clients, CC, Problem']","static, cc, fix, Yip,"
+"Hi...I need some info on video card.  I am looking a video card that can
+deliver a high quality picture.  I need the card to display images (well
+for advertising company btw), so it must be rich with colors and the speed
+must be fast too.
+
+I am just wondering if somebody can advise me what to buy for such
+application, and possible the address of the vendor.","{
+  ""id"": ""cmpl-80GVsdTDZ0VUCu5J35NIFO6fAMNFl"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nVideo card, image, high quality, colors, speed"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 105,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 117
+  }
+}","['Video card, image, high quality, colors, speed']","Video card, Advertising, Quality, Speed"
+"We are trying to write a program which can read files created by quattro
+pro 3.0 and above.  Would anyone know where to find information regarding
+the format in which Quattro Pro stores its files.
+
+Thanks in Advance
+Mahesh","{
+  ""id"": ""cmpl-80GVsl8S1ZgQ9Ln2eaJMG4mnOl3nQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Quattro Pro, File Format, Program Reading, 3.0+, Information"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 73,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 89
+  }
+}","['Quattro Pro, File Format, Program Reading, 3.0+, Information']","Quattro Pro, 3.0, Above, Format,"
+"GB> From: geb@cs.pitt.edu (Gordon Banks)
+GB> >(I am excepting migraine, which is arguably neurologic).
+GB> I hope you meant ""inarguably"".
+
+Given the choice, I would rather argue <g>.
+
+No arguments about migranous aura; in fact, current best evidence is
+that aura is intrinsicially neuronal (a la spreading depression of
+Leao) rather than vascular (something causing vasoconstriction and
+secondary neuronal ischemia).
+
+Migraine without aura, however, is a fuzzier issue.  There do not
+seem to be objectively measurable changes in brain function.  The
+Copenhagen mafia (Lauritzen, Olesen, et al) have done local CBF
+studies on migraine without aura, and (unlike migraine with aura,
+but like tension-type) they found no changes in LCBF.
+
+From one (absurd) perspective, *all* pain is neurologic, because in
+the absence of a nervous system, there would not be pain.  From
+another (tautologic) perspective, any disease is in the domain of
+the specialty that treats it.  Neurologists treat headache,
+therefore (at least in the USA) headache is neurologic.
+
+Whether neurologic or not, nobody would disagree that disabling
+headaches are common.  Perhaps my fee-for-service neurologic
+colleagues, scrounging for cases, want all the headache patients
+they can get.  Working on a salary, however, I would rather not fill
+my office with patients holding their heads in pain.","{
+  ""id"": ""cmpl-80GVsxYdcVYS5rReVkQqyxe6eTx8B"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nHeadache, Migraine, Neurologic, Aura, Vascular, N"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 373,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 389
+  }
+}","['Headache, Migraine, Neurologic, Aura, Vascular, N']","Neurologists treat headache, therefore (in the USA) headache is neuro"
+"I'm looking to buy a 100% working keyboard for a 286 system (preferably 
+a 101 layout.)  I'm looking to spend about $20.
+
+
+-- ","{
+  ""id"": ""cmpl-80GVs3JdsjlPg5NsJSjBaOm1dcNJZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" 286 Keyboard, Pre-1995, 101 Layout, Working, $20"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 56,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 70
+  }
+}","['286 Keyboard, Pre-1995, 101 Layout, Working, $20']","Keyboard, 286, Layout,"
+"
+
+I agree.  Six hour long stretches behind the wheel really make me
+thirsty, especially for something with caffeine.  I consider it a
+failing of my car that it has no cup holder nor anywhere to put a cup
+holder.","{
+  ""id"": ""cmpl-80GVshjwJ74J2LCYV3QFuxjdUJosW"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\ncar, driving, thirst, caffeine, cup holder"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 71,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 82
+  }
+}","['car, driving, thirst, caffeine, cup holder']","Six hour long stretches behind the wheel, caffeine, cup holder"
+"I downloaded an image of the earth re-constructed from elevation data taken
+at 1/2 degree increments. The author (not me) wrote some c-code (included)
+that read in the data file and generated b&w and pseudo color images. They
+work very well and are not incumbered by copyright. They are at an aminet
+site near you called earth.lha in the amiga/pix/misc area...
+
+I refer you to the included docs for the details on how the author (sorry, I
+forget his name) created these images. The raw data is not included.
+
+-- 
+	David
+
+	David M. Ingebretsen
+	Evans & Sutherland Computer Corp.
+	dingebre@thunder.sim.es.com","{
+  ""id"": ""cmpl-80GVsdOQlpk3DVvDs7Adyi2iOzZfv"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" \""david m ingebretsen\""\n\nearth, elevation, data"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 189,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 205
+  }
+}","['""david m ingebretsen""\n\nearth, elevation, data']","Earth, Reconstructed, 1/2 degree increments, c-code"
+"
+have you tried printing the data file (TIFF) from another application such 
+as freehand or PageMaker?  I have found that Photoshop has occasional 
+problems printing files that I can print through other applications.
+
+-GReg","{
+  ""id"": ""cmpl-80GVsgwSumvIMQUGVbTMMNeek4m06"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Printing, Data File, TIFF, Freehand, PageMaker"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 71,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 84
+  }
+}","['Printing, Data File, TIFF, Freehand, PageMaker']","Photoshop, TIFF, Freehand, PageMaker,"
+": I have notice a lot of electronics questions by people who are obviously not 
+: ""tuned-in"" to electronics.  Many of them have rather simple answers, and 
+: many of them require a circuit diagram.
+
+: Rather than muck up the network, why don't you write to me, send a self-
+: addressed, stamped envelop, and I'll answer your questions, if I can.
+
+: W. L. Willis, P. E.
+: 114 Fern Circle
+: Clemson, SC 29631
+
+Because the network is quicker, easier, and free (at least to me).
+
+-- 
+------------------------------------------------------------------------------
+Christopher Wolf             Electrical Engineer                cmwolf@mtu.edu","{
+  ""id"": ""cmpl-80GVsc3g9t6G4jLZ3XuiRyMzMuvrX"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nElectronics, Questions, Answers, Circuit Diagram, Network"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 171,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 184
+  }
+}","['Electronics, Questions, Answers, Circuit Diagram, Network']","electronics, questions, circuit diagram, muck"
+"	>
+	>In the UK, it's impossible to get approval to attach any crypto device
+	>to the phone network.  (Anything that plugs in to our BT phone sockets
+	>must be approved - for some reason crypto devices just never are...)
+	>
+
+	Whats the difference between a V.32bis modem and a V.32bis modem?
+
+	I'm not being entirely silly here: what I'm pointing out is that the
+	modems that they have already approved for data transmission will work
+	just fine to transmit scrambled vocoded voice.
+
+Absolutely.  I just meant that no secure *dedicated* crypto device has
+ever been given approval.  Guerrilla underground devices should be well
+possible with today's high-speed modems (not that I can think of many v32bis
+modems that are approved either mind you - just the overpriced Couriers)
+
+Can someone tell me if hardware compression is or is not needed to run
+digital speech down 14.4K?  I think it is; I've heard it's not.  Lets
+say 8 bit samples.  Would *raw* data at the corresponding sampling rate
+be usable?  If not, how fancy does the compression need to be?","{
+  ""id"": ""cmpl-80GVsah5z54dKfQoDrabZKZTo57aw"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nCryptography, Phone Network, V32bis, Hardware Compression, Digital"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 286,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 302
+  }
+}","['Cryptography, Phone Network, V32bis, Hardware Compression, Digital']","crypto device, BT, sampling rate, compression, voice"
+"I have the following program on CD ROM forsale:
+
+
+	Toolwork MPC Encyclopedia on CD-ROM
+	- Multimedia
+	- Brand new
+	  - Shrink-wrapped
+
+
+Asking : $50 / obo
+
+Send reply to : sam@ocf.berkeley.edu","{
+  ""id"": ""cmpl-80GVsJCA10nw6SCdauefEBpdXJ2sO"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nMultimedia, Toolwork, CD-ROM, Encyclopedia, Shrink"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 86,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 102
+  }
+}","['Multimedia, Toolwork, CD-ROM, Encyclopedia, Shrink']","Toolwork, MPC Encyclopedia, CD-ROM, Shrink-"
+"Is it possible to use WinQVT/Net on a machine that uses NDIS to connect to a
+Token Ring ? I tried it with older versions (< 3.2) but got an invalid packet
+class error or something the like...
+
+Regards,","{
+  ""id"": ""cmpl-80GVscxFpWDKyzlesD3f1VnxAhYSL"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nWinQVT/Net, NDIS, Token Ring, Invalid Packet"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 72,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 88
+  }
+}","['WinQVT/Net, NDIS, Token Ring, Invalid Packet']","WinQVT/Net, NDIS, Token Ring,"
+"
+DFW was designed with the STS in mind (which really mean very little).  Much of
+their early PR material had scenes with a shuttle landing and two or three
+others pulled up to gates.  I guess they were trying to stress how advanced the
+airport was.
+
+For Dallas types:  Imagine the fit Grapevine and Irving would be having if the
+shuttle WAS landing at DFW. (For the rest, they are currently having some power
+struggles between the airport and surrounding cities).","{
+  ""id"": ""cmpl-80GVsZSICCVgP0LcZUSuKBJM4IkBC"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nDFW, STS, Shuttle, Grapevine, Irving"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 128,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 141
+  }
+}","['DFW, STS, Shuttle, Grapevine, Irving']","DFW, STS, Shuttle, Gates, Fit"
+"Can anybody figure out why some box score abbreviations make
+absolutely no sense?  (At least in the local Gannett rag that finds its way
+to my door.)  I must have stared at ""Cleman"" in the Mets' box for a
+good 30 seconds this morning wondering who the hell it was.  Wouldn't
+it make more sense to use ""Colemn""?","{
+  ""id"": ""cmpl-80GVsyIEgl10ayXVVaUvTjbiKQvKb"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nBox score, Abbreviations, Gannett, Mets, Cle"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 98,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 114
+  }
+}","['Box score, Abbreviations, Gannett, Mets, Cle']","Box Score Abbreviations, Mets, Colleman,"
+"I'm using ""rayshade"" on the u.w. computers here, and i'd like input
+from other users, and perhaps swap some ideas.  I could post
+uuencoded .gifs here, or .ray code, if anyone's interested.  I'm having
+trouble coming up with colors that are metallic (i.e. brass, steel)
+from the RGB values.
+
+If you're on the u.w. machines, check out ""~fineman/rle.files/*.rle"" on 
+stein.u.washington.edu for some of what i've got.  ","{
+  ""id"": ""cmpl-80GVsSw7dgOauFRu9OlMRXJ50vYG5"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nrayshade, u.w computers, swap ideas, uuenc"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 154,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 170
+  }
+}","['rayshade, u.w computers, swap ideas, uuenc']",".rayshade, u.w. computers,"
+"
+
+No problems.","{
+  ""id"": ""cmpl-80GVsfWb40qsQMyD39MpUNzGLMjws"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Smooth, Convenience, Calm, Seamless, Stress-free"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 24,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 39
+  }
+}","['Smooth, Convenience, Calm, Seamless, Stress-free']",No Problems
+"
+
+	People took this article seriously?  I mean, I know it's the
+Net and all, but the prankster didn't even have Clinton's sound-bites
+right.
+
+","{
+  ""id"": ""cmpl-80GVsFscC1AAIAtd1YKPgdIzDMEiF"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Prank, Clinton, Sound-Bites, Internet, Seriously"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 59,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 72
+  }
+}","['Prank, Clinton, Sound-Bites, Internet, Seriously']","Clinton, sound-bites, Net, prankster,"
+"
+
+Which means he has absolutely no idea about what the Assumption is.
+
+However greatly we extoll Mary, it is quite obvious that she is in no
+way God or even part of God or equal to God.  The Assumption of our
+Blessed Mother, meant that because of her close identification with the
+redemptive work of Christ, she was Assumed (note that she did not
+ASCEND) body and soul into Heaven, and is thus one of the few, along
+with Elijah, Enoch, Moses (maybe????) who are already perfected in
+Heaven.  Obviously, the Virgin Mary is far superior in glorification to
+any of the previously mentioned personages.
+
+Jung should stick to Psychology rather than getting into Theology.","{
+  ""id"": ""cmpl-80GVskZjK0UvGZJYxekiCz0lx9LNH"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nAssumption, Mary, God, Redemptive, Theology"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 182,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 196
+  }
+}","['Assumption, Mary, God, Redemptive, Theology']","Jung, Theology, Assumption, Redemption, Christ"
+"
+I haven't followed whatever discussion there may have been on these
+people, but I feel that C. S. Lewis is an excellent apologist and I
+see no reason for embarrassment.  If you think that errors and flawed
+arguments are a reason for dismissing a thinker, you must dismiss
+nearly every thinker from Descartes to Kant; any philosophy course
+will introduce you to their weaknesses.  
+ 
+  The above also expresses a rather odd sense
+
+I said nothing about ""the masses.""  However comparing ""the masses"" in
+our day and in Aquinas' day really *is* odd.  Read Ortega y Gasset on
+this.
+
+I'm talking about the familiar experience of arguing all night and
+winning on logic and evidence, only to discover your opponent to be
+unaware, even intuitively, of things like entailment (let alone
+pragmatics).  (I am assuming that both parties are college graduates
+or better...)  Myself, I don't bother any more.
+
+Ken","{
+  ""id"": ""cmpl-80GVsJFa8d477iBGDjVzEswKqB7jW"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nApologetics, C.S. Lewis, Descartes, Kant"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 241,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 257
+  }
+}","['Apologetics, C.S. Lewis, Descartes, Kant']","C. S. Lewis, Aquinas, Philosophy"
+"Laptop Connectivity Cards
+-------------------------
+
+Part #T2RN
+Desc: 3270 Remote Emulation Card for Toshiba Laptop Computer
+
+Part #T324M
+Desc: Easytalk 2400 bd dedicated internal modem with MNP level 5 for
+      Toshiba T1200 & T1600
+
+Part #T2LL
+Desc: Easytalk internal ethernet card for toshiba laptop expansion slot.
+
+Part #T232
+Desc: Easytalk 3270 Terminal emulation for toshiba laptop expansion slot","{
+  ""id"": ""cmpl-80GVs82Cff2le5jaLBpCINMywFuiH"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074168,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nLaptop, Connectivity, Modem, Ethernet, Terminal Emulation"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 127,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 143
+  }
+}","['Laptop, Connectivity, Modem, Ethernet, Terminal Emulation']","Easytalk, 3270, Terminal Emulation, Toshiba, T1"
+"I have an applicationShell which uses a colormap created with
+XCreateColormap() and uses all of the colors available for my 8-bit
+display.  When I move the cursor over the window I get the ""Technicolor
+Effect"" - which is fine.  Basically, my program works.
+
+My problem/question is: When I popup a dialogShell to prompt the user for
+some input I want the XmNdialogStyle to be set to
+XmDIALOG_PRIMARY_APPLICATION_MODAL.  The result is that if my cursor is
+over the dialogShell I get my colormap, but if the cursor is over the
+applicationShell (or any window other than the dialogShell) I get the
+default colormap.  But I'd like it so that if my cursor is over _any_
+window of my application, I get my colormap.
+
+Any suggestions?  Thanks,","{
+  ""id"": ""cmpl-80GVt5NDLPEmm7AOkSE1xKlKquxI4"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nColormap, XCreateColormap(), XmNdialog"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 224,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 240
+  }
+}","['Colormap, XCreateColormap(), XmNdialog']","Colormap, Application, XCreateColormap()"
+"Sorry to everyone for wasting space.  Matt, the other day you posted that
+you were doing a mailing list of playoff stats.  I lost your address. 
+Please put me on that list.  Thanks.","{
+  ""id"": ""cmpl-80GVthasrHkapMrjQmSuJA68epUrl"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" mailing list, stats, playoff, apology, address"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 63,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 73
+  }
+}","['mailing list, stats, playoff, apology, address']","Matt, sorry for wasting space."
+"
+
+On my LC (RZ to any ex-colonists) I replaced the bolt at the bottom of the barrel
+with a tap. When I wanted a coffee I could just rev the engine until boiling
+and pour out a cup of hot water.
+I used ethylene glycol as antifreeze rather than methanol as it tastes sweeter.
+
+(-:","{
+  ""id"": ""cmpl-80GVt1nIFfCxBoOACIRhOCDWonact"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\ncoffee, tap, engine, antifreeze, ethylene gly"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 100,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 116
+  }
+}","['coffee, tap, engine, antifreeze, ethylene gly']","LC, RZ, Tap, Ethanol"
+"Hello all,
+
+If anyone knows of a place to get the case to hold the power supply and
+motherboard of a Quadra 950 please let me know.  I have tried some mail
+order places and some local stores.  Both groups would prefer that I part
+with over $1000 to get just the case.  In my eyes this seems about $600-$700
+to much.  Any comments?  I currently own the guts of a 950.
+
+Please email me or post to this group w/ info,","{
+  ""id"": ""cmpl-80GVtEDvtSEkfSP5EEEkXg98gErj5"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nQuadra 950, Case, Power Supply, Motherboard, Mail Order"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 128,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 144
+  }
+}","['Quadra 950, Case, Power Supply, Motherboard, Mail Order']","Quadra 950, Power Supply, Motherboard, Support,"
+"
+
+CNN just claimed he bought 104 ""semi-automatic assault rifles"".  And
+they say Koresh wasn't god-like...  He managed to buy or build a
+collection of fully-automatic semi-automatic rifles...  Quite a feat,
+I would say.  ;-)
+
+They're still making charges of ""sexual abuse"" and such, or course.
+Nobody seems to have noticed that the Treasury department has nothing
+to do with sex crimes.  Or maybe the feds have recently instituted a
+TAX on sex crimes...  Yeah, that's why the BATF was there, looking for
+unregistered *guns* (""this is my weapon, this is my gun, this is for
+fighting, this is for..."").
+
+
+I also heard that they're claiming to be cautious because of Koresh's
+""heated ammunition stockpile"".  I seem to recall that smokeless powder
+tends to decompose at even moderate temperatures.  I would be rather
+surprised, after a fire of that nature, if *any* of his ""stockpile"" is
+unexploded, or unburned.
+
+
+I seem to recall that aluminum powder is a common component of
+fireworks...  The folks on rec.pyro could probably tell you.
+
+
+I think *anything* is legal if you have the proper license.  If he had
+a ""curios and relics"" permit, I believe he could legally own
+handgrenades to go with his launcher.
+
+--
+Charles Scripter   *   cescript@phy.mtu.edu
+Dept of Physics, Michigan Tech, Houghton, MI 49931","{
+  ""id"": ""cmpl-80GVtcLrSAe90JMpOm2wVwEDziG5y"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""<=\nguns, ammunition, stockpile, fire, license"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 372,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 384
+  }
+}","['<=\nguns, ammunition, stockpile, fire, license']","Michigan Tech, Houghton, MI 49931, """
+"
+
+	That's true. Israeli ID cards do not identify people
+	as Israelies. Smart huh?
+
+
+
+	Yes. There's one warhead in my parent's backyard in
+	Beer Sheva (that's only some 20 miles from Dimona,
+	you know). Evidence? I saw it!
+
+ 
+
+	Yes. But unfortunately I can't give you more details.
+	That's _secret_, you see.
+
+
+			[...]
+
+
+
+	You're welcome. Now, let me ask you a few questions, if you
+	don't mind:
+
+	1. Is it true that the Center for Policy Research is a 
+	   one-man enterprise?
+
+	2. Is it true that your questions are not being asked
+	   bona fide?
+
+	3. Is it true that your statement above, ""These are indeed 
+	   provocative questions but they are asked time and again by
+	   people around me"" is not true?
+","{
+  ""id"": ""cmpl-80GVtqfErMk6ATTkC67PhlpEG8G46"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Israeli ID, Warhead, Beer Sheva, Dimona, Secret"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 229,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 243
+  }
+}","['Israeli ID, Warhead, Beer Sheva, Dimona, Secret']","Center for Policy Research, a one-man enterprise, does not"
+" 
+
+I dunno, on my old GS1000E the tank-seat junction was nice and smooth.
+But if you were to travel all the way forward, you'd collect the top
+triple-clamp in a sensitive area. I'd hate to have to make the choice,
+but I think I'd prefer the FJ's gas tank. :-)","{
+  ""id"": ""cmpl-80GVt6CUbpxeLS9Pqd4lab3BJFJKx"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" \nMotorcycle, Tank, Junction, Travel, Clamp."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 93,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 107
+  }
+}","['Motorcycle, Tank, Junction, Travel, Clamp.']","FJ's gas tank, seat, junction, sensitive"
+"   During the Detroit game Mon night there were octopus thrown on
+   the ice what is the meaning or symbolism here?  They used to
+   throw fish on the ice here in Spokane afew years ago. I never 
+   knew where this came from.
+","{
+  ""id"": ""cmpl-80GVtOsziL64EdAymQ7frBQuAm8dw"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Octopus, Hockey, Detroit, Spokane, Meaning"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 74,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 84
+  }
+}","['Octopus, Hockey, Detroit, Spokane, Meaning']","Detroit, octopus, fish, symbol"
+"
+Right now, I'm just going to address this point.
+When the Jewish National Fund bought most of its land,
+It didn't buy it from the Palestinians themselves, because,
+for the most part, they were tenant farmers (fallahin),
+living on land owned by wealthy Arabs in Syria and Lebanon.
+The JNF offered a premium deal, so the owners took advantage of
+it.   It's called commerce.  The owners, however, made no 
+provisions for those who had worked for them, basically shafting 
+them by selling the land right out from under them.
+They are to blame, not the Jews.
+
+","{
+  ""id"": ""cmpl-80GVtYsE5ExNGHQKC6Uhj22QsMOu4"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1695074169,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Jewish National Fund, Commerce, Fallahin, Palestinians, Syria, Lebanon"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 156,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 171
+  }
+}","['Jewish National Fund, Commerce, Fallahin, Palestinians, Syria, Lebanon']","Jewish National Fund, Purchased Most of its Land, Fallahin"

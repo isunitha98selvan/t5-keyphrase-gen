@@ -1,0 +1,2001 @@
+text,api_response,keywords
+I was wondering if anyone out there could enlighten me on this car I saw the other day It was a 2door sports car looked to be from the late 60s early 70s It was called a Bricklin The doors were really small In addition the front bumper was separate from the rest of the body This is  all I know If anyone can tellme a model name engine specs years of production where this car is made history or whatever info you have on this funky looking car please email,"{
+  ""id"": ""cmpl-7zfPvZ6wFzJNUgryuP1OGrJXVBbAg"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nBricklin, 2-door sports car, late 60s,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 116,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 132
+  }
+}","['Bricklin, 2-door sports car, late 60s,']"
+A fair number of brave souls who upgraded their SI clock oscillator have shared their experiences for this poll Please send a brief message detailing your experiences with the procedure Top speed attained CPU rated speed add on cards and adapters heat sinks hour of usage per day floppy disk functionality with 800 and 14 m floppies are especially requested  I will be summarizing in the next two days so please add to the network knowledge base if you have done the clock upgrade and havent answered this poll Thanks,"{
+  ""id"": ""cmpl-7zfPvzvNuTb7ukPTvBACmMEQYC9zY"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Clock Upgrade, Top Speed, CPU Rated Speed, Heat Sinks, Floppy"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 114,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 130
+  }
+}","['Clock Upgrade, Top Speed, CPU Rated Speed, Heat Sinks, Floppy']"
+well folks my mac plus finally gave up the ghost this weekend after starting life as a 512k way back in 1985  sooo im in the market for a new machine a bit sooner than i intended to be  im looking into picking up a powerbook 160 or maybe 180 and have a bunch of questions that hopefully somebody can answer   does anybody know any dirt on when the next round of powerbook introductions are expected  id heard the 185c was supposed to make an appearence this summer but havent heard anymore on it  and since i dont have access to macleak i was wondering if anybody out there had more info   has anybody heard rumors about price drops to the powerbook line like the ones the duos just went through recently   whats the impression of the display on the 180  i could probably swing a 180 if i got the 80Mb disk rather than the 120 but i dont really have a feel for how much better the display is yea it looks great in the store but is that all wow or is it really that good  could i solicit some opinions of people who use the 160 and 180 daytoday on if its worth taking the disk size and money hit to get the active display  i realize this is a real subjective question but ive only played around with the machines in a computer store breifly and figured the opinions of somebody who actually uses the machine daily might prove helpful   how well does hellcats perform    thanks a bunch in advance for any info  if you could email ill post a summary news reading time is at a premium with finals just around the corner    Tom Willis    twillisecnpurdueedu        Purdue Electrical Engineering,"{
+  ""id"": ""cmpl-7zfPv2ZQqN27WPGZ7FuWaiDTLwvNN"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""MacPlus, Powerbook, Display, Disk, Hellcats"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 354,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 366
+  }
+}","['MacPlus, Powerbook, Display, Disk, Hellcats']"
+Do you have Weiteks addressphone number  Id like to get some information about this chip,"{
+  ""id"": ""cmpl-7zfPvuBgpTtSY3uuQe2qdZ89fVEgd"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nWeitek, addressphone, chip, information, number"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 37,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 50
+  }
+}","['Weitek, addressphone, chip, information, number']"
+From article C5owCBn3pworldstdcom by tombakerworldstdcom Tom A Baker   My understanding is that the expected errors are basically known bugs in the warning system software  things are checked that dont have the right values in yet because they arent set till after launch and suchlike Rather than fix the code and possibly introduce new bugs they just tell the crew ok if you see a warning no 213 before liftoff ignore it,"{
+  ""id"": ""cmpl-7zfPvBxDlGRRUSjdngh99KMLFiwK5"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nwarning system, software bugs, known bugs, error checking, lifto"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 108,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 124
+  }
+}","['warning system, software bugs, known bugs, error checking, lifto']"
+Of course  The term must be rigidly defined in any bill   I doubt she uses this term for that  You are using a quote allegedly from her can you back it up     I read the article as presenting first an argument about weapons of mass destruction as commonly understood and then switching to other topics The first point evidently was to show that not all weapons should be allowed and then the later analysis was given this understanding to consider another class,"{
+  ""id"": ""cmpl-7zfPukhQBf0JkOobG9GRMxurD3iSj"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931570,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" weapons, mass destruction, argument, bill, quote"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 105,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 115
+  }
+}","['weapons, mass destruction, argument, bill, quote']"
+There were a few people who responded to my request for info on treatment for astrocytomas through email whom I couldnt thank directly because of mailbouncing probs Sean Debra and Sharon  So I thought Id publicly thank everyone  Thanks   Im sure glad I accidentally hit rn instead of rm when I was trying to delete a file last September Hmmm News Whats this,"{
+  ""id"": ""cmpl-7zfPvgpkjEb8zmwgv7WCKOHr379Xd"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAstrocytomas, Treatment, Email, Thanks, Accidental"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 95,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 111
+  }
+}","['Astrocytomas, Treatment, Email, Thanks, Accidental']"
+ALL this shows is that YOU dont know much about SCSI  SCSI1 with a SCSI1 controler chip range is indeed 05MBs and that is ALL you have right about SCSI SCSI1 With a SCSI2 controller chip 46MBs with 10MBs burst 8bit  Note the INCREASE in SPEED the Mac Quadra uses this version of SCSI1  so it DOES exist Some PC use this set up too SCSI2 8bitSCSI1 mode          46MBs with 10MBs burst SCSI2 16bitwide or fast mode  812MBs with 20MBs burst SCSI2 32bitwide AND fast     1520MBs with 40MBs burst   By your OWN data the Although SCSI is twice as fast as ESDI is correct With a SCSI2 controller chip SCSI1 can reach 10MBs which is indeed 20 faster than IDE 120 of 83 is 996 ALL these SCSI facts have been posted to this newsgroup in my Mac  IBM info sheet available by FTP on  sumexaimstanfordedu 364406 in the infomacreport as  macibmcompareversion txt It should be 173 but 161 may still be there  Part of this problem is both Mac and IBM PC are inconsiant about what SCSI is which  Though it is WELL documented that the Quadra has a SCSI2 chip an Apple salesperson said it uses a fast SCSI1 chip Not at a 6MBs 10MBs burst it does not SCSI1 is 5MBs maximum synchronous and Quadra uses ANsynchronous SCSI which is SLOWER  It seems that Mac and IBM see SCSI1 interface and think SCSI1 when it maybe a SCSI1 interface driven in the machine by a SCSi2 controller chip in 8bit mode Which is MUCH FASTER then true SCSI1 can go,"{
+  ""id"": ""cmpl-7zfPvQbV08cBA38fwtS4chmz7ahYL"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSCSI, Controller, Chip, Speed, ESDI"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 410,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 424
+  }
+}","['SCSI, Controller, Chip, Speed, ESDI']"
+I have win 30 and downloaded several icons and BMPs but I cant figure out how to change the wallpaper or use the icons  Any help would be appreciated   Thanx  Brando,"{
+  ""id"": ""cmpl-7zfPvdBLOLzTrEOffD4wxJibGvUjk"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" wallpaper, icons, BMPs, change, help"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 56,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 67
+  }
+}","['wallpaper, icons, BMPs, change, help']"
+Ive had the board for over a year and it does work with Diskdoubler but not with Autodoubler due to a licensing problem with Stac Technologies the owners of the boards compression technology Im writing this from memory Ive lost the reference Please correct me if Im wrong  Using the board Ive had problems with file icons being lost but its hard to say whether its the boards fault or something else however if I decompress the troubled file and recompress it without the board the icon usually reappears Because of the above mentioned licensing problem the freeware expansion utility DD Expand will not decompress a boardcompressed file unless you have the board installed  Since Stac has its own product now it seems unlikely that the holes in AutodoublerDiskdoubler related to the board will be fixed Which is sad and makes me very reluctant to buy Stacs product since theyre being so stinky But hey thats competition,"{
+  ""id"": ""cmpl-7zfPvmNCGSkXlMtyHcbStMzVDxo4a"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nBoard, Compression, Technology, Licensing, File Icon"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 205,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 219
+  }
+}","['Board, Compression, Technology, Licensing, File Icon']"
+I have a line on a Ducati 900GTS 1978 model with 17k on the clock  Runs very well paint is the bronzebrownorange faded out leaks a bit of oil and pops out of 1st with hard accel  The shop will fix trans and oil  leak  They sold the bike to the 1 and only owner  They want 3495 and I am thinking more like 3K  Any opinions out there  Please email me Thanks  It would be a nice stable mate to the Beemer  Then Ill get a jap bike and call myself Axis Motors     Tuba Irwin      I honk therefore I am     CompuTracRichardsonTx irwincmptrclonestarorg    DoD 0826          R756,"{
+  ""id"": ""cmpl-7zfPvSjuSEm5bo6621C8flpDQAASp"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nDucati 900GTS, 1978 Model, 17k km,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 172,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 188
+  }
+}","['Ducati 900GTS, 1978 Model, 17k km,']"
+Yep thats pretty much it Im not a Jew but I understand that this is the Jewish way of thinking However the Jews believe that the Covenant between YHWH and the Patriarchs Abraham and Moses in this case establishes a Moral Code to follow for mankind Even the Jews could not decide where the boundaries fall though  As I understand it the Sadducees believed that the Torah was all that was required whereas the Pharisees the ancestors of modern Judaism believed that the Torah was available for interpretation to lead to an understanding of the required Morality in all its nuances Talmud  The essence of all of this is that Biblical Morality is an interface between Man and YHWH for a Jew or Christian and does not necessarily indicate anything about YHWH outside of that relationship although one can speculate   The trouble with all of this is that we dont really know what the created in His image means Ive heard a number of different opinions on this and have still not come to any conclusion This rather upsets the Apple Cart if one wants to base a Life Script on this shaky foundation to mix metaphors unashamedly As to living by Christs example we know very little about Jesus as a person We only have his recorded utterances in a set of narratives by his followers and some very small references from comtemporary historians Revelation aside one can only know Christ secondhand or worse  This is not an attempt to debunk Christianity although it may seem that way initially the point Im trying to make is that we only really have the Bible to interpret and that interpretation is by humanity I guess this is where Faith or Relevation comes in with all its inherent subjectiveness   No There may be an absolute moral code There are undoubtably multiple moral codes The multiple moral codes may be founded in the absolute moral code As an example a parent may tell a child never to swear and the child may assume that the parent never swears simply because the parent has told the child that it is wrong Now the parent may swear like a trooper in the pub or bar where there are no children The wrongness here is if the child disobeys the parent The parent may feel that it is inappropriate to swear in front of children but may be quite happy to swear in front of animals The analogy does not quite hold water because the child knows that he is of the same type as the parent and may be a parent later in life but you get the gist of it Incidentally the young child considers the directive as absolute until he gets older see Piaget and learns a morality of his own  David   On religion,"{
+  ""id"": ""cmpl-7zfPvkqkSQI7DYmyfa1pZIncrw6Nx"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" morality, YHWH, covenant, Torah, Talmud, interpretation, faith"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 533,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 549
+  }
+}","['morality, YHWH, covenant, Torah, Talmud, interpretation, faith']"
+,"{
+  ""id"": ""cmpl-7zfPv1XJxF19G1bcc4mR8RMc7P5fJ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nCrowdfunding, Donations, Financing, Support, Charities"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 19,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 35
+  }
+}","['Crowdfunding, Donations, Financing, Support, Charities']"
+Description of External Tank option for SSF redesign deleted   Yo Ken lets keep ontop of things Both the External Tank and Wingless Orbiter options have been deleted from the SSF redesign options list Todays 423 edition of the New York Times reports that OConnor told the panel that some redesign proposals have been dropped such as using the giant external fuel tanks used in launching space shuttles and building a station around an existing space shuttle with its wings and tail removed  Currently there are three options being considered as presented to the advisory panel meeting yesterday and as reported in todays Times  Option A  Low Cost Modular Approach This option is being studied by a team from MSFC As an aside there are SSF redesign teams at MSFC JSC and LaRC supporting the SRT Station Redesign Team in Crystal City Both LeRC and Reston folks are also onsite at these locations helping the respective teams with their redesign activities Key features of this option are     Uses Bus1 a modular bus developed by Lockheed thats      qualified for STS and ELVs The bus provides propulsion GNC      Communications  Data Management Lockheed developed this      for the Air Force     A Power Station Capability is obtained in 3 Shuttle Flights      SSF Solar arrays are used to provide 20 kW of power The vehicle      flies in an arrow mode to optimize the microgravity environment      ShuttleSpacelab missions would utilize the vehilce as a power      source for 30 day missions     Human tended capability as opposed to the old SSF sexist term      of mantended capability is achieved by the addition of the      US Common module This is a modified version of the existing      SSF Lab module docking ports are added for the International      Partners labs taking the place of the nodes on SSF The      Shuttle can be docked to the station for 60 day missions      The Orbiter would provide crew habitability  EVA capability     International Human Tended Add the NASDA  ESA modules and      add another 20 kW of power     Permanent Human Presence Capability Add a 3rd power module      the US habitation module and an ACRV Assured Crew Return      Vehicle  Option B  Space Station Freedom Derived The Option B team is based at LaRC and is lead by Mike Griffin This option looks alot like the existing SSF design which we have all come to know and love   This option assumes a lightweight external tank is available for use on all SSF assembly flights so does option A Also the  number of flights is computed for a 516 inclination orbit for both options A and B  The buildup occurs in six phases     Initial Research Capability reached after 3 flights Power      is transferred from the vehicle to the OrbiterSpacelab when      it visits     ManTended Capability Griffin has not yet adopted nonsexist      language is achieved after 8 flights The US Lab is      deployed and 1 solar power module provides 20 kW of power     Permanent Human Presence Capability occurs after 10 flights by      keeping one Orbiter onorbit to use as an ACRV so sometimes      there would be two Orbiters onorbit  the ACRV and the      second one that comes up for Logistics  Resupply     A Two Fault Tolerance Capability is achieved after 14 flights      with the addition of a 2nd power module another thermal      control system radiator and more propulsion modules     After 20 flights the Internationals are onboard More power      the Habitation module and an ACRV are added to finish the      assembly in 24 flights  Most of the systems currently on SSF are used asis in this option  with the exception of the data management system which has major changes,"{
+  ""id"": ""cmpl-7zfPvXPt5tu1m9ZsblawAwlZDrwyl"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" SSF, redesign, external tank, modular, New York Times, advisory panel"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 754,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 770
+  }
+}","['SSF, redesign, external tank, modular, New York Times, advisory panel']"
+Reduced Prices  I have a list of things forsale on behalf of my brother whos moving moved already  								Offer 1 Black and Decker Duster Plus Portable Hand Vaccum	  	purchased for 32 					  12  2 SR1000 Dual Cassette Portable Player AMFM 5Band graphics Equalizer high speed dubing Duo  TapeTape deck A seems to have lost treble sound  But I bet  its fixable 	purchased for 80					  25  3Monolux Zoom MicroScope up to 1200X magnification Made in Japan includes case and accessories 	purchased for 50					  20  4Sunbeam 1400 Hair Dryer the dryer you put your  head underinto You know the ones you see in the salons Dont ask me why my bro had it 	purchased for 60				          24  5Everylast Speed Bag all leather Brand new never  used								  10  6Osterizer Pusle Matic Blender with 10 speeds  and a cookbook 5 years old					  10 	purchased for 50  8Binolux Binoculars  7x35 extra wide angle 525ft at 1000yds with case very new		                  20  9Proctor and Silex SpraySteam and Dry Iron very new							  10   Any questions contact me thru email and I will reply expeditously And always SH are not included so please consider this  And lastly Im a very reasonableVery Reasonable,"{
+  ""id"": ""cmpl-7zfPvJjfwlFnJao0sOv2aNW1feECu"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Reduced Prices, Bargains, Savings, Offer, Discounts"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 366,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 378
+  }
+}","['Reduced Prices, Bargains, Savings, Offer, Discounts']"
+Dont be so sure  Look what happened to Japanese citizens in the US during World War II  If youre prepared to say Lets round these people up and stick them in a concentration camp without trial its only a short step to gassing them without trial  After all it seems that the Nazis originally only intended to imprison the Jews the Final Solution was dreamt up partly because they couldnt afford to run the camps because of the devastation caused by Goerings Total War  Those who werent gassed generally died of malnutrition or disease,"{
+  ""id"": ""cmpl-7zfPvjIBQZqN5VBhIrxIEIJ9QwMfj"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nNazis, War, Total War, Concentration Camp, Holocaust"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 125,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 139
+  }
+}","['Nazis, War, Total War, Concentration Camp, Holocaust']"
+I certainly do use it whenever I have to do TIFF and it usually works very well  Thats not my point  Im philosophically opposed to it because of its complexity  This complexity has led to some programs poor TIFF writers making some very bizarre files other programs inability to load TIFF images though theyll save them of course and a general inability to interchange images between different environments despite the fact they all think they understand TIFF  As the saying goes Its not me Im worried about its all the abuse of TIFF over the years and I chalk it all up to the immense and unnecessary complexity of the format  In the words of the TIFF 50 spec Appendix G page G1 capitalized emphasis mine  The only problem with this sort of success is that TIFF was designed to be powerful and flexible at the expense of simplicity  It takes a fair amount of effort to handle all the options currently defined in this specification PROBABLY NO APPLICATION DOES A COMPLETE JOB and that is currently the only way you can be sure that you will be able to import any TIFF image since there are so many imagegenerating applications out there now   If a program or worse all applications cant read every TIFF image that means there are some it wont some that I might have to deal with  Why would I want my images to be trapped in that format  I dont and neither should anyone who agrees with my reasoning not that anyone does of course,"{
+  ""id"": ""cmpl-7zfPvyN8oVYeiwq9eDdPpVoTyOBCF"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" TIFF, complexity, interchange, trapped, program."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 310,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 321
+  }
+}","['TIFF, complexity, interchange, trapped, program.']"
+I recently posted an article asking what kind of rates single male drivers under 25 yrs old were paying on performance cars Heres a summary of the replies I received            Im not under 25 anymore but is 27 close enough   1992 Dodge Stealth RTTwin Turbo 300hp model No tickets no accidents own a house have taken defensive driving 1 airbag abs security alarm single   1500year  500 decut State Farm Insurance this includes the additional 100 for the 1000000 umbrella policy over my car and house  The base policy is the standard 100000  100000  300000 policy required in DE   After 2nd defensive driving course it will be 5 less   I bought the car in September 1992  The company I was with never had and accident or ticket in 11 years quoted me 2500   Hope this helps   Steve Flynn University of Delaware  45       Kevin       Hope I remembered your name correctly       You asked about insurance for performance cars  Well last year     I was in a similar situation before I bought my car and made the     same inquiry as you       Age 24 then and now     Car 1992 Eagle Talon TSi AWD     Driving Record Clean     State Illinois     Cost 8206 mos       I turn 25 in May and the insurance goes down to 5206 mos     Also Im single and that incurs a higher rate with my company       Ive got a couple other friends w AWDs and they pay more     than I do different ins companies also so maybe Im just lucky       Hope the info helps       Dan     dansjdcgssmotcom     Motorola Cellular Subscriber Group    38  USA Cc   Im 23 live in Norman Oklahoma drive an 89 Thunderbird SC have never made a claim against my insurance though I have been hit several times by negligent drivers who couldnt see stop signs or were fiddling with their radios and I have had three moving violations in the last 18 months one for going 85 in a 55 one for failure to clear an intersection I still say the damn light was yellow and one for going 35 in a 25 which didnt go on my record My rates from State Farm with a passive restraint deduction on liability 500 deductible comprehensive and 500 deductible collision are roughly 1300year I was paying just over 1100year for a 92 Escort LX   				James   James P Callison    Microcomputer Coordinator U of Oklahoma Law Center Callisonuokmaxecnuoknoredu       Callisonaardvarkucsuoknoredu DISCLAIMER Im not an engineer but I play one at work 		The forecast calls for Thunder89 TBird SC    Its a hell of a thing killing a man You take away all he has 	and all hes ever gonna have 			Will Munny Unforgiven  61   I am beyond the under 25 age group but I have an experience a few years ago that might be interesting to you  I owned a 1985 Toyota Celica GT  I decided to buy myself a gift  a more exotic car  Front runners included the Toyota Supra Turbo and the Porsche 924 1987 model years I narrowed it down to those two  I liked the simplicity and handling and snob appeal too of driving a Porsche  The Supra Turbo was less money and had more features and performance  almost a personal luxury car  It had better acceleration and a higher top speed than the 924 I was almost ready to give in to a buying impulse for the 924 but i decided to stop by my insurance agents office on the way  I asked about what would happen to my rate with either car   If you buy the Supra your rate classification will be the same as the Celica the 85 Celica was considered a subcompact and for that year was rated as one of the safest cars with a slight increase because the car will be 2 years newer  Our lowerrisk division will continue to handle your account   If you buy the Porsche 924 well have to change you to the standard higher rate company and your rate will double  And if you go with a 944 its another story again  well cover the rest of this year but cancel you after that   But the Supra is much faster than the 924 and the 924 is actually faster than the standard 944  That doenst make sense    Thats what the book says  We dont insure Corvettes either  For some reason the underwriters consider Supras  and their drivers  as very traditional and conservative   I eventually went with the Supra for a number of reasons  The Porsche dealer had a nice salesman to get me interested but a tough highpressure guy in the back room  At equal monthly payments it would have taken a year longer to pay for the Porsche plus its higher insurance  I concluded that the high insurance was related to probability of auto theft                 Everyones entitled to MY opinion        ____        goldbergoasysdtnavymil Imagination is more important than knowledge  Albert Einstein            32   I live in Idaho  When I was 26 many years ago 10 years I bought a Trans Am new  Insurance was about 1300year  When I turned 26 it immediately dropped to 460year  I had not had any accidents before or after this was strictly an age change  That same rate stayed pretty much the same until I sold the car 2 years ago  My F150 pickup is about 80year less   The real amazing thing is that when I woke up at age 25 I felt SO MUCH MORE RESPONSIBLE than I was before     Wes    21     For your information California Male single under 25  No moving violation Alfa Spider       2000  year   What a bargain  28   Lets see Im 24 single male clean driving record I have a 92 VW COrrado VR6 I live in San Jose California I pay 1500 a year through Allstate A good deal if you ask me   I was thinking about getting a Talon but I think the insurance is higher for a turbo sports car vs a V6   W    27   1986 Honda CRX Si clean record in a small New Mexico town was around 800 per year age 24   Nearby city rates were 15X2X higher than where Ive got mine insured   robert  Robert Stack  Institute of Transportation Studies Univ of CaliforniaIrvine                stacktranslabitsuciedu   92 Mazda Protege LX  37 1300 per year 1992 Saturn SC 21 Years old State New Mexico Insurance State Farm      64     Here is my info   Car              89 Toyota Celica ST Insurance Co     Farmers Insurance Yearly insurance 2028 Age              24 Date of license  Oct 14 1992 Residence        Mountain View California No moving violations for now atleast    Hope this helps Please post a summary if possible   Vijay  Vijay Anisetti Email anisettiinformixcom   Apt 4159620320   Off 4159266547  38 Single 24 years old Eagle Talon Turbo AWD 1200 fullcover reasonable  liability No tickets No violations No accidents knock on wood Mass   	One thing that makes a HUGE difference in MASS is the town you live in Im personally in one of the best towns within reasonable distance of Boston  If I moved to the absolute best it would go down to about 1150 if I moved to the worst it would be 2000   	Also one accident and a couple of tickets would probably add another 600     	_RV      43 I have a 1990 Mitsubishi eclipse turbo awd am 23 years old and have no tickets that went on my record  I live in Illinois just outside of Chicago and pay 1560 a year with full coverage at State Farm  I did get a small discount because of my alarm system30 a year  I only live 15 miles from Chicago but if I actually lived in the city the price would be about 2000 a year  41 Im over 25 but in case youre interested anyway Im insuring a 93 SHO for 2876 month  Thats 100k personal300k total100k property with 250 deductible glass and towing State Farm    39   Unless you are under 20 or have been driving for less than 5 years I think you are being seriously ripped off  I dont have one of the performance cars you listed but if your record is clean then you should not be paying over 2K   Did you try calling all the insurance dealers you could find Although rates are supposed to be standardized Ive found that most places I initially call give me some ridiculously high quote and finaly I hit one that is much lower   Also I have changed insurance companies when the rate went up at renewal no accidents tickets car gets older to maintain a low rate  You always have to be careful when it comes to insurance companies 8,"{
+  ""id"": ""cmpl-7zfPvygVYU8WihKXWlr01Z6NpBuNt"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Keywords: Performance cars, single, male, under 25, insurance"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 1769,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 1783
+  }
+}","['Keywords: Performance cars, single, male, under 25, insurance']"
+I would like to be able to amplify a voltage signal which is output from a thermocouple preferably by a factor of 100 or 1000  so that the resulting voltage can be fed more easily into a personalcomputerbased ADC data acquisition card  Might anyone be able to point me to references to such circuits  I have seen simple amplifier circuits before but I am not sure how well they work in practice  In this case Id like something which will amplify sufficiently nicely to be used for thermocouples say a few degrees accuracy or better,"{
+  ""id"": ""cmpl-7zfPvXWA2ZMXhiOyL0NbEXtMfe6FK"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAmplify, Voltage Signal, Thermocouple, Personal Computer"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 124,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 140
+  }
+}","['Amplify, Voltage Signal, Thermocouple, Personal Computer']"
+QUESTION   What is the EXACT entry parameter and syntax please in the XTerminal configuration file loaded when the XTerminal boots to add another system  to the TCPIP access control list       BACKGROUND   I have two unix systems 1 an ATT 3B2 running X11R3 and MITs X11R4 and  2 a Sun SS10 without any X     I want to have a window to the Sun and the 3B2 on the NCD XTerminal at the same time  I can do this if I manually set the Network Parameter TCPIP Access Control List to off then login to my telnet session Not Great     Ive tried to get xhost to work and failed  Either my syntax is wrong or the X11R3 implementation is bogus     I am trying to edit the NCD configuration file that is loaded when the  NCD boots  No matter what entry I add or edit the NCD still boots with the TCPIP Access Control list containing only the 3B2   My manuals are worthless so any help would be most appreciated  Thanks,"{
+  ""id"": ""cmpl-7zfPvXSoFRiEh8l1Z3oB2sawVQsRP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nXTerminal, NCD, TCPIP, X11R3"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 238,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 254
+  }
+}","['XTerminal, NCD, TCPIP, X11R3']"
+These dont seem like little things to me  At least they are orders worse than the motto  Do you think that the motto is a little thing that will lead to worse things,"{
+  ""id"": ""cmpl-7zfPvOA1PTPN6Z9BmpYbqKlANEfxE"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Motto, Little Things, Worse Things, Orders, Lead"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 65
+  }
+}","['Motto, Little Things, Worse Things, Orders, Lead']"
+I think that Mike Foligno was the captain of the Sabres when he got traded to the Leafs Also wasnt Rick Vaive the captain of the Leafs when he got traded to Chicago with Steve Thomas for Ed Olcyzk and someone Speaking of the Leafs I believe that Darryl Sittler was their captain hed torn the C off his jersey but I think he reclaimed the captaincy later on when he was traded to the Flyers  Oh yeah of course Gretzky was the captain of the Oilers before he was traded wasnt he,"{
+  ""id"": ""cmpl-7zfPvVwALxSItLetmivy7eSwt4tiq"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nMike Foligno, Rick Vaive, Darryl Sitt"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 127,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 143
+  }
+}","['Mike Foligno, Rick Vaive, Darryl Sitt']"
+The Catalog of Personal Computing Tools for Engineers and Scien    tists lists hardware cards and application software packages for     PCXTATPS2 class machines  Focus is on engineering and scien    tific applications of PCs such as data acquisitioncontrol     design automation and data analysis and presentation       If you would like a free copy reply with your U S Postal     mailing address  I have a copy of this catalog in front of me as I write this It does have tons of qool stuff in it  My impression is that they try not to send it out to browsers It appears that if your not a buyer or an engineer they do not want to waste a catalog on you When you get a catalog theres a VIP Code you have to give them to ensure your continued subscription Anyway if you want to get in touch with them the company is  Personal Computing Tools 550 Division Street Campbell CA 95008 408 3788400  They also have fax s and toll free s for ordering and tech support,"{
+  ""id"": ""cmpl-7zfPv0AWSYErQ0OQtaPgzyvjIaxSZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nPersonal Computing, Engineering, Science, PCXTATPS2, Data"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 217,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 233
+  }
+}","['Personal Computing, Engineering, Science, PCXTATPS2, Data']"
+The control box of the Window itself upper left corner of the window single click am I being too simplistic has a font option The 8 X 12 is about the biggest one I can use without the characters turning funky,"{
+  ""id"": ""cmpl-7zfPvf5Mxuizgm3ZWgn2vzTSzuY4o"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nControl Box, Window, Corner, Single Click, Font Option"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 59,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 73
+  }
+}","['Control Box, Window, Corner, Single Click, Font Option']"
+I dont know about the specific problem mentioned in your message but I definitely had SCSI problems between my Q700 and my venerable Jasmine Megadrive 10 cartridge drives  My solution was to get Silverlining  None of the loops that involved blind writes worked to the drives in fact the only loop that worked was the Macintosh Software loop whatever that means,"{
+  ""id"": ""cmpl-7zfPvldx3TXIiJ4hYrFZKkgOXhdGu"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSCSI,Q700,Jasmine,Megadrive 10"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 87,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 103
+  }
+}","['SCSI,Q700,Jasmine,Megadrive 10']"
+Hello      I am looking to add voice input capability to a user interface I am developing on an HP730 UNIX workstation  I would greatly appreciate  information anyone would care to offer about voice input systems that are  easily accessible from the UNIX environment        The names or adresses of applicable vendors as well as any  experiences you have had with specific systems would be very helpful       Please respond via email I will post a summary if there is  sufficient interest   Thanks Ken   PS  I have found several impressive systems for IBM PCs but I would  like to avoid the hassle of purchasing and maintaining a separate PC if  at all possible   Ken Hinckley kph2qvirginiaedu University of Virginia  Neurosurgical Visualization Laboratory,"{
+  ""id"": ""cmpl-7zfPvJ6KWDjqyTzKV1C05GgV8oJjK"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Voice input, UNIX, HP730, Vendors, Systems."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 168,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 182
+  }
+}","['Voice input, UNIX, HP730, Vendors, Systems.']"
+Actually fossil fuel plants run hotter than the usual  boilingwater reactor nuclear plants  Theres a gripe in the industry that nuclear power uses 1900 vintage steam technology  So its more important in nuclear plants to get the cold end of the system as cold as possible  Hence big cooling towers           Oil and gas fired steam plants also have condensers but they usually are sized to get the steam back into hot water not most of the way down to ambient  Some plants do cool the condensers with water rather than air as one Canadian official asked about thermal  pollution deicing a river said Up here we view heat as a resource           Everybody runs closedcycle boilers  The water used is  purified of solids which otherwise crud up the boiler plumbing when the water boils  Purifying water for boiler use is a bigger job than  cooling it so the boiler water is recycled,"{
+  ""id"": ""cmpl-7zfPvaO3HPQnFV6Zu3TBmeTNCkBVq"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nFossil fuel, Nuclear plants, Steam technology, Cooling towers,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 194,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 210
+  }
+}","['Fossil fuel, Nuclear plants, Steam technology, Cooling towers,']"
+Doug Roberts  Ken Hill for NL MVP 	       Lets go Spos,"{
+  ""id"": ""cmpl-7zfPvv0pUld7fT2Qe1N0atoc0n9KM"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nDoug Roberts, Ken Hill, NL MVP, Lets Go, Spos"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 33,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 49
+  }
+}","['Doug Roberts, Ken Hill, NL MVP, Lets Go, Spos']"
+Yes  I am adamantly an environmentalist  I will not use styrofoam table service Please keep that in mind as you read this post  I do not wish to attack environmentalism  A half truth is at least as dangerous as a complete lie  A complete lie will rarely be readily accepted while a half truth the lie subtly hidden is more powerfully offered by one who masquerades as an angel of light  Satan has for some people loosened the grip on treating the earth as something other than Gods intricate handiwork something other than that on which the health of future generations is based  It is being treated with respect  You think hes going to happily leave it at that  No  When one error is rejected it is his style to push people to the opposite error  Therefore the earth is not Gods intricate handiwork not because it is rubbish but because it is God  Mother earth is the one you are to primarily love and serve  I see two facets of a response to it  1 Care for the environment  Treat it with proper respect both because it is    Gods intricate handiwork and the health of future generation and because    showing the facet of one who is disregardful of such things does not    constitute what the Apostle Paul called becoming all things to all men so    that by all possible means I might save some     Dont say Forget the environment Ive got important things to spend my time    on  putting your foot in your mouth in this manner will destroy your    credibility in expressing the things that _are_ more important  2 Show that it is not the ultimate entity that it is creature and not    creator  Show that its beauty and glory points to a greater beauty and    glory  Show that it is not the ultimate tapestry but one of many cords    woven in the infinite tapestry,"{
+  ""id"": ""cmpl-7zfPvbkk5LOKkAhfIe4ZkKeRnm5Vu"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Environmentalism, Treat Respectfully, God's Handiwork, Care for the"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 388,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 404
+  }
+}","[""Environmentalism, Treat Respectfully, God's Handiwork, Care for the""]"
+It depends on your priorities  A lot of people put higher priorities on gas mileage and cost than on safety buying unsafe econoboxes instead of Volvos  I personally take a middle ground  the only thing I really look for is a threepoint seatbelt and 5mph bumpers I figure that 30mph collisions into brick walls arent common enough for me to spend that much extra money for protection but there are lots of lowspeed collisions that do worry me,"{
+  ""id"": ""cmpl-7zfPv0jIWsLm5b7ghkzW2QsUb2qRt"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\npriorities, gas mileage, cost, safety, Volvos"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 114,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 130
+  }
+}","['priorities, gas mileage, cost, safety, Volvos']"
+The front covers should be available from Sony  Check with a local car stereo shop  You will probably definitely have to provide the units  serial number and hopefully you had registered the warranty card  I  dont know the cost but replacements have to be available to people who damage the face cover so it stands to reason that it can be replaced  As to deterring theft  When I worked for a stereo shop we referred the customer to a Sony 800 number  We would not sell the face nor did we have them available  Most people who came in asking for the face cover or a pullout sleave for that matter would look very disheartened to find that they acquired a deck they couldnt use  If theft occurs with these decks notify Sony  Serial numbers do catch theives,"{
+  ""id"": ""cmpl-7zfPv7LnegdgyekcTlkKbu6NI1CYP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSony, Face Cover, Stereo Shop, Serial Number, Theft"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 174,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 189
+  }
+}","['Sony, Face Cover, Stereo Shop, Serial Number, Theft']"
+My 14yo son has the usual teenage spotty chin and greasy nose  I bought him Clearasil face wash and ointment  I think that is probably enough along with the usual good diet  However he is on at me to get some product called Dalacin T which used to be a doctorsprescription only treatment but is not available over the chemists counter  I have asked a couple of pharmacists who say either his acne is not severe enough for Dalacin T or that Clearasil is OK  I had the odd spots as a teenager nothing serious  His father was the same so I dont figure his acne is going to escalate into something disfiguring  But I know kids are senstitive about their appearance  I am wary because a neighbours son had this wierd malady that was eventually put down to an overdose of vitamin A from acne treatment  I want to help  but with appropriate treatment  My son also has some scaliness around the hairline on his scalp  Sort of teenage cradle cap  Any pointersadvice on this  We have tried a couple of anti dandruff shampoos and some of these are inclined to make the condition worse not better  Shall I bury the kid till hes 21,"{
+  ""id"": ""cmpl-7zfPvQPX132mR35ewGnI1u3E3SXsf"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931571,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" teenage acne, Clearasil, Dalacin T, teenage scalp disorder,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 271,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 287
+  }
+}","['teenage acne, Clearasil, Dalacin T, teenage scalp disorder,']"
+Just as a not of possible interest on this subject  It is my understanding that exploding televisions were a major cause of domestic accidents in the Soviet Union in past years,"{
+  ""id"": ""cmpl-7zfPwB6FbXGCOqD8Fm2w5lWGxb0Zf"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nExploding televisions, Soviet Union, Domestic accidents, Past years,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 67
+  }
+}","['Exploding televisions, Soviet Union, Domestic accidents, Past years,']"
+How do you define war  Do seiges and constant attacks on villiages count as acts of war or is that only when the Jews do them January 1948 Arab Liberation Army attacks Kfar Szold                1000 men attack Kfar Etzion 14 miles south of Jerusalem                     after cutting off the supply lines to it Attacks on Yehiam Western Galilee and kibbutz Tirat Tzvi By MidMarch The Jewish settlements in the Negev had been cut off from       land links with the rest of the Jewish population          The Etzion group of villiages near Hebron had been cut off             while 42 members of a convoy trying to supply Yehiam were             slaughtered cutting off the villiage Jerusalem was under seige being cut off from its supply route from      Tel Aviv the bombed out supply trucks have been left on the side      of that road to this day in memoriam  By this time 1200 Jews       had been killed  Of course this isnt war since its only the Arabs attacking Just like last week when the Fatah launched Katyusha rockets against Northern israel  Where does uprising end and war begin Will it still be Intifadah when the PLO brings in tanks,"{
+  ""id"": ""cmpl-7zfPwdIE3PKKQvmuz4shfBMUu3OHO"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" War, Conflict, Seige, Attacks, Intifadah"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 263,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 276
+  }
+}","['War, Conflict, Seige, Attacks, Intifadah']"
+Once again it appears that the oneeyed man has appeared in the land of the sighted and for some strange resaon has appointed himself the ruler and supreme power,"{
+  ""id"": ""cmpl-7zfPwU7Y28vUUuRg19MIjMTCdBDI7"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Sighted, Oneeyed, Ruler, Power, Strange"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 51,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 62
+  }
+}","['Sighted, Oneeyed, Ruler, Power, Strange']"
+Funny you should mention this one time on HNIC Don Cherry pointed out Vanbiesbroucks mask  He _hated_ it  I think he said something to the effect of You see  He was great last year now he goes out and gets that dopey mask  and he cant stop a beachball  You may or may not take Cherry seriously at all but I cracked up when I heard it,"{
+  ""id"": ""cmpl-7zfPwHI6sPurkfspvtd1i5WRVekeK"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nHNIC, Don Cherry, Vanbiesbrouck, Beach"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 101,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 117
+  }
+}","['HNIC, Don Cherry, Vanbiesbrouck, Beach']"
+Oh boy a little Kbike versus 2 scuffling Grow up And that goes for the both of you  I do hope that the dump dempster campaign works however I think that he is a crook and I am suprised that it has taken this long for anything to be done though obviously it aint over yet On the other hand  Im not sure that I want to be in bed with ANY of the wackos running Throwing 20oo down a rathole might be more effective than sending it in to the club You wouldnt get anything but you dont get anything now  The magazine you say Ever since the MOA politburo installed Don it has lacked any sort of panache it may have had   Ah but what would I know I own a 6 AND a Kbike,"{
+  ""id"": ""cmpl-7zfPwpCij95ybafO2nSxZtZMioiUo"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Kbike, Grow up, Dump Dempster, Crook, W"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 180,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 196
+  }
+}","['Kbike, Grow up, Dump Dempster, Crook, W']"
+I agree with this assessment  Furthermore its promotion as providing greater protection than bare voice is quite true as far as it goes  However the only way for it to fulfill its stated goal of letting LE wiretap terrorists and drug dealers is to restrict stronger techniques    Wiretap targets presently use strong encryption weak encryption or the vast majority no encryption  The latter two classes can be tapped  With weak encryption in every phone the noencryption class is merged into the weakencryption class  Will the introduction of Clipper cause targets presently enjoying strong privacy to give up on it  that is to rely for privacy on a system expressly designed to deny it to people like them  I doubt it  The mere introduction of this scheme will give the government nothing  The stated goal of preventing the degradation of wiretapping capabilities can be fulfilled by restriction of domestic cryptography and only by this restriction  Clipper appears to be no more than a sop given to the public to mute any complaints  We would find this a grossly inadequate tradeoff but I fear the public at large will not care  I hate to even mention gun control but most people seem to think that an assault weapon as the NYT uses the word is some sort of automatic weapon 50 caliber maybe  Who wants to have such a thing legal  Well people know even less about cryptology I suspect that strong cryptography could easily be labeled too much secrecy for lawabiding citizens to need   What they say is opinion but what they do is what matters and will continue unless overturned  And the courts are reluctant to annul law or regulation going to some length to decide cases on other grounds  Furthermore Congress can get away with quite a bit  They could levy a burdensome tax this would place enforcement in the hands of the BATF who as weve seen you really dont want on your case  They could invoke the Commerce Clause this seems most likely  This clause will get you anywhere these days  The 18th was required because the Supreme Court ruled a prohibitory statute unconstitutional  In 1970 Congress prohibited many drugs with a textual nod to the Commerce Clause  The Controlled Substances Act of 1970 still stands  I think the government could get away with it,"{
+  ""id"": ""cmpl-7zfPwgkpoG2Q1P5VJuj0qr94QhlZP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Wiretap, Clipper, Cryptology, Encryption, Privacy"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 451,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 464
+  }
+}","['Wiretap, Clipper, Cryptology, Encryption, Privacy']"
+The word is subrogation  Seems to me if youre willing to wait for the money from scumbags insurance that you save having to pay the deductible  However if scumbags insurance is Scum insurance then you may have to pay the deductible to get your insurance cos pack of rabid large fanged lawyers to recover the damages from Scum insurances lawyers  	Sad but true  Call it job security for lawyers  Later,"{
+  ""id"": ""cmpl-7zfPwvjqC84xnG73K8I8wfKMQAErx"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSubrogation, Scumbag, Insurance, Deductible,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 105,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 121
+  }
+}","['Subrogation, Scumbag, Insurance, Deductible,']"
+iftccutalkpoliticsguns  vincentcadgatechedu Vincent Fox  1034 am  Apr 14 1993   This isnt recguns so maybe this is getting a bet technical but I cant resist   Sometimes  Depends on WHY it misfired   I cant imagine doing much combat type shooting single action   Assuming the cylinder WILL rotate   Never hurts to err on the side of safety but if youve got one of those new fangled hammer blocks or transfer bar safeties its unnecessarily redundant  Id rather have the extra round   Quite true  Speed loaders are a little less convenient to pack around than magazines though   True but this is a training function   Cocked and locked for single actions or hammer down on double actions are the only carry modes that make sense  The 80 series Colts for example are quite safe to carry this way   Agreed  Now that Ive shot off my mouth a bit let me back some of this up  It is true that a simple misfire on a revolver doesnt cost you much  On the other hand Ive had all sorts of interesting things happen over the years  For example Ive had FACTORY ammunition that has had high primers  A high primer will tie your revolver up somewhere from seconds to minutes while you try to pound the action open to clear the problem An auto  Jack the slide and continue  Ive had bullets come out of the case keeping the cylinder from turning see clearing paragraph above  About the WORST that can happen with a semi auto is a double feed  This can be cleared in seconds  Most revolvers are more fragile then semi autos  There are all sorts of close tolerance parts and fitting involved  Dropping the gun or a blow to the gun or all sorts of things can take it out of action  Many of the problems that can be cured on the spot with a quality semi auto take a gun smith for a revolver  In short a revolver MAY be less likely to malfunction but as a rule when it does youre out of the fight The majority of malfunctions that occur with semi autos does not fall into that category  Vincint makes many good points in this post but leaves off the opposing view of most of them  A real good starting place is Ayoobs The Semi Auto Pistol for Police and Self Defense  In general Id agree the revolver is an excellent first gun and self defense weapon for somebody that does not have the time and inclination that is necessary for the training and practice needed to use a semi auto effectively as a self defense arm  Most cops are notoriously indifferent to firearms  If the department isnt going to train them they arent going to take the time on their own  There is no doubt that training is an issue  The amount of training required for effective use of a semi auto is probably several times that of a revolver  Many cops dont bother  For myself Id hate to be limited to one or the other  Id rather pick what fits better with my personal inclination what Im wearing that day and so on  Like the Moderator on recguns says buy em all  That said I have to admit that often my advice to people thinking of buying their first defense arm is right after taking a class get a Ruger or Smith revolver  Sorry Colt fans  Colt revolvers are ok too  If this post had gone the other way Id be arguing for revolvers,"{
+  ""id"": ""cmpl-7zfPwBPEK71xdddckgzX0UZnkZvzx"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nPolitics, Guns, Firearm Training, Self Defense, Reloading"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 697,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 712
+  }
+}","['Politics, Guns, Firearm Training, Self Defense, Reloading']"
+Ted youre missing a vital point  As Roger Lustig pointed out in a previous response the reason why Schott was banned from baseball was because she had been known to call and think in a racially biased manner on a constant basis  Such thoughts affected her hiring practices  Bonilla on the other hand was found to have mentioned this one word a single time  If he had been known to go around criticizing homosexuals it would be a different story  Furthermore he is merely an athlete  He doesnt have to hire anyone as Schott had to do  Dave Pallone the former NL umpire who is an admitted homosexual has decided to assist in a protest before a Mets game at Shea  He like you thinks that Bonilla should be suspended from baseball  Pallone is hoping for a years suspension  In my opinion thats downright ludicrous  As Howie Rose on WFAN said if you start suspending athletes who have mentioned a derogatory word even a single time under whatever conditions then youd probably have enough people remaining to play a threeonthree game  Now honestly if you truly analyze the differences between the two cases that you bring up in your article I would think that youd reconsider your thoughts                                       Sean,"{
+  ""id"": ""cmpl-7zfPwiPQhLIUgfYi3GNmCBgwGl5vQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Discrimination, Race, Baseball, word, Malevolent, suspended, Hiring,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 257,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 273
+  }
+}","['Discrimination, Race, Baseball, word, Malevolent, suspended, Hiring,']"
+Well I am using The Home Office I bought it for arounde 350 It does 144 I dont know if its for data or fax But the feature I use is the Voic Mail Box which I really have liked,"{
+  ""id"": ""cmpl-7zfPw37zYpmL2LCxx6gYJ2iKZSqSP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Home Office, Data, Fax, Voic Mail, Box"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 73
+  }
+}","['Home Office, Data, Fax, Voic Mail, Box']"
+Western Digital 18008324778Sam,"{
+  ""id"": ""cmpl-7zfPw0TRozxZqzdG8xcElkGfIJS8L"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nWestern Digital, 18008324778, Support, Tech, Assistance"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 25,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 40
+  }
+}","['Western Digital, 18008324778, Support, Tech, Assistance']"
+For the second straight game California scored a ton of late runs to crush the Brewhas It was six runs in the 8th for a 125 win Monday and five in the 8th and six in the 9th for a 122 win yesterday Jamie Navarro pitched seven strong innings but Orosco Austin Manzanillo and Lloyd all took part in the mockery of a bullpen yesterday Hows this for numbers Maldanado has pitched three scoreless innings and Navarros ERA is 075 The next lowest on the staff is Wegman at 514 Ouch  It doesnt look much better for the hitters Hamilton is batting 481 while Thon is hitting 458 and has seven RBI The next highest is three The next best hitter is Jaha at 267 and then Vaughn who has the teams only HR at 238 Another ouch Looking at the stats its not hard to see why the team is 25 In fact 25 doesnt sound bad when youre averaging three runsgame and giving up 66game   Still its early and things will undoubtedly get better The offense should come around but the bullpen is a major worry Fetters Plesac and Austin gave the Brewers great middle relief last year Lloyd Maldanado Manzanillo  Fetters Austin and Orosco will have to pick up the pace for the team to be successful Milwaukee won a number of games last year when middle relief either held small leads or kept small deficits in place The starters will be okay the defense will be alright and the hitting will come around but the bullpen is a big question mark  In other news Nilsson and Doran were reactivated yesterday while William Suero was sent down and Tim McIntosh was picked up by Montreal Todays game with California was cancelled,"{
+  ""id"": ""cmpl-7zfPwtw9jzs0UfLn2s7AbgslMimAC"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" California, Baseball, Offense, Bullpen, Wins"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 359,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 369
+  }
+}","['California, Baseball, Offense, Bullpen, Wins']"
+In any case I think Viola would have made a better signing  Why  Viola is younger and is left handed how many left handed starters does  Toronto have  Well I agree that Viola is a better signing  However why does everyone say that you want lefthanded starters  I understand lefthanded spot relievers even though they usually face more righthanded batters than lefthanded batters  I just dont understand why people insist on lefthanded starters unless there is a park effect eg Yankee Stadium Most batters in MLB are righthanded so righthanded starters will have the platoon advantage more often than lefthanded starters I guess one argument for lefty starters is that certain teams may be more vulnerable to LHPs than RHPs  However this is probably only a factor in the postseason because teams seldom juggle their starters for this reason during the regular season  I think you just want the best starters you can get regardless of whether they are lefties or righties  Lefthanded starters tend to have higher ERAs than righthanded starters precisely because managers go out of their way to start inferior lefties or perhaps because of the platoon advantage  Am I missing something here,"{
+  ""id"": ""cmpl-7zfPwhLZulq8tEu5pdTrSzZUiEUV6"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Lefthanded, Viola, Toronto, Starting, Platoon Advantage,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 263,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 279
+  }
+}","['Lefthanded, Viola, Toronto, Starting, Platoon Advantage,']"
+Of course if you want to check the honesty of your dealler take it in knowing whats wrong and ask them to tell you   Of course hell probably know right a way then charge you a 20 service fee,"{
+  ""id"": ""cmpl-7zfPweIss5rNboHDtwveNQdEPsHOb"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" honesty, deal, wrong, charge, service fee"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 70
+  }
+}","['honesty, deal, wrong, charge, service fee']"
+Is there a Wyse 60 Terminal Emulator or a comms toolbox kit available on the net somewhere  Thanks,"{
+  ""id"": ""cmpl-7zfPwO7n5Kqd79dUSpvhP41GMmANG"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nWyse 60, Terminal Emulator, Comms Toolbox,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 41,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 57
+  }
+}","['Wyse 60, Terminal Emulator, Comms Toolbox,']"
+Easy Rider harleys drugs rednecks New Orleans Mad Max violence DoD  wannabes Time Rider Honda Thumper Time travel On Any Sunday  Documentary about dirtbike racers GREAT The Great Escape Steve  Mcqueen Nazis Rebel Without a Cause James Dean future DoDers  I  think the last two are right they are OLD movies I havent seen in YEARS    DoD 8177  TechnicianDr Speed NOT Student,"{
+  ""id"": ""cmpl-7zfPwBijEwmgnvxzXEn4t1hXZD83w"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nEasy Rider, Harleys, Drugs, Rednecks, New Orleans"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 108,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 124
+  }
+}","['Easy Rider, Harleys, Drugs, Rednecks, New Orleans']"
+The subject line says it all Im working on a project that will use a car battery I need to pull off 3V and possibly 48V at 3A  I have several ideas but Id prefer to benefit from all you brilliant people,"{
+  ""id"": ""cmpl-7zfPwj5wMZRzWch17d1xZ5Qg5OSCF"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nCar battery, 3V, 48V, 3A, project"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 64,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 79
+  }
+}","['Car battery, 3V, 48V, 3A, project']"
+Pat sez  Yeah but a windscreen cut down most of it  Canopies ended it completely  Of course the environment in space continues to suck   Tommy Mac  Tom McWilliams 5173552178 wk    As the radius of vision increases 18084tmibmclmsuedu 3369591 hm  the circumference of mystery grows,"{
+  ""id"": ""cmpl-7zfPwQhgfy4gcfOBb0Yw2Ztpi5W0O"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSpace, Environment, Canopy, Mystery, Radius"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 91,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 103
+  }
+}","['Space, Environment, Canopy, Mystery, Radius']"
+I am trying to write an image display program that uses the MIT shared memory extension  The shared memory segment gets allocated and attached to the process with no problem But the program crashes at the first call to XShmPutImage with the following message  X Error of failed request  BadShmSeg invalid shared segment parameter   Major opcode of failed request  133 MITSHM   Minor opcode of failed request  3 X_ShmPutImage   Segment id in failed request 0x0   Serial number of failed request  741   Current serial number in output stream  742  Like I said I did error checking on all the calls to shmget and shmat that are necessary to create the shared memory segment as well as checking XShmAttach  There are no problems  If anybody has had the same problem or has used MITSHM without having the same problem please let me know  By the way I am running OpenWindows 30 on a Sun Sparc2,"{
+  ""id"": ""cmpl-7zfPw7DeZdtDzhu99C0qpZ0YqMNxY"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nMITSHM, Shared Memory, XShmPutImage, Open"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 218,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 234
+  }
+}","['MITSHM, Shared Memory, XShmPutImage, Open']"
+I have been following this thread on talkreligion socreligionchristianbiblestudy and here with interest  I am amazed at the different nonbiblical argument those who oppose the Sabbath present   One question comes to mind especially since my last one was not answered from Scripture  Maybe clh may wish to provide the first response  There is a lot of talk about the Sabbath of the TC being ceremonial  Answer this  Since the TC commandments is one law with ten parts on what biblical basis have you decided that only the Sabbath portion is ceremonial OR You say that the seventhday is the Sabbath but not applicable to Gentile Christians  Does that mean the Sabbath commandment has been annulled  References please  If God did not intend His requirements on the Jews to be applicable to Gentile Christians why did He make it plain that the Gentiles were now grafted into the commonwealth of Israel  Darius,"{
+  ""id"": ""cmpl-7zfPwxa9zToaLniggXyO7ngCi4Bry"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" TalkReligion, SocReligionChristian, BibleStudy, NonbiblicalArg"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 202,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 218
+  }
+}","['TalkReligion, SocReligionChristian, BibleStudy, NonbiblicalArg']"
+Hi  can anyone tell me where I can get a copy of updated Canon BJ200 printer driver for Windows 31 if any  I have ver 10 which comes with my BJ200 printer I just wonder if there is any newer version,"{
+  ""id"": ""cmpl-7zfPw6BFe5X6tkvMkQyqcX7HEtxsq"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Canon, BJ200, Printer, Driver, Windows"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 63,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 74
+  }
+}","['Canon, BJ200, Printer, Driver, Windows']"
+Herman I would think you of all people wouldcould distinguish between health and treatment of disease All the prevention medicine people preach this all the time You cannot buy health You can buy treatment of disease assuming you are lucky enough to have a disease which can be treated A rich person with a terminal disease is a bit out of luck There is no such thing as adequately covered and there never will be   And for what its worth Ill be the first to admit that all my patients die,"{
+  ""id"": ""cmpl-7zfPwUOpfLk8v9qB2Bju48wuiOSj9"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Health, Prevention, Treatment, Disease, Terminal."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 111,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 121
+  }
+}","['Health, Prevention, Treatment, Disease, Terminal.']"
+Thats why zoologists refer to you as a fecal shield Colonel Semen  M Budienny a subsequent Soviet military fame said about the  Armenian genocide of 25 million defenseless Turkish and Kurdish  women children and elderly people during his visit to Anatolia  in June 1919 that  the Armenians had become troublemakers their Hinchakist  and Dashnakist parties were opportunist serving as lackeys  of whatever power happened to be ascendent  In September 16 1920 Major General W Thwaites Director of Military Intelligence wrote to Lord Hardinge UnderSecretary of State for Foreign Affairs  it is useless to pretend that the Armenians are satisfactory  allies or deserving of all the sympathy to which they claim1  1 FO 3313411158288  In the Special Collection at Stanford Hoover Library donated by Georgia Cutler the letter dated Nov 1 1943 states that  Prescot Hall wrote a large volume to prove that Armenians were  not and never could be desirable citizens that they would   always be unscrupulous merchants   Source Documents Volume I 1919         Document No 50 Archive No 43621 Cabin No 162 Drawer          No 5 File No 2905 Section No 433 Contents No 6 61 62         To 36th Division Command  Militia Commander Ismail Hakki  For eight days Armenians have been forcibly obstructing people from  leaving their homes or going from one village to the other Day and night  they are rounding up male inhabitants taking them to unknown destinations  after which nothing further is heard of them Informed from statements  of those who succeeded in escaping wounded from the massacres around  Taskilise ruins Women and children are being openly murdered or are  being gathered in the Church Square and similar places Most inhuman and  barbarous acts have been committed against Moslems for eight days           Document No 52 Archive No 43671 Cabin No 163 Drawer          No 1 File No 2907 Section No 440 Contents No 66 67         To 1st Caucasian Army Corps Command 2nd Caucasian Army Corps         Command Communications Zone Inspectorate  Commander 3rd Army         General  As almost all Russian units opposite our front have been withdrawn the  population loyal to us in regions behind the Russian positions are  facing an everincreasing threat and suppression as well as cruelties  and abuses by Armenians who have decided to systematically annihilate  the Moslem population in regions under their occupation I have   regularly informed the Russian Command of these atrocities and  cruelties and I have gained the impression that the above authority  seems to be failing in restoring order   Serdar Argic,"{
+  ""id"": ""cmpl-7zfPwqsVtYUq0soqtI4M1KXO9Yufy"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Armenian genocide, Anatolia, Hinchakist, Dashnakist,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 530,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 546
+  }
+}","['Armenian genocide, Anatolia, Hinchakist, Dashnakist,']"
+I sent a response to the White House at  	0005895485MCIMAILCOM White House  and received a nice automatic reply from MICMAIL noting in passing that if I had included a SNail address I would get a reply in due course  For those who care my reply was  	1	yes lets protect the voice network  	2	privatelydeveloped crypto has always been available and 		always will be  so lets think about how to do law 		enforcement given that fact not about how to hope to 		legislate against it  	3	my needs for crypto as a system designer are not met by the 		Clipper Chip  I want freely to export uses of algorithms 		like DES  RSA which are already freely available in the 		destination country,"{
+  ""id"": ""cmpl-7zfPwvMzMlBUg2g5PlHuaT3pgFN5Q"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nWhite House, Crypto, Clipper Chip, Automated Reply, SN"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 190,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 206
+  }
+}","['White House, Crypto, Clipper Chip, Automated Reply, SN']"
+an excellent automatic can be found in the subaru legacy  it switches to sport mode when the electronics figure it  not when the driver sets the switch which is the proper way to do it IMO  so what does sport mode entail  several things  1 revving to red line or to the rev limiter in the case of the legacy  2 delayed upshifts  ie if you lift off briefly it will remain in the 	low gear  this is handy if you are charging through corners and 	would like to do without the distraction of upshifts when theres 	another curve approaching  3 part throttle downshifts based on the speed at which the pedal is 	depressed rather than the position of the pedal  modern 	electronics can measure this very easily and switch to sport mode 	this is wonderful if you want to charge through a green light about 	to turn red  my audi senses this very well and can downshift on as 	little as half throttle if my right foot is fast enough  also i think that a smart automatic can deliver better gas mileage than a dumb driver with a stick all else being equal remember that the idea of a stick being more economical than an automatic makes a big assumption that the driver is smart enough to know what gear to use for each situation how many times have you ridden with an inattentive driver cruising on the highway at 5565 in 4th gear of a 5 speed    how many  of people who drive manuals really know what the best gear to use is for every conceivable situation  im sure there will be some who know but i suspect that a chip controlled automatic with all possible scenarioratio combinations stored in ROM is likely to do better  i can also say that all my previous assumptions were proved wrong after i got a car with instantaneous mpg readout high gear low revs and wide open throttle is more economical than low gear high revs and small throttle opening  the explanation is quite simple if one sits down to think about it but not that obvious at first sight,"{
+  ""id"": ""cmpl-7zfPwSwgjomdkrA9ZIMOgMvuMM6em"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSubaru Legacy, Automatic, Sport mode, Rev limiter, Gas"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 436,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 452
+  }
+}","['Subaru Legacy, Automatic, Sport mode, Rev limiter, Gas']"
+No no no  Its a squid  Keep the tradition alive  Kinda like the fish at UNH games,"{
+  ""id"": ""cmpl-7zfPw3JOILXT5KiSsXSZ8NyoPfJ4J"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nNo, squid, tradition, UNH, fish"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 11,
+    ""total_tokens"": 51
+  }
+}","['No, squid, tradition, UNH, fish']"
+Sorry I didnt tell exactly what I need  I need a utility for automatic updating deleting adding changing of ini files for Windows  The program should run from Dos batchfile or the program run a script under Windows  I will use the utility for updating the winini and other files on meny PCs    Do I find it on any FTP host,"{
+  ""id"": ""cmpl-7zfPwGmLxI7pxuUa8WLc8rVWThNdK"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nutility, automatic, ini, Windows, batchfile"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 87,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 101
+  }
+}","['utility, automatic, ini, Windows, batchfile']"
+Archivename spacenew_probes Lastmodified Date 930401 143917   UPCOMING PLANETARY PROBES  MISSIONS AND SCHEDULES      Information on upcoming or currently active missions not mentioned below     would be welcome Sources NASA fact sheets Cassini Mission Design     team ISASNASDA launch schedules press kits       ASUKA ASTROD  ISAS Japan Xray astronomy satellite launched into     Earth orbit on 22093 Equipped with largearea widewavelength 120     Angstrom Xray telescope Xray CCD cameras and imaging gas     scintillation proportional counters       CASSINI  Saturn orbiter and Titan atmosphere probe Cassini is a joint     NASAESA project designed to accomplish an exploration of the Saturnian     system with its Cassini Saturn Orbiter and Huygens Titan Probe Cassini     is scheduled for launch aboard a Titan IVCentaur in October of 1997     After gravity assists of Venus Earth and Jupiter in a VVEJGA     trajectory the spacecraft will arrive at Saturn in June of 2004 Upon     arrival the Cassini spacecraft performs several maneuvers to achieve an     orbit around Saturn Near the end of this initial orbit the Huygens     Probe separates from the Orbiter and descends through the atmosphere of     Titan The Orbiter relays the Probe data to Earth for about 3 hours     while the Probe enters and traverses the cloudy atmosphere to the     surface After the completion of the Probe mission the Orbiter     continues touring the Saturnian system for three and a half years Titan     synchronous orbit trajectories will allow about 35 flybys of Titan and     targeted flybys of Iapetus Dione and Enceladus The objectives of the     mission are threefold conduct detailed studies of Saturns atmosphere     rings and magnetosphere conduct closeup studies of Saturns     satellites and characterize Titans atmosphere and surface      One of the most intriguing aspects of Titan is the possibility that its     surface may be covered in part with lakes of liquid hydrocarbons that     result from photochemical processes in its upper atmosphere These     hydrocarbons condense to form a global smog layer and eventually rain     down onto the surface The Cassini orbiter will use onboard radar to     peer through Titans clouds and determine if there is liquid on the     surface Experiments aboard both the orbiter and the entry probe will     investigate the chemical processes that produce this unique atmosphere      The Cassini mission is named for Jean Dominique Cassini 16251712 the     first director of the Paris Observatory who discovered several of     Saturns satellites and the major division in its rings The Titan     atmospheric entry probe is named for the Dutch physicist Christiaan     Huygens 16291695 who discovered Titan and first described the true     nature of Saturns rings  	 Key Scheduled Dates for the Cassini Mission VVEJGA Trajectory 	  	   100697  Titan IVCentaur Launch 	   042198  Venus 1 Gravity Assist 	   062099  Venus 2 Gravity Assist 	   081699  Earth Gravity Assist 	   123000  Jupiter Gravity Assist 	   062504  Saturn Arrival 	   010905  Titan Probe Release 	   013005  Titan Probe Entry 	   062508  End of Primary Mission 	    Schedule last updated 72292       GALILEO  Jupiter orbiter and atmosphere probe in transit Has returned     the first resolved images of an asteroid Gaspra while in transit to     Jupiter Efforts to unfurl the stuck HighGain Antenna HGA have     essentially been abandoned JPL has developed a backup plan using data     compression JPEGlike for images lossless compression for data from     the other instruments which should allow the mission to achieve     approximately 70 of its original objectives  	   Galileo Schedule 	    	   101889  Launch from Space Shuttle 	   020990  Venus Flyby 	   1090  Venus Data Playback 	   120890  1st Earth Flyby 	   050191  High Gain Antenna Unfurled 	   0791  0692  1st Asteroid Belt Passage 	   102991  Asteroid Gaspra Flyby 	   120892  2nd Earth Flyby 	   0593  1193  2nd Asteroid Belt Passage 	   082893  Asteroid Ida Flyby 	   070295  Probe Separation 	   070995  Orbiter Deflection Maneuver 	   1295  1097  Orbital Tour of Jovian Moons 	   120795  JupiterIo Encounter 	   071896  Ganymede 	   092896  Ganymede 	   121296  Callisto 	   012397  Europa 	   022897  Ganymede 	   042297  Europa 	   053197  Europa 	   100597  Jupiter Magnetotail Exploration       HITEN  Japanese ISAS lunar probe launched 12490 Has made     multiple lunar flybys Released Hagoromo a smaller satellite     into lunar orbit This mission made Japan the third nation to     orbit a satellite around the Moon       MAGELLAN  Venus radar mapping mission Has mapped almost the entire     surface at high resolution Currently 493 collecting a global gravity     map       MARS OBSERVER  Mars orbiter including 15 mpixel resolution camera     Launched 92592 on a Titan IIITOS booster MO is currently 493 in     transit to Mars arriving on 82493 Operations will start 1193 for     one martian year 687 days       TOPEXPoseidon  Joint USFrench Earth observing satellite launched     81092 on an Ariane 4 booster The primary objective of the     TOPEXPOSEIDON project is to make precise and accurate global     observations of the sea level for several years substantially     increasing understanding of global ocean dynamics The satellite also     will increase understanding of how heat is transported in the ocean       ULYSSES European Space Agency probe to study the Sun from an orbit over     its poles Launched in late 1990 it carries particlesandfields     experiments such as magnetometer ion and electron collectors for     various energy ranges plasma wave radio receivers etc but no camera      Since no humanbuilt rocket is hefty enough to send Ulysses far out of     the ecliptic plane it went to Jupiter instead and stole energy from     that planet by sliding over Jupiters north pole in a gravityassist     manuver in February 1992 This bent its path into a solar orbit tilted     about 85 degrees to the ecliptic It will pass over the Suns south pole     in the summer of 1993 Its aphelion is 52 AU and surprisingly its     perihelion is about 15 AU thats right a solarstudies spacecraft     thats always further from the Sun than the Earth is      While in Jupiters neigborhood Ulysses studied the magnetic and     radiation environment For a short summary of these results see     Science V 257 p 14871489 11 September 1992 For gory technical     detail see the many articles in the same issue       OTHER SPACE SCIENCE MISSIONS note this is based on a posting by Ron     Baalke in 1189 with ISASNASDA information contributed by Yoshiro     Yamada yamadayscvaxyscgojp Im attempting to track changes based     on updated shuttle manifests corrections and updates are welcome      1993 Missions 	o ALEXIS spring Pegasus 	    ALEXIS Array of LowEnergy Xray Imaging Sensors is to perform 	    a widefield sky survey in the soft lowenergy Xray 	    spectrum It will scan the entire sky every six months to search 	    for variations in softXray emission from sources such as white 	    dwarfs cataclysmic variable stars and flare stars It will also 	    search nearby space for such exotic objects as isolated neutron 	    stars and gammaray bursters ALEXIS is a project of Los Alamos 	    National Laboratory and is primarily a technology development 	    mission that uses astrophysical sources to demonstrate the 	    technology Contact project investigator Jeffrey J Bloch 	    jjbbetalanlgov for more information  	o Wind Aug Delta II rocket 	    Satellite to measure solar wind input to magnetosphere  	o Space Radar Lab Sep STS60 SRL01 	    Gather radar images of Earths surface  	o Total Ozone Mapping Spectrometer Dec Pegasus rocket 	    Study of Stratospheric ozone  	o SFU Space Flyer Unit ISAS 	    Conducting space experiments and observations and this can be 	    recovered after it conducts the various scientific and 	    engineering experiments SFU is to be launched by ISAS and 	    retrieved by the US Space Shuttle on STS68 in 1994      1994 	o Polar Auroral Plasma Physics May Delta II rocket 	    June measure solar wind and ions and gases surrounding the 	    Earth  	o IML2 STS NASDA Jul 1994 IML02 	    International Microgravity Laboratory  	o ADEOS NASDA 	    Advanced Earth Observing Satellite  	o MUSESB Mu Space Engineering SatelliteB ISAS 	    Conducting research on the precise mechanism of space structure 	    and inspace astronomical observations of electromagnetic waves      1995 	LUNARA ISAS 	    Elucidating the crust structure and thermal construction of the 	    moons interior       Proposed Missions 	o Advanced Xray Astronomy Facility AXAF 	    Possible launch from shuttle in 1995 AXAF is a space 	    observatory with a high resolution telescope It would orbit for 	    15 years and study the mysteries and fate of the universe  	o Earth Observing System EOS 	    Possible launch in 1997 1 of 6 US orbiting space platforms to 	    provide longterm data 15 years of Earth systems science 	    including planetary evolution  	o Mercury Observer 	    Possible 1997 launch  	o Lunar Observer 	    Possible 1997 launch would be sent into a longterm lunar 	    orbit The Observer from 60 miles above the moons poles would 	    survey characteristics to provide a global context for the 	    results from the Apollo program  	o Space Infrared Telescope Facility 	    Possible launch by shuttle in 1999 this is the 4th element of 	    the Great Observatories program A freeflying observatory with 	    a lifetime of 5 to 10 years it would observe new comets and 	    other primitive bodies in the outer solar system study cosmic 	    birth formation of galaxies stars and planets and distant 	    infraredemitting galaxies  	o Mars Rover Sample Return MRSR 	    Robotics rover would return samples of Mars atmosphere and 	    surface to Earch for analysis Possible launch dates 1996 for 	    imaging orbiter 2001 for rover  	o Fire and Ice 	    Possible launch in 2001 will use a gravity assist flyby of 	    Earth in 2003 and use a final gravity assist from Jupiter in 	    2005 where the probe will split into its Fire and Ice 	    components The Fire probe will journey into the Sun taking 	    measurements of our stars upper atmosphere until it is 	    vaporized by the intense heat The Ice probe will head out 	    towards Pluto reaching the tiny world for study by 2016,"{
+  ""id"": ""cmpl-7zfPw2W0n70ZfVOcCEzB0NmrvorHW"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Planetary probes,Missions,Schedule,Cassini,Galileo,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 2395,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 2411
+  }
+}","['Planetary probes,Missions,Schedule,Cassini,Galileo,']"
+Hello netters  Does anyone out there know any FTP sites for projects plans etc of an electrical nature    Jason,"{
+  ""id"": ""cmpl-7zfPwd9bz4rlcHdAPRjFEOuSfex3v"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Electrical, FTP, Projects, Plans, Nature."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 40,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 50
+  }
+}","['Electrical, FTP, Projects, Plans, Nature.']"
+Does anyone know what is available in terms of automated testing  of XMotif applications I am thinking of a system which I could  program or which could record eventsoutput with our verification  test procedures and then runrerun each time we do regression  testing I am interested in a product like this for our UNIX  projects and for a separate project which will be using OpenVMS  A question like this is answered in the FAQ about sharing X windows One of the answers is XTrap a record and playback extenstion to X  You can find it at exportlcsmiteducontribXTrapV33_X11R5tarZ  Does anyone know of a program which doesnt require an X extension  Most the the X servers we have at work have vendor extensions which we cant modify so XTrap doesnt help up  There is X conferencing software at mit but I dont know how easy it would be to modify it to do record and playback  Any help would be appreciated,"{
+  ""id"": ""cmpl-7zfPwUzFxFQj6H5TUOjsvfXgZ632t"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Automated Testing, XMotif, Verification, Regression, XTrap"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 220,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 236
+  }
+}","['Automated Testing, XMotif, Verification, Regression, XTrap']"
+I notice the Toshiba 3401 has 3 versions B  internal E  external and P  portable  Can anyone tell me the difference between the portable and the external version  Where in the SF Bay Area can I find a model P  Thanks  Bill,"{
+  ""id"": ""cmpl-7zfPwdN93JXEnHCe6PVrOFvEMyW23"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""Toshiba 3401, Versions B E P , Portable, External,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 69,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 85
+  }
+}","['Toshiba 3401, Versions B E P , Portable, External,']"
+Hey now  The following cds are still available Offerstrades considered  Gowan  Lost Brotherhood Katrina  the Waves  Break of Hearts Joe Cocker  Live Charles Neville  Diversity,"{
+  ""id"": ""cmpl-7zfPwlI3uX8phXopZ96BM3OURoznT"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nGowan, Lost Brotherhood, Katrina The Waves, Break of Hearts, Joe"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 55,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 71
+  }
+}","['Gowan, Lost Brotherhood, Katrina The Waves, Break of Hearts, Joe']"
+Ford and his automobile  I need information on whether Ford is  partially responsible for all of the car accidents and the depletion of  the ozone layer  Also any other additional information will be greatly  appreciated  Thanks    SSSSSoooooooooooo Its all HIS fault Thank God Louis Chevrolet is  innocent and that guy Diesel HE otto feel guilty,"{
+  ""id"": ""cmpl-7zfPwwNe6WZtSvPrhUnILbfHy3ZeD"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Ford, Automobile, Car Accidents, Ozone Layer, Louis Chevrolet"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 86,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 101
+  }
+}","['Ford, Automobile, Car Accidents, Ozone Layer, Louis Chevrolet']"
+deletions    First of all infinity is a mathematical concept created by humans to explain certain things in a certain way We dont know if it actually applies to reality we dont know if anything in the world is infinite   You dont know if the universe is actually continuous Continuum is another mathematical concept based on infinity used to explain things in a certain way   I have a pretty good idea of what infinity is Its a manmade concept and like many manmade concepts it has evolved through time Ancient Greeks had a different understanding of it   Precicely We dont even know if infinity applies to reality,"{
+  ""id"": ""cmpl-7zfPwUqWKoo5pUUCYekNbTkjyHLKT"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\ninfinity, deletion, universe, continuum, manmade"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 134,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 147
+  }
+}","['infinity, deletion, universe, continuum, manmade']"
+Also note from branstadtiscom and walkertiscom   whois h rsinternicnet tisdom Trusted Information Systems Inc TISDOM    3060 Washington Road Route 97    Glenwood MD 21738     Domain Name TISCOM     Administrative Contact       Walker Stephen T  STW3  walkerTISCOM       301 8546889    Technical Contact Zone Contact       Dalva David I  DID1  daveTISCOM       301 8546889     Record last updated on 02Jul92     Domain servers in listed order     TISCOM                      19233112100    LATISCOM                   1925498  	And dockmaster is an infamous address,"{
+  ""id"": ""cmpl-7zfPwaYrfgrIn9iH4IkAvk8WWA7r0"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nTISCOM, Trusted Information Systems Inc, 21738, Walker"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 155,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 171
+  }
+}","['TISCOM, Trusted Information Systems Inc, 21738, Walker']"
+Wow the scope of the mission of the ATF continues to expand  Besides Alcohol Tobacco and Firearms they now seem to be involded in Child Protective Services Drug Enforcement and Tax Evasion  They look to be on the road to being the nations boys in blue No Knock in one hand M16 in the other  ZeikHeil  Lance,"{
+  ""id"": ""cmpl-7zfPwwewkNCh5SS2YuQhxb00M7Eet"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nATF, Child Protective Services, Drug Enforcement, Tax Evasion,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 85,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 101
+  }
+}","['ATF, Child Protective Services, Drug Enforcement, Tax Evasion,']"
+d d I just thought of another one in the Bible so its definately not because of lack of religion  The Book of Esther which I read the other day for other reasons describes the origin of Purim a Jewish celbration of joy and peace  The long and short of the story is that 75000 people were killed when people were tripping over all of the peacefull solutions  lying about you couldnt swing a sacred cow without slammin into a nice peaceful solution  Course Joshua and the jawbone of an ass spring to mind  I agree with Bobby this far religion as it is used to kill large numbers of people is usually not used in the form or manner that it was originally intended for  That doesnt reduce the number of deaths directly caused by religion it is just a minor observation of the fact that there is almost nothing pure in the Universe  The very act of honestly attempting to find true meaning in religious teaching has many times inspired hatred and led to war  Many people have been led by religious leaders more involved in their own stomachecontentsthan in any absolute truth and have therefore been driven to kill by their leaders  The point is that there are many things involved in religion that often lead to war  Whether these things are a part of religion an unpleasant side effect or as Bobby would have it the result of people switching between Religion and Atheism spontaneously the results are the same    Religious groups have long been involved in the majority of the bloodiest parts of Mans history  Atheists on the other hand preenpreen are typically not an ideological social caste nor are they driven to organize and spread their beliefs The overuse of Nazism and Stalinism just show how true this is  Two groups with very clear and specific ideologies using religious persecution to further their means  Anyone who cannot see the obvious  namely that these were groups founded for reasons entirely their own who used religious persecution not because of any belief system but because it made them more powerfull  is trying too hard  Basically Bobby uses these examples because there are so few wars that were not specifically fought over religion that he does not have many choices  Well Im off to Key West where the only flames are heating the bottom of little silver butterdishes  ciao,"{
+  ""id"": ""cmpl-7zfPw6cvYQKlECeyV5lqVaVwBxxXU"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" religion, war, death, peace, joy"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 467,
+    ""completion_tokens"": 9,
+    ""total_tokens"": 476
+  }
+}","['religion, war, death, peace, joy']"
+Twin Size  Mattress Box Spring and Frame for SALE  	 MedicoPedic type of mattress 	 Excellent condition          2 yrs old 	 Well maintained 	 	 You come and pick it up stuff is located in PaloAlto  	Asking for 75   	Contact  		Suresh 		4156173522 W 		4153249553 H 		EMail sureshpadeccom,"{
+  ""id"": ""cmpl-7zfPwEv5FCpecSSOEpUXIZCUaseFZ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931572,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nMattress, Box Spring, Frame, MedicoPedic, S"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 112,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 128
+  }
+}","['Mattress, Box Spring, Frame, MedicoPedic, S']"
+Pardon me Here is to an amherstclown    Your three chiefs Dro Hamazasp and Kulkhandanian are the ringleaders   of the bands which have destroyed Tartar villages and have staged    massacres in Zangezour Surmali Etchmiadzin and Zangibasar This is   intolerable   Were you expecting a different response Here is another one  Source K S Papazian Patriotism Perverted Baikar Press Boston 1934          73 pages with Appendix  p 25 third paragraph  Some real fighters sprang up from among the people who struck terror  into the hearts of the Turks   Within a few months after the war began these Armenian guerrilla  forces operating in close coordination with the Russians were  savagely attacking Turkish cities towns and villages in the east  massacring their inhabitants without mercy while at the same time  working to sabotage the Ottoman armys war effort by destroying roads  and bridges raiding caravans and doing whatever else they could to  ease Russian occupation The atrocities committed by the Armenian   volunteer forces accompanying the Russian army were so severe that the   Russian commanders themselves were compelled to withdraw them from the   fighting fronts and sent them to rear guard duties The memoirs of many  Russian officers who served in the east at this time are filled with   accounts of the revolting atrocities committed by these Armenian   guerrillas which were savage even by relatively primitive standards of  war then observed in such areas1  1 Journal de Guerre du Deuxieme dArtillerie de Forteresse Russe       dErzeroum 1919 p 28   honored me by reproducing my text  Unfortunately he has still not produced  the documents on Jews in LATVIA  Instead he asks for my views on the  Turkish Genocide  Well that debate seems to be going on in a few hundred  other threads  Ill let other people bring the usual charges try to debunk  MutluArgicCosar a netwide Terrorism Triangle and their spurious evidence    When that does ever happen look out the window to see if there is a  nonfascist xSoviet Armenian Government in the East Now where is  your nonexistent list of scholars What a moronian During the First   World War and the ensuing years  19141920 the Armenian Dictatorship   through a premeditated and systematic genocide tried to complete its   centuriesold policy of annihilation against the Turks and Kurds by   savagely murdering 25 million Muslims and deporting the rest from   their 1000 year homeland   How could you Because there is none   Like conversing with a brick wall And you are not responding to what I  am writing By the way that bullshit is justly regarded as the first  instance of Genocide in the 20th Century acted upon an entire people For nearly one thousand years the Turkish and Kurdish people lived  on their homeland  the last one hundred under the oppressive Soviet  and Armenian occupation The persecutions culminated in 1914 The  Armenian Government planned and carried out a Genocide against its  Muslim subjects 25 million Turks and Kurds were murdered and the  remainder driven out of their homeland After one thousand years  Turkish and Kurdish lands were empty of Turks and Kurds   The survivors found a safe heaven in Turkiye  Today xSoviet Armenian government rejects the right of Turks and  Kurds to return to their Muslim lands occupied by xSoviet Armenia  Today xSoviet Armenia covers up the genocide perpetrated by its  predecessors and is therefore an accessory to this crime against  humanity  xSoviet Armenia must pay for its crime of genocide against the Muslims  by admitting to the crime and making reparations to the Turks and Kurds   You may assert whatever you wish   Ditto   The attempt at genocide is justly regarded as the first instance  of Genocide in the 20th Century acted upon an entire people  This event is incontrovertibly proven by historians government  and international political leaders such as US Ambassador Mark   Bristol    And still anxiously awaiting   so the list goes on and on and on    Im still trying to find out about those Jews in LATVIA  Can you post those   documents PLEEEEEEEASE Mr Argic  Puhleeze could you  Cmon its my  birthday in three weeks post them for me as a birthday present    Remember the issue at hand is the coldblooded genocide of 25 million   Muslim people by the Armenians between 19141920 and the ArmenianNazi   collaboration during World War II Anything to add   Remember the issue at hand is the ArmenianNazi collaboration during  World War II and the Turkish Genocide And I still fail to see how you can challenge the following western sources  Source John Dewey The New Republic Vol 40 Nov 12 1928 pp 2689  Happy the minority Jews which has had no Christian nation to protect it  And one recalls that the Jews took up their abode in fanatic Turkey  when they were expelled from Europe especially Spain by Saintly Christians  and they have lived here for centuries in at least as much tranquility and  liberty as their fellow Turkish subjects all being exposed alike to the  rapacity of their common rulers To one brought up as most Americans have   been in the Gladstonian and foreignmissionary tradition the condition of   the Jews in Turkey is almost a mathematical demonstration that religious  differences have had an influence in the tragedy of Turkey only as they  were combined with aspirations for a political separation which every   nation in the world would have treated as treasonable One readily   reaches the conclusion that the Jews in Turkey were fortunate   He also stated that  they Armenians traitorously turned Turkish cities over to the Russian   invader that they boasted of having raised an army of one hundred and  fifty thousand men to fight a civil war and that they burned at least  a hundred Turkish villages and exterminated their population   I want the documents of Jews in Latvia  I think several other  people on socculturegreek are already disputing with you about the Turkish  Genocide    Is this the joke of the month Who when how where What a clown   How about Prof Shaw a Jewish scholar  Source Stanford J Shaw on Armenian collaboration with invading Russian armies in 1914 History of the Ottoman Empire and Modern Turkey Volume II Reform Revolution  Republic The Rise of Modern Turkey 18081975 London Cambridge University Press 1977 pp 315316  In April 1915 Dashnaks from Russian Armenia organized a revolt in the city   of Van whose 33789 Armenians comprised 423 percent of the population   closest to an Armenian majority of any city in the EmpireLeaving Erivan   on April 28 1915 Armenian volunteers reached Van on May 14 and organized   and carried out a general slaughter of the local Muslim population during   the next two days while the small Ottoman garrison had to retreat to the  southern side of the lake  Knowing their numbers would never justify their territorial ambitions  Armenians looked to Russia and Europe for the fulfillment of their aims  Armenian treachery in this regard culminated at the beginning of the First  World War with the decision of the revolutionary organizations to refuse  to serve their state the Ottoman Empire and to assist instead other  invading Russian armies Their hope was their participation in the Russian  success would be rewarded with an independent Armenian state carved out of  Ottoman territories Armenian political leaders army officers and common  soldiers began deserting in droves  With the Russian invasion of eastern Anatolia in 1914 at the beginning of  World War I the degree of Armenian collaboration with the Ottomans enemy  increased drastically Ottoman supply lines were cut by guerilla attacks  Armenian revolutionaries armed Armenian civil populations who in turn  massacred the Muslim population of the province of Van in anticipation of  expected arrival of the invading Russian armies  Source Stanford J Shaw History of the Ottoman Empire and Modern Turkey         Vol II Cambridge University Press London 1979 pp 314317  Meanwhile Czar Nicholas II himself came to the Caucasus to make final  plans for cooperation with the Armenians against the Ottomans with the   president of the Armenian National Bureau in Tiflis declaring in response   From all countries Armenians are hurrying to enter the ranks of the    glorious Russian Army with their blood to serve the victory of Russian   armsLet the Russian flag wave freely over the Dardanelles and the   Bosporus Let with Your will great Majesty the peoples remaining   under the Turkish yoke receive freedom Let the Armenian people of Turkey   who have suffered for the faith of Christ receive resurrection for a new   free life under the protection of Russia155  Armenians again flooded into the czarist armies Preparations were made to strike the Ottomans from the rear and the czar returned to St Petersburg confident that the day finally had come for him to reach Istanbul  155 Horizon Tiflis November 30 1914 quoted by Hovannisian Road to Independence p 45 FO 2485 248446942 22083  Ottoman morale and military position in the east were seriously hurt and  the way was prepared for a new Russian push into eastern Anatolia to be  accompanied by an open Armenian revolt against the sultan156  156 Hovannisian Road to Independence pp 4547 Bayur III1  pp 349380 WED Allen and P Muratoff Caucasian Battlefields Cambridge 1953 pp 251277 Ali Ihsan Sabis Harb Hahralaram 2 vols Ankara 1951 II 41160 FO 2146 no 70404 FO 2485 FO 2484 nos 46942 and 22083  An Armenian state was organized at Van under Russian protection and it   appeared that with the Muslim natives dead or driven away it might be  able to maintain itself at one of the oldest centers of ancient Armenian  civilization An Armenian legion was organized to expel the Turks from  the entire southern shore of the lake in preparation for a concerted  Russian drive into the Bitlis vilayet162 Thousands of Armenians from  Mus and other major centers in the east began to flood into the new   Armenian stateBy midJuly there were as many as 250000 Armenians  crowded into the Van area which before the crisis had housed and fed  no more than 50000 people Muslim and nonMuslim alike163  162 Hovannisian Road to Independence p 56 FOP 2488 nos 127223 and 58350  163 BVA Meclisi Vukela Mazbatalari debates of August 1517 1915  Babii Ali Evrak Odasi no 175 321 Van Ihtilali ve Katli Ami Zilkade 133310 September 1915       Muslim population exterminated by the Armenians   Why   Who gives a thunder about your pseudoscholar jokes Iam arguing about   the ArmenianNazi colaboration during World War II Any comment   It could be perhaps your head wasnt screwed on just right In 1941  while the Jews were being assembled for their doom in the Nazi concentration  camps the Armenian volunteers in Germany formed the first Armenian  battalion to fight alongside the Nazis In 1943 this battalion had  grown into eight battalions of 20000strong under the command of the former guerilla leader Dro the butcher who was the former dictator of the shortlived Armenian Dictatorship 19181920 and the architect of the  coldblooded genocide of 25 million Turks and Kurds between 19141920 An Armenian National Council was formed by the notorious Dashnak Party  leaders in Berlin which was recognized by the Nazis Encouraged by  this the Armenians summarily formed a provisional government that endorsed  and espoused fully the principles of the Nazis and declared themselves as the  members of the Aryan super race and full participants to Hitlers policy of  extermination of the Jews  This ArmenianNazi conspiracy against the Jews during WWII was an encore performance staged by the Armenians during WWI when they backstabbed and exterminated 25 million Turks by colluding with the invading Russian army  Furthermore as McCarthy put it the Armenian dictatorship was granted a respite when the Ottomans admitted defeat and signed the Mudros Armistice with the Allies October 30 1918 The Allies had decided to create a Greater Armenia including the old Russian province of Yerevan and adjoining areas as well as most parts of Anatolia claimed by the Armenian fanatics Only the area called Cilicia around the Ottoman province of Adana was to be excluded as it had already been claimed by the French The Allies quickly set about attempting to disarm Ottoman soldiers and other Turks who could be expected to oppose their plans   On April 19 1919 the British Army occupied Kars gave civilian and military power over to the Armenians then withdrew The British planned for Kars to be included in the Armenian Dictatorship even  though the Russian prewar census had shown Kars Province to be over 60 Muslim The Turks of Kars were effectively disarmed but the  British could not disarm the Kurds of the mountains The fate of the Turks was almost an exact replica of what had occurred earlier in Eastern Anatolia Murder pillage genocide and the destruction of Turkish homes and entire Turkish villages drove the Turks of Kars to the mountains or south and west to the safety afforded by remaining units of the Ottoman Army The British had left  the scene to the Armenian genocide squads Therefore few  Europeans were present to observe the genocide One British soldier Colonel Rawlinson who was assigned to supervise the disarmament of Otoman soldiers saw what was occurring   Rawlinson wired to his superiors   in the interest of humanity the Armenians should not be left in  independent command of the Moslim population as their troops   being without discipline and not being under effective control  atrocities were constantly being committed    Come again   These European Dashnags with headquarters in Berlin appealed to  Why   No wonder you are in such a mess Here are the Armenian sources on the  Turkish Holocaust  Why   Obrother Spell it out list of dead Muslims  Source Documents Volume I 1919         Document No 64 Archive No 12 Cabin No 109 Drawer          No 4 File No 359 Section No 1031435 Contents No 320         To Acting Supreme Command  Socialist Salah Cimcoz Socialist          Nesim Mazelyah  Armenian gangs have been murdering and inflicting cruelties on  innocent people of the region This verified information supported  by clear statements of reliable eyewitnesses was also confirmed by  General Odishelidje Commander of the Russian Caucasian Army   Armenians are entering every place evacuated by Russians carrying out  murders cruelties rape and all kind of atrocities which cannot be  expressed in writing murdering all the women children aged people  who happen to be in the street These barbarous murders repeated   every day with new methods continue and the Russian Army has been urged  to intervene to terminate these atrocities Public opinion is appalled  and horrified Newspapers are describing the happenings as shocking  We have decided to inform all our friends urgently about the situation          Document No 65 Archive No 43671 Cabin No 163 Drawer          No 5 File No 2947 Section No 628 Contents No 31 33         To Acting Supreme Command  Commander 3rd Army General  The situation in the cities of Erzincan and Erzurum which we have   recently taken over is given below   These two beautiful cities of our country which are alike in the  calamities and destruction which they suffered have been destroyed  as the specially designed and built public and private buildings of  these cities were deliberately burnt by Armenians apart from the   destruction suffered during the twoyear Russian occupation   All barracks buildings of Erzincan the cavalry barracks in Erzurum  the Government building and Army Corps Headquarters are among those  burnt In short both cities are burnt destroyed and trees cut down   As to the people of these cities   All people old enough to use weapons rounded up taken to the Sarikamis  direction for road building and were slaughtered The remaining people  were subject to cruelties and murder by Armenians following the   withdrawal of Russians and were partly annihilated the corpses thrown   into wells burnt in houses mutilated by bayonets their abdomens  ripped open in slaughterhouses their lungs and livers torn out girls  and women hung up by their hair after all kinds of devilish acts  The few people who were able to survive these cruelties worse than  those of the Spanish Inquisition are in poverty more dead than alive  horrified some driven insane about 1500 in Erzincan and 30000 in  Erzurum The people are hungry and in poverty for whatever they had  has been taken away from them their lands left uncultivated   The people have just been able to exist with some provisions found in  stores left over from the Russians The villages round Erzincan and   Erzurum are in the worst condition Some villages on the road have   been leveled to the ground leaving no stone the people completely  massacred   Let me submit to your information with deep grief and regret that  history has never before witnessed cruelties at such dimensions    a long list   a long list  And still anxiously awaiting  Serdar Argic,"{
+  ""id"": ""cmpl-7zfPxF898ZDV2mWIyD65GSKQ6IXDI"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\ngenocide, Armenian, Muslims, Turkish, War, WWI,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 3432,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 3448
+  }
+}","['genocide, Armenian, Muslims, Turkish, War, WWI,']"
+Yo Watch the attributionsI didnt say that  Again this isnt an appropriate forum for discussions on whether you should shoot someone for property damagevandalismtheft but every responsible gun owner realizes that there are limits and the punishment must fit the crime I mean think about itis a really harmless prank worth killing over  As I said the situation described punks setting off alarms and taunting people to come out could turn very ugly very quickly and it is worth being prepared when your life is potentially on the line  				James,"{
+  ""id"": ""cmpl-7zfPxfKoDKE1rb7q0tN9u2VajEho8"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Vandalism, Theft, Punishment, Gun Owners, Life"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 126,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 139
+  }
+}","['Vandalism, Theft, Punishment, Gun Owners, Life']"
+Now theres a good idea  All you need is 20 amps DC for a few minutes and a good wetware memory was I using wp or autocad or  I thought of the same idea myself a few days ago Ive got a fairly new car battery that I take along in my 4x4 when I go camping and it sits around useless when Im home I wish I could get a batteryless ups to use it with or use it with a heavy duty 5volt regulator to supply the PC But I guess youd need 5v and 12v  and 12 too 2 more batteries   An alternative would be to leave a 40 AMP battery charger hooked up to the battery and run a 12vdc to 110vac converter running all the time and when the power goes out voila  the 110vac converter keeps on running off the battery  and then I could take the 110vac converter and my computer on the camping trips,"{
+  ""id"": ""cmpl-7zfPxBGRZZgYq2BxOMSaLiwGirJDT"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nBattery, Car, UPS, Camping, Converter"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 209,
+    ""completion_tokens"": 13,
+    ""total_tokens"": 222
+  }
+}","['Battery, Car, UPS, Camping, Converter']"
+You can avoid these problems entirely by installing an oil drain valve in place of the bolt  I have one on both of my cars  There have been no leaks in 210000 miles combined miles on both cars,"{
+  ""id"": ""cmpl-7zfPxKx8M7VWCFvyo5Ebik8ZNOMAu"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\nOil, drain, valve, bolt, avoid"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 59,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 69
+  }
+}","['Oil, drain, valve, bolt, avoid']"
+B BKIs it possible to plug in 70ns or 60ns SIMMs into a motherboard saying BKwants 80ns simms   You shouldnt have troubles  I have heard of machines having problems  with slower than recommended memory speeds but never faster    BKAlso is it possible to plug in SIMMs of different BKspeeds into the same motherboard  ie  2 megs of 70ns and 2 megs of 6 BKor something like that  Sure  I have 4 70ns SIMMs in one bank and 4 60ns SIMMS in the other  I  have a 486   I wouldnt recommend mixing speeds within a bank just to  be on the safe side  rdd     rdesoniaerimorg     WinQwk 20b0  Unregistered Evaluation Copy   KMail 295d WNET HQ hal9kannarbormius 1 313 663 4173 or 3959,"{
+  ""id"": ""cmpl-7zfPxXkZV1tVUbBuE7vxO0nvRQbxR"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSIMMs, motherboard, memory, speeds, WinQwk"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 206,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 220
+  }
+}","['SIMMs, motherboard, memory, speeds, WinQwk']"
+A quick and dirty way to get higher current carrying capacity  on PC board traces for one or fewofakind boards is to  strip some 14 Romex house wiring cable to bare copper form  the bare copper to follow the trace and solder it down  And if its not quick and dirty you can get bus bars that are stamped out with leads that insert in the PC board,"{
+  ""id"": ""cmpl-7zfPxyqbbwDg23HJ9lcbjRsuQWY2z"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" \n\nQuick, Dirty, PC Board Traces, Romex House W"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 94,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 110
+  }
+}","['Quick, Dirty, PC Board Traces, Romex House W']"
+Okay lets suppose that the NSANISTMykotronix Registered Key system becomes standard and Im able to buy such a system from my local radio shack Every phone comes with a built in chip and the government has the key to every phone call  I go and buy a phone and dutifully register the key   Whats to prevent me from swapping phones with a friend or  buying a used phone at a garage sale Whooa The secret registered keys just became unsynchronized When the government comes  to listen in they only receive gobbledlygook because the  secret key registered under my name isnt the right one   That leads me to conjecture that  1 The system isnt that secure There are just two master keys that work for all the phones in the country The part about registering your keys is just bogus   or   2 The system is vulnerable to simple phone swapping attacks like this Criminals will quickly figure this out and go to town,"{
+  ""id"": ""cmpl-7zfPx4u9J3uh3nnnroDHqMCOs35Xn"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSecurity, NSANISTMykotronix, Unsynchron"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 210,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 226
+  }
+}","['Security, NSANISTMykotronix, Unsynchron']"
+I have a 1986 Acura Integra 5 speed with 95000 miles on it It is positively the worst car I have ever owned I had an 83 Prelude that had 160k miles on it when I sold it and it was still going strong   This is with religious attention to maintenance such as oil changes etc Both cars were driven in exactly the same manner    1 It has gone through two clutches which are underrated   2 3 sets of tires really eats tires in the front even with careful align   3 All struts started leaking about 2530k miles   4 Windshield wiper motor burned up service note on this one   5 Seek stop working on radio about 20k miles   6 Two timing belts   7 Constant error signals from computer    8 And finally A rod bearing went out on the No 1 piston seriously damaging      the crankshaft contaminating the engine etc When the overhaul was done      last week it required new crankshaft one new cam shaft has two because      the camshaft shattered when they tried to mill it The camshaft took 4      weeks to get because it is on national back order        Everything on the engine is unique to the 1986 year They went to a new      design in 87 Parts are very expensive,"{
+  ""id"": ""cmpl-7zfPxFuvoh8Tg1cKEPi8d5P6bz4nR"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAcura Integra, Maintenance, Tires, Struts, Cl"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 267,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 283
+  }
+}","['Acura Integra, Maintenance, Tires, Struts, Cl']"
+We are developing an MSWindows based product that uses a full screen window to display 24 rows of textual data  Is there any product for Microsoft Windows that will enable blind individuals to access the data efficiently quickly   Please email responses and I will post a summary to this group,"{
+  ""id"": ""cmpl-7zfPxp198ZbdT5w4a1lP8DdUleoB0"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nMSWindows, text data, full screen, accessibility, blind"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 71,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 85
+  }
+}","['MSWindows, text data, full screen, accessibility, blind']"
+Hi I am using a dtk 38620Mhz 13Meg memory to run a variety of programs and have had problems off and on with lock up but now I am trying to run an application that wants a lot of memory over a period of time Playmation 24 bit rendered and it is  locking up Everytime  I have an ATI ultra  w2Meg which I have tried in each of the video modes I have excluded the region of video memory from A000C800 segments from the use of emm386 have tried adjusting the swap partion from large to nonexistant to prevent swapping and I have REMd ALL TSRs and utilities in configsyus and autoexec and even tried using the default program manager disabling my HP dashboard  even with a minimal system no swap no smartdrv no TSRs no windows utilities and exclusion of video regions it still locks up completely no mouse control no response to anything except 3finger salute and even that does not stop by the standard windows screen but simply does a full reset immediately  Just about out of ideas anyone out there have any  Thanks tom branham branhambinahccbrandeisedu,"{
+  ""id"": ""cmpl-7zfPxWn6VzhB1mJraDHnLCh3NOt4g"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" DTK, Memory, Playmation, Lock, Reset"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 253,
+    ""completion_tokens"": 12,
+    ""total_tokens"": 265
+  }
+}","['DTK, Memory, Playmation, Lock, Reset']"
+Yes this is also my understanding of the majority of Islamic laws However I believe there are also certain legal rulings which in all five schools of law 4 sunni and 1 jaffari can be levelled against muslim or nonmuslims both within and outside daralislam I do not know if apostasy when accompanied by active persistent and open hostility to Islam falls into this category of the law I do know that historically apostasy has very rarely been punished at all let alone by the death penalty  My understanding is that Khomeinis ruling was not based on the law of apostasy alone It was well known that Rushdie was an apostate long before he wrote the offending novel and certainly there is no precedent in the Quran hadith or in Islamic history for indiscriminantly levelling death penalties for apostasy  I believe the charge levelled against Rushdie was that of fasad This ruling applies both within and outside the domain of an Islamic state and it can be carried out by individuals The reward was not offered by Khomeini but by individuals within Iran   I would concur that the thrust of the fatwa from what I remember was levelled at the author and all those who assisted in the publication of the book However the charge of fasad can encompass a number of lesser charges I remember that when diplomatic relations broke off between Britain and Iran over the fatwa  Iran stressed that the condemnation of the author and the removal of the book from circulation were two preliminary conditions for resolving the crisis But you are correct to point out that banning the book was not the main thrust behind the fatwa Islamic charges such as fasad are levelled at people not books  The Rushdie situation was followed in Iran for several months before the issuance of the fatwa Rushdie went on a media blitz presenting himself as a lone knight guarding the sacred values of secular democracy and mocking the foolish concerns of people crazy enough to actually hold their religious beliefs as sacred  Fanning the flames and milking the controversy to boost his image and push the book he was everywhere in the media Then Muslim demonstrators in several countries were killed while protesting against the book Rushdie appeared momentarily concerned then climbed back on his media horse to once again attack the Muslims and defend his sacred rights It was at this point that the fatwa on fasad was issued  The fatwa was levelled at the person of Rushdie  any actions of Rushdie that feed the situation contribute to the legitimization of the ruling The book remains in circulation not by some independant will of its own but by the will of the author and the publishers The fatwa against the person of Rushdie encompasses his actions as well The crime was certainly a crime in progress at many levels and was being played out and played up in the the full view of the media,"{
+  ""id"": ""cmpl-7zfPx36Eb8D5bzGz1siW1SkpYQfDK"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Islam, Legal rulings, Apostasy, Khomeini, Fatwa, Fas"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 581,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 597
+  }
+}","['Islam, Legal rulings, Apostasy, Khomeini, Fatwa, Fas']"
+No answer   I do not feel like the cameras were out of range  Cameras watched the first  confrontation  Cameras watched the banners  Cmaeras watched the final  confrontation with tanks  Cameras watched the fire  When werent cameras  able to watch  When would cameras be unable to watch people coming out with  their hands up   Well that is what BATF should have done  Either Koresh would have gone  peaceably as he has done in the past or perhaps it was already too close  to the apocalypse in his own mind  It is hard to predict the actions of  a leader who would not release the children when most rational people would  Now will you answer my question up top,"{
+  ""id"": ""cmpl-7zfPxlnLXIKkVKdlHI17NuywdBfxk"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nCameras, Surveillance, BATF, Apocolypse,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 163,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 179
+  }
+}","['Cameras, Surveillance, BATF, Apocolypse,']"
+Australian Pattern Recognition Society                           2nd CALL FOR PAPERS                                 DICTA93                            2nd Conference on            DIGITAL IMAGING COMPUTING TECHNIQUES AND APPLICATIONS   Location Macquarie Theatre           Macquarie University           Sydney  Date 810 December 1993      DICTA93 is the second biennial national conference of the Australian Pattern Recognition Society     This event will provide an opportunity for any persons with an interest in computer vision digital image processinganalysis and other aspects of pattern recognition to become informed about contemporary developments in the area to exchange ideas to establish contacts and to share details of their own work with others          The Following invited speakers will provide specialised presentations  Prof Gabor T Herman University of Pennsylvania on Medical Imaging  Prof RM Hodgson Massey University New Zealand on Computer Vision  Prof Dominique Juelin Centre de Morphologie Mathematique Paris on Mathematical Morphology  Prof John Richards Aust Defence Force Academy Canberra on Remote Sensing  Dr Phillip K Robertson CSIRO Division of Information Technology Canberra on Interactive Visualisation      The conference will concentrate on but is not limited to the following areas of image processing                   Computer Vision and Object Recognition                  Motion Analysis                  Morphology                  Medical Imaging                  Fuzzy logic and Neural Networks                  Image Coding                  Machine Vision and Robotics                  Enhancement and Restoration                  Enhancement and Restoration                  Visualisation                  Industrial Applications                  Software and Hardware Tools     Papers are sought for presentation at the conference and publication in the conference proceedings Submission for peer review should consist of an extended abstract of 7501000 words of doubled spaced text summarizing the technical aspects of the paper and any results that will be quoted Final papers should be limited to no more than 8 pages of text and illustrations in cameraready form      Four 4 copies of the abstract should be sent to                                  DICTA93                           C Tony Adriaansen                   CSIRO  Division of Wool Technology                                 PO Box 7                              Ryde NSW 2112                                Australia                                IMPORTANT DATES                  Abstract due             25th June 1993                 Acceptance notified      27th August 1993                 Final paper due          15th October 1993    SOCIAL PROGRAM  The conference dinner will be held on the Thursday 9th of December 1993 Other social activities are being arranged  Situated on a beautiful harbour Sydney has many and varied places of interest The Opera House and Harbour Bridge are just two of the well known landmarks Harbour cruises city tours to the Blue Mountains run daily We can provide further information on request   ACCOMMODATION  Accommodation within 15 min walking distance is available ranging from college style to 5 star Hotel facilities Information will be supplied upon request   CONFERENCE FEES                          before 30th Sep        After 30th Sep APRS Members              A220                   A250 APRS Student Members      A120                   A150 Others                    A250                   A280  Conference Dinner         A35 on Dec 9th 1993                    ADVANCED REGISTRATION  Name Organisation Address  Phone Fax email                   I am a current Member of APRS                   I am not a current member of APRS                   Please send me information on accommodation   I enclose a cheque for    Please send the above form to  DICTA93 C Tony Adriaansen CSIRO  Division of Wool Technology PO Box 7 Ryde NSW 2112 Australia  The cheques should be made payable to DICTA93  For further information contact  Tony Adriaansen 02 809 9495  Athula Ginigie  02 330 2393  email dicta93eeutseduau,"{
+  ""id"": ""cmpl-7zfPx6BwD5hIEg5GXcpGxtfjPIapt"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Australian Pattern Recognition Society, DICTA93, Digital Imaging Computing Techniques,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 740,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 756
+  }
+}","['Australian Pattern Recognition Society, DICTA93, Digital Imaging Computing Techniques,']"
+Does anyone out there have any info on the up and coming fall comdex 93 I was  asked by one of my peers to get any info that might be available  Or could  anyone point me in the right direction  Any help would be appreciated  	Its in Las Vegas as always between November 16th and 20th   	For more information contact The Interface Group 				      300 First Avenue 				      Needham MA  021942722  	Sorry no phone number available Consult directory service 	in Massachusetts for the number 617 508 or 413  	 Willy,"{
+  ""id"": ""cmpl-7zfPx8m9PayLSQxxX4K7F2Zlb6DWm"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nComdex, Fall 93, Las Vegas, The Interface Group,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 143,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 159
+  }
+}","['Comdex, Fall 93, Las Vegas, The Interface Group,']"
+assuming yours is a non turbo MR2 the gruffness is characteristic of a large inline 4 that doesnt have balance shafts  i guess toyota didnt care about little details like that when they can brag about the mid engine configuration and the flashy styling  myself i automatically cross out any car from consideration or recommendation which has an inline 4 larger than 2 liters and no balance shafts  it is a good rule of thumb to keep in mind if you ever want a halfway decent engine    if the noise really bugs you there is nothing else that you can do except to sell it and get a V6,"{
+  ""id"": ""cmpl-7zfPxUaCQTyugpYKBBUNviUm0ERwG"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nToyota, MR2, Inline 4, Balance Shafts"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 140,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 156
+  }
+}","['Toyota, MR2, Inline 4, Balance Shafts']"
+However also be aware that Implementors notes are basicly recommendations they are NOT part of the spec  As others have noted many vendors including SGI violate this  Indeed the main point is to reduce impedance changes and therefore reflections and therefore noise on the bus,"{
+  ""id"": ""cmpl-7zfPxZ93zZaO5RrdcheJF5vyEvENT"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nImplementors, Recommendations, Spec, Violate, Noise"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 68,
+    ""completion_tokens"": 15,
+    ""total_tokens"": 83
+  }
+}","['Implementors, Recommendations, Spec, Violate, Noise']"
+I think you may be chasing the wrong problem  I dont think it is the function overloading at all I do that sort of thing all of the time in BC without a hitch  The big problems I have encountered in porting MFC to BC is that fact that MFC _depends_ on a couple of invalid C assumptions  I have never gotten the _entire_ ctrltest app to run under BC but the reason is that MS makes some bad assumptions about the order in which staticglobal objects are initialized ie some objects are getting accessed before they are initialized  The problem is in the ownerdraw menu code somewhere if you comment out that section all other pieces of ctrltest work fine  Two other major gotchas I have found using MFC under BC   The CFileOpenFlags enum uses hardcoded numbers for the open mode   rather than the manifest constants defined in fcntrlh which differ   between MSC and BC   All of the MFC collection classes depend on another bad C   assumption that a reference to a base object can used be in place   of a reference to a derived object true for pointers NOT for   references  I am sure there are other problems along the same lines but I have not encountered them yet  I have not seen MFC 20 yet but I hope that some of these will be addressed  If they are not all of MSs hype about portability to other vendors compilers will be just that,"{
+  ""id"": ""cmpl-7zfPxh7COz28isq9eAZSBOxKcye40"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" hype\n\nMFC, BC, assumption, ownerdraw menu, CFile"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 314,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 330
+  }
+}","['hype\n\nMFC, BC, assumption, ownerdraw menu, CFile']"
+Hi Noel  Ive made some attempts to write a converter that reads Adobe Type 1 fonts triangulates them bevelizes them and extrudes them to result in a generic 3d object which could be used with PoV fi  The problem Im currently stuck on is that theres no algorithm which triangulates any arbitrary polygonal shape Delaunay seems to be limited to convex hulls Constrained delaunay may be okay but I have no code example of how to do it  Another way to do the bartman may be   TGA2POV  A selfmade variation of this using heightfields    Create a bw picture BIG of the text you need fi using a PostScript   previewer Then use this as a heightfield If it is white on black   the heightfield is exactly the images white parts its still open   on the backside To close it mirror it and compound it with the original  Example  object     union        height_field  gif abp2gif        height_field  gif abp2gif scale 1 1 1        texture        Glass        translate 05 0 05      center    rotate 90 0 0              rotate upwards    scale  10 5 100             scale bigger and thicker    translate 0 2 0             final placement    abp2gif is a GIF of arbitrary size containing ABP black on white in TimesRoman 256 points,"{
+  ""id"": ""cmpl-7zfPxiZVto6h0Wb2OtIfBgsxlCzsQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" 3D Fonts, Adobe Type 1, Triangulation, Convex"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 297,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 313
+  }
+}","['3D Fonts, Adobe Type 1, Triangulation, Convex']"
+Soderstrom plays with Philly but he doesnt have a moulded mask Hes got the helmet and cage variety in white  Or at least thats what he wore thirteen hours ago,"{
+  ""id"": ""cmpl-7zfPxnErDjmSo9VR03U58WJPOkhRx"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nPhilly, Soderstrom, Mask, Helmet, Cage"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 52,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 66
+  }
+}","['Philly, Soderstrom, Mask, Helmet, Cage']"
+I would like to experiment with the INTEL 8051 family  Does anyone out   there know of any good FTP sites that might have compiliers assemblers   etc,"{
+  ""id"": ""cmpl-7zfPx0fvu9EgG0fdMdVfTfl4tziQ8"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nIntel 8051, Experiment, FTP, Compilers, Assemb"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 53,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 69
+  }
+}","['Intel 8051, Experiment, FTP, Compilers, Assemb']"
+Does anyone know what processor the Atari 2600 used What Im looking for is th e pinouts for the Atari 2600 the schematics for it it does anyone have any idea where I could find this or any related information This is very impor tant Also are the ROM chips that were used fo rthe 2600 games still available  or were they propreitary Please email me with any responces as this is very  important Thanks a million  BTW Anyone who workshas worked for Atari I could really use your help with i nfo on the old 2600 please email me if you are willing to help me thatnks alot,"{
+  ""id"": ""cmpl-7zfPxqkhvQHpA4KO3PxquCNfwDpIQ"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Atari 2600, Processor, Pinouts, Schematics, ROM chips"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 144,
+    ""completion_tokens"": 14,
+    ""total_tokens"": 158
+  }
+}","['Atari 2600, Processor, Pinouts, Schematics, ROM chips']"
+Is this a figment of your imagination Here is another one    Source Mitteilungsblatt Berlin December 1939 Nr 2 and 56   Yet another historical fact a fact that for years has been deliberately   forgotten concealed and wiped from memory  the fact of ArmenianNazi   collaboration   A magazine called Mitteilungsblatt der DeutschArmenischen Gesselschaft  is the clearest and most definite proof of this collaboration The   magazine was first published in Berlin in 1938 during Nazi rule of Germany  and continued publication until the end of 1944 Even the name of the  magazine which implies a declaration of ArmenianNazi cooperation  is attentiongetting   This magazine every issue of which proves the collaboration is historically  important as documentary evidence It is a heap of writing that should be  an admonition to world opinion and to all mankind    In Nazi Germany Armenians were considered to be an Aryan race and certain  political economic and social rights were thus granted to them They   occupied positions in public service and were partners in Nazi practices  The whole world of course knows what awaited those who were not considered   Aryan and what befell them   Serdar Argic,"{
+  ""id"": ""cmpl-7zfPxWS0Vw2GCO1dEa6AInvetN4vg"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Armenian, Nazi, Collaboration, Magazine, Berlin"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 257,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 267
+  }
+}","['Armenian, Nazi, Collaboration, Magazine, Berlin']"
+Not hard you can do the refreshing and access cycles by software but this hogs most of the available CPU cycles on a lowend controller Ive seen some application note from Philips that used one of their 8051 derivatives as a printer buffer with up to 1MB of dynamic ram that was accessed and refreshed with software bitbanging  Another alternative would be to use one of those nice DRAM controller chips that create static RAM appearance and all that but they may be too expensive to make it worthwhile,"{
+  ""id"": ""cmpl-7zfPxriRP1tBBz84kpELBel6bFbRa"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nSoftware, 8051, RAM, DRAM, Bitbanging"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 117,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 133
+  }
+}","['Software, 8051, RAM, DRAM, Bitbanging']"
+As the subjects says Windows 31 keeps crashing givinh me GPF on me of   late  It was never a very stable package but now it seems to crash every   day  The worst part about it is that it does not crash consistently ie I   cant reproduce crashes and they are not always GPFs in the same   application Sometimes I can recover by simply closing the application   that caused an error but other times windows acts very strange and I   need to reboot  Some background  I have a Leading Edge 486sx25 with Phoenix BIOS  When I   first got it it had 4Mg of memory  It ran windows fine not too many   GPFs  Then a couple of weekends ago I installed Lotus 123 for windows   with ATM a game card and an additional 4  1Mg SIMMS  The Leading edge   machine is kind of strange in that it has the IDE controler built into   the motherboard the CPU is actually on a sparate board that plugs into   the motherboard and the SIMMS it uses are Macintosh SIMMS Apparently I   was told that the Leading Edge had the parity bit built into the mother   board  The original 4Mg 80ns SIMMS where of the 2 chip variety from   SAMSUNG and the ones I installed are 8 chip SIMMS They are recognized   fine by the BIOS RAM check The game card is a generic 20 gamecard  The reason why I mention the hardware like this is that sometimes   rebooting the machine using the reset button or ctlaltdel still leaves   the machine kind of flaky but turning it on and off doesnt   I havent tried taking out the RAM or the game card because as I said   these GPF are not reproducible at will  I have gone through and entire   day using the computer with no problems and then I might get 5 or so GPFs   in the sppace of 20 minutes  What can I do  This situation is most annoying Are there any good   diagnostic tools for hardware Do you think that this might be a software   problem ie EMM386 etc If it helps i have manage to get GPFs on After   Dark quicken Paint shop pro A lot of them have been in userexe or   gdiexe  Any help is truly appreciated  Eric,"{
+  ""id"": ""cmpl-7zfPxhTjzZuDIbiOnaDrNN4PDoz48"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Windows, GPF, application, BIOS, RAM"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""stop""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 484,
+    ""completion_tokens"": 10,
+    ""total_tokens"": 494
+  }
+}","['Windows, GPF, application, BIOS, RAM']"
+A note to users of PlexiFairings  If the light hits some of these just right they become a giant magnifing  glass and will melt a hole in your guage pod      DoD 8177  TechnicianDr Speed NOT Student,"{
+  ""id"": ""cmpl-7zfPx1eg39cvd5HRQgEmYQSXg6yMP"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" DoD 8177, Technician, Speed, PlexiFairings, Melt."",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 67,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 83
+  }
+}","['DoD 8177, Technician, Speed, PlexiFairings, Melt.']"
+On the back might be tricky but here in Boulder there is a guy  that can always be seen with his Golden Retriever in the sidecar Of course the dog is always wearing WWII style goggles no joke,"{
+  ""id"": ""cmpl-7zfPxhUhYZfittt90AAni6MMZF0Uf"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nGolden Retriever, WWII, Goggles, Sidecar, Boulder"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 60,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 76
+  }
+}","['Golden Retriever, WWII, Goggles, Sidecar, Boulder']"
+Here is a press release from the Reserve Officers Association   Reserve Officers Say Demographics Ignored in Nominations to Close Naval Marine Reserve Centers  To National Desk Defense Writer  Contact Herbert M Hart of the Reserve Officers Association of           the United States 2024792258     WASHINGTON April 13 US Newswire  The Reserve Officers Association of the United States has alerted the Defense Base Realignment and Closure Commission that the services failed to give sufficient weight to demographics in recommendations made to close 56 Naval and Marine Corps Reserve centers    In letters to the closure commission and to all 86 members of Congress with affected locations in their constituencies including Sen Sam Nunn DGa chairman of the Senate Armed Services Committee ROA charged that the developers of the NavyMarine list ignored demographics of the civilian population particularly prior service personnel    ROAs executive director Maj Gen Evan L Hultman AUS Ret suggested concern that the only plausible alternative is that they are intentionally attempting to foreclose the Naval Reserve components from maintaining even todays relatively low level of participation in their parent services Total Force of the future    He asked the commission to remove from consideration all locations without sufficient and convincing demographic data to warrant approval of the requested action    Only a few of the 56 Naval and Marine Corps Reserve installations on this list are large enough to have a significant impact on the community if closed wrote Hultman  The major issue is the cumulative impact of moving or closing such a large percentage of the existing locations    Hultman reminded the commission The fact that the vast majority of the Reserve installations on this list do not come close to meeting the minimal requirements for consideration in this process certainly supports the thesis that these actions are simply an attempt to foreclose a substantial role for the Navy and Marine Corps Reserve    ROA also noted that at the end of the 1960s when the number of Naval Reservists was approximately the same as today there were 480 Naval Reserve facilities  If the Navy recommendations are approved there will be less than 200 Naval Reserve facilities    Facilities on the list include seven Naval Air Stations ranging from South Weymouth Mass to Alameda Calif 28 Naval Reserve Centers in Macon Ga and Parkersburg WVa to Missoula and Great Falls Mont  NavalMarine Corps Reserve Centers include four in San Francisco Fort Wayne Ind Billings Mont and Abilene Texas    A major Marine Reserve Center on the list is that at El Toro Calif plus six others  30,"{
+  ""id"": ""cmpl-7zfPxpPc2nI9DYvuL6D0Cpl0PLHY8"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": "" Demographics, Reserve Centers, Naval Reserve, Marine Reserve, Closure Commission,"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 502,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 518
+  }
+}","['Demographics, Reserve Centers, Naval Reserve, Marine Reserve, Closure Commission,']"
+deleted  In plain Motify using a dialog inline like this simply isnt done You need to set callbacks from the buttonswidgets in your dialog and let the callback routines do the work In the callbacks you can then carry on the flow of logic   XView from Sun actually supports this very neatly with a Notify box which can return a status inline it does actualy ease coding but goes against the event driven style of an application  Summary Redesign required,"{
+  ""id"": ""cmpl-7zfPxPbdOiueDSYiX8ZazIbDVNfDr"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nRedesign, XView, Sun, Notify, Callback"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 112,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 128
+  }
+}","['Redesign, XView, Sun, Notify, Callback']"
+Are you saying that their was a physical Adam and Eve and that all  humans are direct decendents of only these two human beings  Then who  were Cain and Ables wives  Couldnt be their sisters because AE  didnt have daughters  Were they nonhumans  Genesis 54  and the days of Adam after he begat Seth were eight hundred years and he begat sons and daughters,"{
+  ""id"": ""cmpl-7zfPxxSVnRB7areYFPidErxQbJOm6"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nAdam and Eve, Cain and Abel, Genesis, Human Descendants"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 97,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 113
+  }
+}","['Adam and Eve, Cain and Abel, Genesis, Human Descendants']"
+Currently I use a shareware program called Graphics Workshop  What kinds of things will Hijaak do that these shareware programs  will not do  I also use Graphic Workshop and the only differences that I know of are that Hijaak has screen capture capabilities and acn convert tofrom a couple of more file formats dont know specifically which one  In the April 13 issue of PC Magazine they test the twelve best selling image captureconvert utilities including Hijaak,"{
+  ""id"": ""cmpl-7zfPxGVqhWgikEl2Bhfbkz1dJWezm"",
+  ""warning"": ""This model version is deprecated. Migrate before January 4, 2024 to avoid disruption of service. Learn more https://platform.openai.com/docs/deprecations"",
+  ""object"": ""text_completion"",
+  ""created"": 1694931573,
+  ""model"": ""text-davinci-003"",
+  ""choices"": [
+    {
+      ""text"": ""\n\nImage Capture, Image Conversion, Hijaak, PC Magazine, Share"",
+      ""index"": 0,
+      ""logprobs"": null,
+      ""finish_reason"": ""length""
+    }
+  ],
+  ""usage"": {
+    ""prompt_tokens"": 111,
+    ""completion_tokens"": 16,
+    ""total_tokens"": 127
+  }
+}","['Image Capture, Image Conversion, Hijaak, PC Magazine, Share']"
